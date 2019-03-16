@@ -29,9 +29,10 @@ d3.select('tbody')
 		d3.select(this)
 		.transition()
 		.duration(300)
+		
+		.style('margin',flagHovMargin)
 		.style('height','80px')
 		.style('width','80px')
-		.style('margin',flagHovMargin)
 	})
 	.on('mouseout', function(d) {
 		d3.select(this)
