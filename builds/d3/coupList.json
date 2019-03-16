@@ -1,0 +1,8558 @@
+[
+  {
+    "alpha_country": "Afghanistan",
+	"code":"AFG",
+	"flag_url":"https://www.countryflags.io/AF/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+  {
+    "month": 7,
+    "day": 17,
+    "year": 1973,
+    "outcome": 1,
+    "leader": "LTG Sardar Mohammed Daud Khan",
+    "deaths": 8,
+    "arc": ""
+  },
+  {
+    "month": 9,
+    "day": 20,
+    "year": 1973,
+    "outcome": 2,
+    "leader": "Mohammed Maiwandwal, Gen. Abdul Razak, Gen. Khan Mohammed",
+    "deaths": 0,
+    "arc": ""
+  },
+  {
+    "month": 11,
+    "day": 30,
+    "year": 1973,
+    "outcome": 2,
+    "leader": "Gen. Mir Ahmed Shah",
+    "deaths": 999,
+    "arc": ""
+  },
+  {
+    "month": 12,
+    "day": "",
+    "year": 1973,
+    "outcome": 2,
+    "leader": "not specified",
+    "deaths": 0,
+    "arc": ""
+  },
+  {
+    "month": 4,
+    "day": 27,
+    "year": 1978,
+    "outcome": 1,
+    "leader": "Col. Abdul Qadir; Nur Muhhamad Taraki",
+    "deaths": 35,
+    "arc": ""
+  },
+  {
+    "month": 3,
+    "day": 27,
+    "year": 1979,
+    "outcome": 1,
+    "leader": "Hafizullah Amin",
+    "deaths": 1,
+    "arc": ""
+  },
+  {
+    "month": 10,
+    "day": 15,
+    "year": 1979,
+    "outcome": 2,
+    "leader": "unspecified",
+    "deaths": 0,
+    "arc": ""
+  },
+  {
+    "month": 12,
+    "day": 27,
+    "year": 1979,
+    "outcome": 1,
+    "leader": "Babrak Karmal",
+    "deaths": 3000,
+    "arc": ""
+  },
+  {
+    "month": 1,
+    "day": "",
+    "year": 1987,
+    "outcome": 4,
+    "leader": "supporters of Karmal",
+    "deaths": 0,
+    "arc": ""
+  },
+  {
+    "month": 3,
+    "day": "",
+    "year": 1990,
+    "outcome": 2,
+    "leader": "LTG Shahnawaz Tanay",
+    "deaths": 200,
+    "arc": ""
+  },
+  {
+    "month": 4,
+    "day": 15,
+    "year": 1992,
+    "outcome": 1,
+    "leader": "Muhaheddin guerrillas; Ahmed Shah Masud",
+    "deaths": 999,
+    "arc": ""
+  },
+  {
+    "month": 4,
+    "day": 4,
+    "year": 2002,
+    "outcome": 2,
+    "leader": "supporters of Gulbuddin Hekmatyar",
+    "deaths": 999,
+    "arc": ""
+  }
+    ],
+    "count": 12
+  },
+  
+  {
+	"alpha_country":"Albania,",
+	"code":"ALB,",
+	"flag_url":"https://www.countryflags.io/AL/flat/64.png",
+	"worldbank_data":"",
+	"coups":[
+	{
+    "month": 9,
+    "day": 13,
+    "year": 1998,
+    "outcome": 2,
+    "leader": "supporters of Berisha",
+    "deaths": 0,
+    "arc": ""
+	}
+	],
+	"count": 1
+	},
+  {
+    "alpha_country": "Angola",
+	"code":"AGO",
+	"flag_url":"https://www.countryflags.io/AO/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Angola",
+        "month": "5",
+        "day": "27",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "200",
+        "arc": null,
+        "leader": "Cdr. Nito Alves, Jose van Dunen"
+      },
+      {
+        "country": "Angola",
+        "month": "3",
+        "day": "29",
+        "outcome": "4",
+        "year": "2016",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Luanda Book Club"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Argentina",
+	"code":"ARG",
+	"flag_url":"https://www.countryflags.io/AR/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Argentina",
+        "month": "6",
+        "day": "13",
+        "outcome": "2",
+        "year": "1960",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Fortunato Giovannoni"
+      },
+      {
+        "country": "Argentina",
+        "month": "8",
+        "day": "11",
+        "outcome": "2",
+        "year": "1961",
+        "deaths": "0",
+        "arc": null,
+        "leader": "dissident officers of Air Force"
+      },
+      {
+        "country": "Argentina",
+        "month": "3",
+        "day": "29",
+        "outcome": "1",
+        "year": "1962",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Raúl Poggi,\"Gorillas\" ultraconservatives"
+      },
+      {
+        "country": "Argentina",
+        "month": "3",
+        "day": "11",
+        "outcome": "3",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Brig. Alsina"
+      },
+      {
+        "country": "Argentina",
+        "month": "4",
+        "day": "2",
+        "outcome": "2",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Menendez, Gen. Toranzo"
+      },
+      {
+        "country": "Argentina",
+        "month": "6",
+        "day": "28",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Pistarini, Adm. Varela, BG Alvarez"
+      },
+      {
+        "country": "Argentina",
+        "month": "6",
+        "day": "8",
+        "outcome": "1",
+        "year": "1970",
+        "deaths": "0",
+        "arc": null,
+        "leader": "junta leaders; Levingston"
+      },
+      {
+        "country": "Argentina",
+        "month": "3",
+        "day": "22",
+        "outcome": "1",
+        "year": "1971",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTG Lausse, Adm. Gnavi, BG Rey"
+      },
+      {
+        "country": "Argentina",
+        "month": "10",
+        "day": null,
+        "outcome": "2",
+        "year": "1971",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Argentina",
+        "month": "3",
+        "day": "24",
+        "outcome": "1",
+        "year": "1976",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "Gen. Jorge Rafael Videla"
+      },
+      {
+        "country": "Argentina",
+        "month": "12",
+        "day": "3",
+        "outcome": "2",
+        "year": "1990",
+        "deaths": "21",
+        "arc": null,
+        "leader": "in support of Col. Mohamed Ali Scineldin"
+      }
+    ],
+    "count": 11
+  },
+  {
+    "alpha_country": "Armenia",
+	"code":"ARM",
+	"flag_url":"https://www.countryflags.io/AM/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Armenia",
+        "month": "7",
+        "day": "29",
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Vagan Ovanesyan"
+      },
+      {
+        "country": "Armenia",
+        "month": "10",
+        "day": null,
+        "outcome": "2",
+        "year": "1999",
+        "deaths": "8",
+        "arc": null,
+        "leader": "Nairi Hunanian"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Azerbaijan",
+	"code":"AZE",
+	"flag_url":"https://www.countryflags.io/AZ/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Azerbaijan",
+        "month": "10",
+        "day": null,
+        "outcome": "2",
+        "year": "1994",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Ravshan Javadov"
+      },
+      {
+        "country": "Azerbaijan",
+        "month": "3",
+        "day": "13",
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Ravshan Javadov"
+      },
+      {
+        "country": "Azerbaijan",
+        "month": "7",
+        "day": null,
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Ayaz Mutalibov"
+      },
+      {
+        "country": "Azerbaijan",
+        "month": "10",
+        "day": null,
+        "outcome": "2",
+        "year": "1996",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Mutalibov, Surat Guseinov"
+      },
+      {
+        "country": "Azerbaijan",
+        "month": "2",
+        "day": null,
+        "outcome": "4",
+        "year": "1997",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Mutalibov"
+      },
+      {
+        "country": "Azerbaijan",
+        "month": "1",
+        "day": null,
+        "outcome": "4",
+        "year": "1998",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Tasul Guliyev"
+      },
+      {
+        "country": "Azerbaijan",
+        "month": "3",
+        "day": null,
+        "outcome": "4",
+        "year": "2000",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Rasul Guliev"
+      },
+      {
+        "country": "Azerbaijan",
+        "month": "10",
+        "day": "19",
+        "outcome": "4",
+        "year": "2005",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Farhad Aliyev; Rasul Guliev"
+      },
+      {
+        "country": "Azerbaijan",
+        "month": "1",
+        "day": "20",
+        "outcome": "4",
+        "year": "2011",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Movsum Samadov; Islamic Party of Azerbaijan"
+      }
+    ],
+    "count": 9
+  },
+  {
+    "alpha_country": "Bahrain",
+	"code":"BHR",
+	"flag_url":"https://www.countryflags.io/BH/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Bahrain",
+        "month": "12",
+        "day": "13",
+        "outcome": "4",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Bahrain",
+        "month": "9",
+        "day": "5",
+        "outcome": "4",
+        "year": "2010",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Abduljalil al-Singace, Hassan Ali Mushaima, Haq Movement of Liberty and Democracy"
+      },
+      {
+        "country": "Bahrain",
+        "month": "6",
+        "day": "12",
+        "outcome": "4",
+        "year": "2011",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Matar Matar, Jawad Fairouz, Al Wefaq National Islamic Society"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Bangladesh",
+	"code":"BGD",
+	"flag_url":"https://www.countryflags.io/BD/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Bangladesh",
+        "month": "8",
+        "day": "15",
+        "outcome": "1",
+        "year": "1975",
+        "deaths": "9",
+        "arc": "1",
+        "leader": "Maj. Shariful Huq Dalim"
+      },
+      {
+        "country": "Bangladesh",
+        "month": "11",
+        "day": "7",
+        "outcome": "2",
+        "year": "1975",
+        "deaths": "200",
+        "arc": null,
+        "leader": "Brig. Khalid Musharaf"
+      },
+      {
+        "country": "Bangladesh",
+        "month": "11",
+        "day": "8",
+        "outcome": "1",
+        "year": "1976",
+        "deaths": "7",
+        "arc": null,
+        "leader": "BG Musharaf"
+      },
+      {
+        "country": "Bangladesh",
+        "month": "10",
+        "day": "2",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "230",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Bangladesh",
+        "month": "10",
+        "day": "17",
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "0",
+        "arc": null,
+        "leader": "4 colonels incl. Col. Alam, Col. Rashid"
+      },
+      {
+        "country": "Bangladesh",
+        "month": "5",
+        "day": "30",
+        "outcome": "2",
+        "year": "1981",
+        "deaths": "100",
+        "arc": null,
+        "leader": "MG Mohammed Abul Manzur"
+      },
+      {
+        "country": "Bangladesh",
+        "month": "3",
+        "day": "24",
+        "outcome": "1",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTG Hossain Mohammed Ershad"
+      },
+      {
+        "country": "Bangladesh",
+        "month": "5",
+        "day": "20",
+        "outcome": "2",
+        "year": "1996",
+        "deaths": "999",
+        "arc": null,
+        "leader": "LTG Abu Saleh Mohammed Nasim"
+      },
+      {
+        "country": "Bangladesh",
+        "month": "1",
+        "day": "11",
+        "outcome": "1",
+        "year": "2007",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Chief of Army Staff Lt-Gen. Moeen U. Ahmed; Chief Adviser Fakhruddin Ahmed; Maj-Gen. M.A. Matin"
+      },
+      {
+        "country": "Bangladesh",
+        "month": "1",
+        "day": "19",
+        "outcome": "3",
+        "year": "2012",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Ziaul Haq; Lt.Col. Ehsan Yusuf; Maj. Rakir; Hizbut-Tahrir"
+      }
+    ],
+    "count": 10
+  },
+  {
+    "alpha_country": "Belarus",
+	"code":"BLR",
+	"flag_url":"https://www.countryflags.io/BY/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Belarus",
+        "month": "1",
+        "day": null,
+        "outcome": "4",
+        "year": "1998",
+        "deaths": "999",
+        "arc": null,
+        "leader": "opposition parties"
+      },
+      {
+        "country": "Belarus",
+        "month": "3",
+        "day": "21",
+        "outcome": "4",
+        "year": "2017",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Benin",
+	"code":"BEN",
+	"flag_url":"https://www.countryflags.io/BJ/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Benin",
+        "month": "10",
+        "day": "28",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "Gen. Christophe Soglo"
+      },
+      {
+        "country": "Benin",
+        "month": "5",
+        "day": "20",
+        "outcome": "3",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Valentin Djibude Aplogan and \"Committee of 104\""
+      },
+      {
+        "country": "Benin",
+        "month": "12",
+        "day": "22",
+        "outcome": "1",
+        "year": "1965",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Soglo"
+      },
+      {
+        "country": "Benin",
+        "month": "12",
+        "day": "17",
+        "outcome": "1",
+        "year": "1967",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Alley"
+      },
+      {
+        "country": "Benin",
+        "month": "12",
+        "day": "10",
+        "outcome": "1",
+        "year": "1969",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Lt.Col. Maurice Kouandete, Lt.Col. Benoit Sinzogan"
+      },
+      {
+        "country": "Benin",
+        "month": "2",
+        "day": "23",
+        "outcome": "2",
+        "year": "1972",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Col. Maurice Kouandete"
+      },
+      {
+        "country": "Benin",
+        "month": "10",
+        "day": "26",
+        "outcome": "1",
+        "year": "1972",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Maj. Mathieu Kerekou"
+      },
+      {
+        "country": "Benin",
+        "month": "2",
+        "day": "28",
+        "outcome": "3",
+        "year": "1973",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Alphonse Alley, Maj. Jean-Baptiste Hacheme, Maj. Ibrahim Chafi"
+      },
+      {
+        "country": "Benin",
+        "month": "1",
+        "day": "22",
+        "outcome": "2",
+        "year": "1975",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Capt. Janvier Assogba, Dr. Emile Derlin Zinsou, and others"
+      },
+      {
+        "country": "Benin",
+        "month": "10",
+        "day": "18",
+        "outcome": "4",
+        "year": "1975",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Dr. Emile Derlin Zinsou"
+      },
+      {
+        "country": "Benin",
+        "month": "1",
+        "day": "16",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "8",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Benin",
+        "month": "3",
+        "day": "26",
+        "outcome": "2",
+        "year": "1988",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Capt. Hountoundji"
+      },
+      {
+        "country": "Benin",
+        "month": "5",
+        "day": null,
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Pascal Tawes"
+      },
+      {
+        "country": "Benin",
+        "month": "11",
+        "day": "15",
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "1",
+        "arc": null,
+        "leader": "incl. Col. Dankoro, Mr. Chidiac"
+      },
+      {
+        "country": "Benin",
+        "month": "2",
+        "day": "22",
+        "outcome": "3",
+        "year": "2013",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Pamphile Zamahoun; Johannes Dagnon"
+      }
+    ],
+    "count": 15
+  },
+  {
+    "alpha_country": "Bolivia",
+	"code":"BOL",
+	"flag_url":"https://www.countryflags.io/BO/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Bolivia",
+        "month": "11",
+        "day": "4",
+        "outcome": "1",
+        "year": "1964",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Rene Barrientos"
+      },
+      {
+        "country": "Bolivia",
+        "month": "8",
+        "day": "21",
+        "outcome": "2",
+        "year": "1968",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Ovando"
+      },
+      {
+        "country": "Bolivia",
+        "month": "9",
+        "day": "26",
+        "outcome": "1",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Alfredo Ovando Candia"
+      },
+      {
+        "country": "Bolivia",
+        "month": "10",
+        "day": "5",
+        "outcome": "2",
+        "year": "1970",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Miranda"
+      },
+      {
+        "country": "Bolivia",
+        "month": "10",
+        "day": "6",
+        "outcome": "1",
+        "year": "1970",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Juan Jose Torres"
+      },
+      {
+        "country": "Bolivia",
+        "month": "1",
+        "day": "10",
+        "outcome": "2",
+        "year": "1971",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Banzer, Col. Valencia"
+      },
+      {
+        "country": "Bolivia",
+        "month": "8",
+        "day": "22",
+        "outcome": "1",
+        "year": "1971",
+        "deaths": "70",
+        "arc": null,
+        "leader": "Col. Hugo Banzer"
+      },
+      {
+        "country": "Bolivia",
+        "month": "1",
+        "day": "30",
+        "outcome": "4",
+        "year": "1974",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Fladio Sanchez Gironda"
+      },
+      {
+        "country": "Bolivia",
+        "month": "6",
+        "day": "5",
+        "outcome": "2",
+        "year": "1974",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Ciro Humboldt, Carlos Valverde"
+      },
+      {
+        "country": "Bolivia",
+        "month": "11",
+        "day": "7",
+        "outcome": "2",
+        "year": "1974",
+        "deaths": "10",
+        "arc": null,
+        "leader": "Gen. Julio Prude Salmon"
+      },
+      {
+        "country": "Bolivia",
+        "month": "3",
+        "day": "23",
+        "outcome": "3",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Bolivia",
+        "month": "4",
+        "day": "4",
+        "outcome": "3",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Bolivia",
+        "month": "7",
+        "day": "21",
+        "outcome": "1",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Juan Peredo Asbun"
+      },
+      {
+        "country": "Bolivia",
+        "month": "10",
+        "day": "29",
+        "outcome": "4",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Bolivia",
+        "month": "11",
+        "day": "24",
+        "outcome": "1",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. David Padilla Arancibia"
+      },
+      {
+        "country": "Bolivia",
+        "month": "11",
+        "day": "1",
+        "outcome": "1",
+        "year": "1979",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Alberto Natusch Busch"
+      },
+      {
+        "country": "Bolivia",
+        "month": "7",
+        "day": "17",
+        "outcome": "1",
+        "year": "1980",
+        "deaths": "30",
+        "arc": null,
+        "leader": "Gen. Luis Garcia Meza"
+      },
+      {
+        "country": "Bolivia",
+        "month": "6",
+        "day": "27",
+        "outcome": "2",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gens. Cayoja & Anez"
+      },
+      {
+        "country": "Bolivia",
+        "month": "8",
+        "day": "3",
+        "outcome": "2",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Lucio Añez Rivero, Gen. Alberto Natusch Busch"
+      },
+      {
+        "country": "Bolivia",
+        "month": "6",
+        "day": "30",
+        "outcome": "2",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Rolando Saravia Ortuno"
+      },
+      {
+        "country": "Bolivia",
+        "month": "12",
+        "day": "29",
+        "outcome": "4",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Jose Olvio Arias"
+      },
+      {
+        "country": "Bolivia",
+        "month": "1",
+        "day": "16",
+        "outcome": "3",
+        "year": "1985",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Saravia"
+      },
+      {
+        "country": "Bolivia",
+        "month": "4",
+        "day": "16",
+        "outcome": "3",
+        "year": "2009",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Sanchez de Lozada, Carlos Sanchez Barzain, Jorge Berindoague Alcocer"
+      }
+    ],
+    "count": 23
+  },
+  {
+    "alpha_country": "Brazil",
+	"code":"BRA",
+	"flag_url":"https://www.countryflags.io/BR/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Brazil",
+        "month": "4",
+        "day": "1",
+        "outcome": "1",
+        "year": "1964",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Castello Branco"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Bulgaria",
+	"code":"BGR",
+	"flag_url":"https://www.countryflags.io/BG/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Bulgaria",
+        "month": "4",
+        "day": "7",
+        "outcome": "3",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Tsolo Krustev Kamanov, MG Tsvetko Anev, Ivan Todorov-Gorunya"
+      },
+      {
+        "country": "Bulgaria",
+        "month": "11",
+        "day": "10",
+        "outcome": "1",
+        "year": "1989",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Petur Mladenov"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Burkina Faso",
+	"code":"BKR",
+	"flag_url":"https://www.countryflags.io/BF/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Burkina Faso",
+        "month": "1",
+        "day": "3",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTC Sangoule Lamizana"
+      },
+      {
+        "country": "Burkina Faso",
+        "month": "11",
+        "day": "25",
+        "outcome": "1",
+        "year": "1980",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Col. Saye Zerbo"
+      },
+      {
+        "country": "Burkina Faso",
+        "month": "11",
+        "day": "7",
+        "outcome": "1",
+        "year": "1982",
+        "deaths": "20",
+        "arc": null,
+        "leader": "Maj. Jean-Baptiste Ouedraogo"
+      },
+      {
+        "country": "Burkina Faso",
+        "month": "8",
+        "day": "4",
+        "outcome": "1",
+        "year": "1983",
+        "deaths": "13",
+        "arc": null,
+        "leader": "Capt. Thomas Sankara"
+      },
+      {
+        "country": "Burkina Faso",
+        "month": "10",
+        "day": "15",
+        "outcome": "1",
+        "year": "1987",
+        "deaths": "100",
+        "arc": null,
+        "leader": "Capt. Blaise Campaore"
+      },
+      {
+        "country": "Burkina Faso",
+        "month": "10",
+        "day": "20",
+        "outcome": "4",
+        "year": "2003",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Norbert Tiendrebeogo, Capt. Luther Diapagri Ouali"
+      },
+      {
+        "country": "Burkina Faso",
+        "month": "9",
+        "day": "16",
+        "outcome": "2",
+        "year": "2015",
+        "deaths": "10",
+        "arc": null,
+        "leader": "Gen. Gilbert Diendéré;Presidential Security Regiment"
+      }
+    ],
+    "count": 7
+  },
+  {
+    "alpha_country": "Burma (Myanmar)",
+	"code":"MMR",
+	"flag_url":"https://www.countryflags.io/MM/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Burma (Myanmar)",
+        "month": "3",
+        "day": "2",
+        "outcome": "1",
+        "year": "1962",
+        "deaths": "1",
+        "arc": "1",
+        "leader": "Gen. Ne Win"
+      },
+      {
+        "country": "Burma (Myanmar)",
+        "month": "7",
+        "day": "2",
+        "outcome": "3",
+        "year": "1976",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Capts. Ohn Kyaw Myint, Win Thein, & Tun Kyaw"
+      },
+      {
+        "country": "Burma (Myanmar)",
+        "month": "9",
+        "day": "18",
+        "outcome": "1",
+        "year": "1988",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gen. Saw Maung"
+      },
+      {
+        "country": "Burma (Myanmar)",
+        "month": "3",
+        "day": "7",
+        "outcome": "3",
+        "year": "2002",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Ne Win, Sandar Win, Aye Zaw Win"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Burundi",
+	"code":"BDI",
+	"flag_url":"https://www.countryflags.io/BI/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Burundi",
+        "month": "10",
+        "day": "18",
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "101",
+        "arc": null,
+        "leader": "Antoine Serukwaku"
+      },
+      {
+        "country": "Burundi",
+        "month": "7",
+        "day": "8",
+        "outcome": "2",
+        "year": "1966",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Prince Charles Ndizeye"
+      },
+      {
+        "country": "Burundi",
+        "month": "11",
+        "day": "28",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Capt. Michel Micombero"
+      },
+      {
+        "country": "Burundi",
+        "month": "5",
+        "day": null,
+        "outcome": "4",
+        "year": "1972",
+        "deaths": "100000",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Burundi",
+        "month": "11",
+        "day": "1",
+        "outcome": "1",
+        "year": "1976",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTC Jean-Baptiste Bagaza"
+      },
+      {
+        "country": "Burundi",
+        "month": "9",
+        "day": "3",
+        "outcome": "1",
+        "year": "1987",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Pierre Buyoya"
+      },
+      {
+        "country": "Burundi",
+        "month": "3",
+        "day": "4",
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Former President Jean-Baptiste Bagaza"
+      },
+      {
+        "country": "Burundi",
+        "month": "7",
+        "day": "3",
+        "outcome": "2",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "officers loyal to Buyoya"
+      },
+      {
+        "country": "Burundi",
+        "month": "10",
+        "day": "21",
+        "outcome": "2",
+        "year": "1993",
+        "deaths": "150000",
+        "arc": null,
+        "leader": "LTG Bikomagu, Francois Ngeze"
+      },
+      {
+        "country": "Burundi",
+        "month": "4",
+        "day": "25",
+        "outcome": "2",
+        "year": "1994",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Tutsi paratroopers"
+      },
+      {
+        "country": "Burundi",
+        "month": "7",
+        "day": "25",
+        "outcome": "1",
+        "year": "1996",
+        "deaths": "6000",
+        "arc": null,
+        "leader": "army"
+      },
+      {
+        "country": "Burundi",
+        "month": "4",
+        "day": "18",
+        "outcome": "2",
+        "year": "2001",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Lt. Paseur Ntarutimana"
+      },
+      {
+        "country": "Burundi",
+        "month": "7",
+        "day": "22",
+        "outcome": "2",
+        "year": "2001",
+        "deaths": "3",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Burundi",
+        "month": "3",
+        "day": "6",
+        "outcome": "3",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Burundi",
+        "month": "8",
+        "day": null,
+        "outcome": "4",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Alphonse-Marie Kadege, former-President Domitien Ndayizeye"
+      },
+      {
+        "country": "Burundi",
+        "month": "1",
+        "day": "29",
+        "outcome": "3",
+        "year": "2010",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified (13 soldiers arrested)"
+      },
+      {
+        "country": "Burundi",
+        "month": "5",
+        "day": "13",
+        "outcome": "2",
+        "year": "2015",
+        "deaths": "12",
+        "arc": null,
+        "leader": "Maj. Gen. Godefroid Niyombare"
+      }
+    ],
+    "count": 17
+  },
+  {
+    "alpha_country": "Cambodia",
+	"code":"KHM",
+	"flag_url":"https://www.countryflags.io/KH/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Cambodia",
+        "month": "3",
+        "day": "18",
+        "outcome": "1",
+        "year": "1970",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Lon Nol"
+      },
+      {
+        "country": "Cambodia",
+        "month": "9",
+        "day": null,
+        "outcome": "2",
+        "year": "1975",
+        "deaths": "999",
+        "arc": null,
+        "leader": "not known"
+      },
+      {
+        "country": "Cambodia",
+        "month": "4",
+        "day": null,
+        "outcome": "2",
+        "year": "1976",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cambodia",
+        "month": "9",
+        "day": null,
+        "outcome": "2",
+        "year": "1976",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cambodia",
+        "month": "4",
+        "day": null,
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cambodia",
+        "month": "9",
+        "day": null,
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cambodia",
+        "month": "2",
+        "day": null,
+        "outcome": "3",
+        "year": "1978",
+        "deaths": "500",
+        "arc": null,
+        "leader": "administrators of 4 provinces"
+      },
+      {
+        "country": "Cambodia",
+        "month": "5",
+        "day": null,
+        "outcome": "2",
+        "year": "1978",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cambodia",
+        "month": "7",
+        "day": "27",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "3",
+        "arc": null,
+        "leader": "Chea Sim"
+      },
+      {
+        "country": "Cambodia",
+        "month": "7",
+        "day": null,
+        "outcome": "4",
+        "year": "1994",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Norodom Chakkra Pong, Gen. Sin Song"
+      },
+      {
+        "country": "Cambodia",
+        "month": "7",
+        "day": "5",
+        "outcome": "1",
+        "year": "1997",
+        "deaths": "70",
+        "arc": "1",
+        "leader": "Hun Sen"
+      },
+      {
+        "country": "Cambodia",
+        "month": "11",
+        "day": "24",
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "8",
+        "arc": null,
+        "leader": "Chhun Yasith"
+      }
+    ],
+    "count": 12
+  },
+  {
+    "alpha_country": "Cameroon",
+	"code":"CMR",
+	"flag_url":"https://www.countryflags.io/CM/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Cameroon",
+        "month": "5",
+        "day": null,
+        "outcome": "3",
+        "year": "1969",
+        "deaths": "3",
+        "arc": null,
+        "leader": "Celestin Takala, Gabriel Tabeu, Ernest Ouandie, Bishop Albert Ndongmo"
+      },
+      {
+        "country": "Cameroon",
+        "month": "8",
+        "day": "22",
+        "outcome": "3",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Ibrahim Oumharou, Capt. Adamou Saleh, former President Ahamdou Ahidjo"
+      },
+      {
+        "country": "Cameroon",
+        "month": "4",
+        "day": "6",
+        "outcome": "2",
+        "year": "1984",
+        "deaths": "750",
+        "arc": null,
+        "leader": "Capt. Ibrahim Saleh, former President Ahmadou Ahidjo"
+      },
+      {
+        "country": "Cameroon",
+        "month": "8",
+        "day": null,
+        "outcome": "3",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Oumharou, Capt. Salaton"
+      },
+      {
+        "country": "Cameroon",
+        "month": "5",
+        "day": null,
+        "outcome": "3",
+        "year": "1994",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Cdr. Mbia Meka"
+      },
+      {
+        "country": "Cameroon",
+        "month": "7",
+        "day": "17",
+        "outcome": "3",
+        "year": "2010",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 6
+  },
+  {
+    "alpha_country": "Cape Verde",
+	"code":"CPV",
+	"flag_url":"https://www.countryflags.io/CV/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Cape Verde",
+        "month": "6",
+        "day": "14",
+        "outcome": "3",
+        "year": "1977",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified; 40 arrested"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Central African Rep.",
+	"code":"CAF",
+	"flag_url":"https://www.countryflags.io/CF/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Central African Rep.",
+        "month": "1",
+        "day": "1",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "8",
+        "arc": null,
+        "leader": "Col. Jean Bedel Bokassa"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "4",
+        "day": "10",
+        "outcome": "2",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTC Banza"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "11",
+        "day": null,
+        "outcome": "2",
+        "year": "1974",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Gen. Lingoupon"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "9",
+        "day": "20",
+        "outcome": "1",
+        "year": "1979",
+        "deaths": "999",
+        "arc": null,
+        "leader": "David Dacko"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "9",
+        "day": "1",
+        "outcome": "1",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Andre Kolingba"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "3",
+        "day": "3",
+        "outcome": "2",
+        "year": "1983",
+        "deaths": "5",
+        "arc": null,
+        "leader": "Ange Patasse, Gen. Alphonse Mbaikoua, Gen. Francios Bozize"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "11",
+        "day": "15",
+        "outcome": "2",
+        "year": "1996",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified (army mutiny)"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "5",
+        "day": "28",
+        "outcome": "2",
+        "year": "2001",
+        "deaths": "300",
+        "arc": null,
+        "leader": "Andre Kolingba (alleged)"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "3",
+        "day": "15",
+        "outcome": "1",
+        "year": "2003",
+        "deaths": "15",
+        "arc": "1",
+        "leader": "Gen. Francois Bozize"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "3",
+        "day": "14",
+        "outcome": "4",
+        "year": "2010",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Ange-Felix Patasse"
+      },
+      {
+        "country": "Central African Rep.",
+        "month": "12",
+        "day": "26",
+        "outcome": "2",
+        "year": "2013",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Christian \"anti-Balaka\" militias"
+      }
+    ],
+    "count": 11
+  },
+  {
+    "alpha_country": "Chad",
+	"code":"TCD",
+	"flag_url":"https://www.countryflags.io/TD/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Chad",
+        "month": "3",
+        "day": "22",
+        "outcome": "3",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Nassour, Abdelkrim, Alatchimi, Bono, Hassane, Kosso, and 86 others"
+      },
+      {
+        "country": "Chad",
+        "month": "11",
+        "day": "19",
+        "outcome": "3",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Robert Delsia Soussia, Mahamat Baroud, Mahamat el Goni"
+      },
+      {
+        "country": "Chad",
+        "month": "8",
+        "day": "26",
+        "outcome": "2",
+        "year": "1971",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Ahmed Abdallah"
+      },
+      {
+        "country": "Chad",
+        "month": "4",
+        "day": "13",
+        "outcome": "1",
+        "year": "1975",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gen. Noel Odingar, Lt. Dimtoloum"
+      },
+      {
+        "country": "Chad",
+        "month": "4",
+        "day": "13",
+        "outcome": "2",
+        "year": "1976",
+        "deaths": "12",
+        "arc": null,
+        "leader": "Hassan Abakar Adef (Frolinat)"
+      },
+      {
+        "country": "Chad",
+        "month": "4",
+        "day": "1",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "17",
+        "arc": null,
+        "leader": "SubLt. Brahim Abakar Koumba"
+      },
+      {
+        "country": "Chad",
+        "month": "6",
+        "day": "7",
+        "outcome": "1",
+        "year": "1982",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Hissene Habre"
+      },
+      {
+        "country": "Chad",
+        "month": "4",
+        "day": "1",
+        "outcome": "2",
+        "year": "1989",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Brahim Itno, Hassan Djamoussi, Idriss Deby"
+      },
+      {
+        "country": "Chad",
+        "month": "12",
+        "day": "1",
+        "outcome": "1",
+        "year": "1990",
+        "deaths": "5000",
+        "arc": null,
+        "leader": "Idriss Deby"
+      },
+      {
+        "country": "Chad",
+        "month": "10",
+        "day": "13",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "4",
+        "arc": null,
+        "leader": "Maldom Bada Abbas"
+      },
+      {
+        "country": "Chad",
+        "month": "2",
+        "day": "21",
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "13",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Chad",
+        "month": "6",
+        "day": "18",
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Abbas Koty"
+      },
+      {
+        "country": "Chad",
+        "month": "1",
+        "day": "27",
+        "outcome": "2",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Toke"
+      },
+      {
+        "country": "Chad",
+        "month": "3",
+        "day": "15",
+        "outcome": "3",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Chad",
+        "month": "4",
+        "day": "13",
+        "outcome": "2",
+        "year": "2006",
+        "deaths": "400",
+        "arc": null,
+        "leader": "rebel forces"
+      },
+      {
+        "country": "Chad",
+        "month": "2",
+        "day": "2",
+        "outcome": "2",
+        "year": "2008",
+        "deaths": "165",
+        "arc": null,
+        "leader": "Mahamat Nouri (UFDD); Timane Erdini (RFC); Abdelwahid Aboud Mackaye"
+      },
+      {
+        "country": "Chad",
+        "month": "5",
+        "day": "1",
+        "outcome": "3",
+        "year": "2013",
+        "deaths": "26",
+        "arc": null,
+        "leader": "Gen. Weiddig Assi Assoue; Gen. Ngomine Beadmadji David; Mahamat Malloum; Saleh Makki"
+      }
+    ],
+    "count": 17
+  },
+  {
+    "alpha_country": "Chile",
+	"code":"https://www.countryflags.io/CL/flat/64.png",
+	"flag_url":"CHL",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Chile",
+        "month": "6",
+        "day": "29",
+        "outcome": "2",
+        "year": "1973",
+        "deaths": "22",
+        "arc": null,
+        "leader": "Col. Roberto Souper Onfray, Dr. Pablo Rodgriguez Grez, Benjamin Matte"
+      },
+      {
+        "country": "Chile",
+        "month": "9",
+        "day": "11",
+        "outcome": "1",
+        "year": "1973",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "leaders of Army, Navy, AF, & National Police; Gen. Pinochet"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "China",
+	"code":"CHN",
+	"flag_url":"https://www.countryflags.io/CN/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "China",
+        "month": "12",
+        "day": "4",
+        "outcome": "3",
+        "year": "1966",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Peng Chen, Lo Jui-ching, Lu Ting-yi, Yang Shang-kun"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Comoros",
+	"code":"COM",
+	"flag_url":"https://www.countryflags.io/KM/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Comoros",
+        "month": "8",
+        "day": "3",
+        "outcome": "1",
+        "year": "1975",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "Bob Denard, Said Mohammed Jaffar, Ali Soilih"
+      },
+      {
+        "country": "Comoros",
+        "month": "4",
+        "day": "2",
+        "outcome": "3",
+        "year": "1976",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Ali Mroudjae, Sald Hachim, Sald Bakar Tourqui"
+      },
+      {
+        "country": "Comoros",
+        "month": "6",
+        "day": "4",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Comoros",
+        "month": "1",
+        "day": "14",
+        "outcome": "3",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Ali Mohamed"
+      },
+      {
+        "country": "Comoros",
+        "month": "5",
+        "day": "12",
+        "outcome": "1",
+        "year": "1978",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Bob Denard, Ahmed Abdallah Abderemane, Said Atthoumani"
+      },
+      {
+        "country": "Comoros",
+        "month": "2",
+        "day": "14",
+        "outcome": "4",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "various"
+      },
+      {
+        "country": "Comoros",
+        "month": "3",
+        "day": "8",
+        "outcome": "4",
+        "year": "1985",
+        "deaths": "3",
+        "arc": null,
+        "leader": "incl. Mustapha Said Cheikh"
+      },
+      {
+        "country": "Comoros",
+        "month": "11",
+        "day": "30",
+        "outcome": "2",
+        "year": "1987",
+        "deaths": "999",
+        "arc": null,
+        "leader": "members of Presidential Guard"
+      },
+      {
+        "country": "Comoros",
+        "month": "8",
+        "day": "3",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Ibrahim Ahmed Halidi"
+      },
+      {
+        "country": "Comoros",
+        "month": "9",
+        "day": "26",
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Lt. Abderamane Abdallah, Lt. Cheikh Abdallah"
+      },
+      {
+        "country": "Comoros",
+        "month": "9",
+        "day": "27",
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "3",
+        "arc": null,
+        "leader": "Bob Denard (mercenary)"
+      },
+      {
+        "country": "Comoros",
+        "month": "4",
+        "day": "30",
+        "outcome": "1",
+        "year": "1999",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Col. Azali Assoumani"
+      },
+      {
+        "country": "Comoros",
+        "month": "3",
+        "day": "21",
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Capt. Abderame Ahmed Abdallah"
+      },
+      {
+        "country": "Comoros",
+        "month": "4",
+        "day": "22",
+        "outcome": "3",
+        "year": "2013",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Mahmoud Ahmed Abdallah, Patrick Klein"
+      }
+    ],
+    "count": 14
+  },
+  {
+    "alpha_country": "Congo-Brazzaville",
+	"code":"COG",
+	"flag_url":"https://www.countryflags.io/CG/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Congo-Brazzaville",
+        "month": "8",
+        "day": "15",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Debat"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "2",
+        "day": "26",
+        "outcome": "3",
+        "year": "1967",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Defense civile"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "1",
+        "day": "17",
+        "outcome": "2",
+        "year": "1968",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unknown"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "5",
+        "day": "13",
+        "outcome": "2",
+        "year": "1968",
+        "deaths": "0",
+        "arc": null,
+        "leader": "commando group"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "8",
+        "day": "2",
+        "outcome": "2",
+        "year": "1968",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Capt. Marien Ngouabi, Lt. Poignet"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "9",
+        "day": "4",
+        "outcome": "1",
+        "year": "1968",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Capt. Ngouabi, Capt. Raoul"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "11",
+        "day": "8",
+        "outcome": "2",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "M. Bernard Kolela"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "3",
+        "day": "23",
+        "outcome": "2",
+        "year": "1970",
+        "deaths": "32",
+        "arc": null,
+        "leader": "Lt. Pierre Kikanga"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "2",
+        "day": "22",
+        "outcome": "2",
+        "year": "1972",
+        "deaths": "1",
+        "arc": null,
+        "leader": "M. Ambroise Noumazalay"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "3",
+        "day": "18",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Capt. K. Kadidi, Massemba-Debat"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "8",
+        "day": "14",
+        "outcome": "3",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Mssrs. Miakassissa, Kolela, Finamantsiona, Mouzabakani"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "10",
+        "day": "15",
+        "outcome": "1",
+        "year": "1997",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "former Pres. Sassou-Nguesso"
+      },
+      {
+        "country": "Congo-Brazzaville",
+        "month": "4",
+        "day": "10",
+        "outcome": "3",
+        "year": "2005",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Capt. Pandi Ngouari; Nguila Mougounga Nkombo"
+      }
+    ],
+    "count": 13
+  },
+  {
+    "alpha_country": "Cote d'Ivoire",
+	"code":"CIV",
+	"flag_url":"https://www.countryflags.io/CI/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Cote d'Ivoire",
+        "month": null,
+        "day": null,
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "month": "7",
+        "day": "23",
+        "outcome": "4",
+        "year": "1991",
+        "deaths": "15",
+        "arc": null,
+        "leader": "junior soldiers"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "month": "7",
+        "day": null,
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "15",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "month": "10",
+        "day": null,
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "month": "10",
+        "day": null,
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "month": "12",
+        "day": "24",
+        "outcome": "1",
+        "year": "1999",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gen. Robert Guei"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "month": "9",
+        "day": "19",
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "10",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "month": "1",
+        "day": "7",
+        "outcome": "2",
+        "year": "2001",
+        "deaths": "11",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "month": "9",
+        "day": null,
+        "outcome": "4",
+        "year": "2002",
+        "deaths": "1",
+        "arc": null,
+        "leader": "1st Guei accused; then Ouattara was accused"
+      },
+      {
+        "country": "Cote d'Ivoire",
+        "month": "6",
+        "day": "8",
+        "outcome": "3",
+        "year": "2012",
+        "deaths": "7",
+        "arc": null,
+        "leader": "exiled military"
+      }
+    ],
+    "count": 10
+  },
+  {
+    "alpha_country": "Cyprus",
+	"code":"CYP",
+	"flag_url":"https://www.countryflags.io/CY/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Cyprus",
+        "month": "7",
+        "day": "15",
+        "outcome": "1",
+        "year": "1974",
+        "deaths": "999",
+        "arc": null,
+        "leader": "military coup; Sampson, Clerides"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "D. R. Congo (Zaire)",
+	"code":"COD",
+	"flag_url":"https://www.countryflags.io/CD/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "D. R. Congo (Zaire)",
+        "month": "9",
+        "day": "14",
+        "outcome": "1",
+        "year": "1960",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Pres. Kasavubu"
+      },
+      {
+        "country": "D. R. Congo (Zaire)",
+        "month": "11",
+        "day": "25",
+        "outcome": "1",
+        "year": "1965",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "Gen. Mobutu"
+      },
+      {
+        "country": "D. R. Congo (Zaire)",
+        "month": "3",
+        "day": "28",
+        "outcome": "2",
+        "year": "2004",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "D. R. Congo (Zaire)",
+        "month": "6",
+        "day": "11",
+        "outcome": "2",
+        "year": "2004",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Maj. Eric Lenge; members of presidential guard"
+      },
+      {
+        "country": "D. R. Congo (Zaire)",
+        "month": "2",
+        "day": "27",
+        "outcome": "2",
+        "year": "2011",
+        "deaths": "6",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "D. R. Congo (Zaire)",
+        "month": "12",
+        "day": "30",
+        "outcome": "2",
+        "year": "2013",
+        "deaths": "103",
+        "arc": null,
+        "leader": "Pastor Joseph Mukungubila Mutombo "
+      }
+    ],
+    "count": 6
+  },
+  {
+    "alpha_country": "Djibouti",
+	"code":"DJI",
+	"flag_url":"https://www.countryflags.io/DJ/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Djibouti",
+        "month": "1",
+        "day": "8",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "1",
+        "arc": null,
+        "leader": "incl. Ali Aref Bourhan"
+      },
+      {
+        "country": "Djibouti",
+        "month": "12",
+        "day": "7",
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Gen. Yasin Yabeh"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Dominican Republic",
+	"code":"DOM",
+	"flag_url":"https://www.countryflags.io/DO/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+	   {
+        "country": "Dominican Republic",
+        "month": "11",
+        "day": "22",
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Alcibiades Espinoza"
+      },
+      {
+        "country": "Dominican Republic",
+        "month": "5",
+        "day": "30",
+        "outcome": "2",
+        "year": "1961",
+        "deaths": "4",
+        "arc": null,
+        "leader": "US-supported assassination of Trujillo"
+      },
+      {
+        "country": "Dominican Republic",
+        "month": "1",
+        "day": "16",
+        "outcome": "2",
+        "year": "1962",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Rodriguez Echevarria"
+      },
+      {
+        "country": "Dominican Republic",
+        "month": "9",
+        "day": "25",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Victor Elby Vinas Roman"
+      },
+      {
+        "country": "Dominican Republic",
+        "month": "4",
+        "day": "25",
+        "outcome": "1",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Francisco Caamano"
+      }
+    ],
+    "count": 5
+  },
+  {
+    "alpha_country": "East Timor",
+	"code":"TLS",
+	"flag_url":"https://www.countryflags.io/TL/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "East Timor",
+        "month": "2",
+        "day": "11",
+        "outcome": "2",
+        "year": "2008",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Maj. Alfredo Reinado; Gastao Salsinha"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Ecuador",
+	"code":"ECU",
+	"flag_url":"https://www.countryflags.io/EC/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Ecuador",
+        "month": "7",
+        "day": "11",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "3",
+        "arc": "1",
+        "leader": "Capt. Ramon Castro Jijon, Col. Luis Cabrera Sevilla, Lt-Col. Manuel Freile, Col. Marcos Gandara"
+      },
+      {
+        "country": "Ecuador",
+        "month": "3",
+        "day": "29",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "0",
+        "arc": null,
+        "leader": "High Command of the Armed Forces"
+      },
+      {
+        "country": "Ecuador",
+        "month": "2",
+        "day": "15",
+        "outcome": "1",
+        "year": "1972",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "BG Guillermo Rodriguez Lara"
+      },
+      {
+        "country": "Ecuador",
+        "month": "9",
+        "day": "1",
+        "outcome": "2",
+        "year": "1975",
+        "deaths": "20",
+        "arc": null,
+        "leader": "Gen. Raul Gonzalez Alvear"
+      },
+      {
+        "country": "Ecuador",
+        "month": "1",
+        "day": "11",
+        "outcome": "1",
+        "year": "1976",
+        "deaths": "0",
+        "arc": null,
+        "leader": "VADM Alfredo Poveda Burbano, Col. Luis Guillermo Duran Arcentales, G. Luis Leoro Franco"
+      },
+      {
+        "country": "Ecuador",
+        "month": "1",
+        "day": "21",
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Cols. Lucio Guitierrez Norge Brito, Fausto Cobos"
+      },
+      {
+        "country": "Ecuador",
+        "month": "9",
+        "day": "30",
+        "outcome": "2",
+        "year": "2010",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Disgruntled police officers"
+      }
+    ],
+    "count": 7
+  },
+  {
+    "alpha_country": "Egypt",
+	"code":"EGY",
+	"flag_url":"https://www.countryflags.io/EG/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Egypt",
+        "month": "8",
+        "day": "29",
+        "outcome": "3",
+        "year": "1965",
+        "deaths": "3",
+        "arc": null,
+        "leader": "Sayed Kotb, Yusuf Hawash, Abdul Fattah Ismail"
+      },
+      {
+        "country": "Egypt",
+        "month": "8",
+        "day": "27",
+        "outcome": "3",
+        "year": "1967",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Shamseddin Badran, Abbas Radwan, Lt.Col. Haridi, Osman Nasser, Salah Nasr"
+      },
+      {
+        "country": "Egypt",
+        "month": "5",
+        "day": "13",
+        "outcome": "3",
+        "year": "1971",
+        "deaths": "0",
+        "arc": null,
+        "leader": "V.Pres. Ali Sabry, Gen. Fawzi"
+      },
+      {
+        "country": "Egypt",
+        "month": "7",
+        "day": "3",
+        "outcome": "1",
+        "year": "2013",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gen. Abdul-Fattah el-Sisi"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "El Salvador",
+	"code":"SLV",
+	"flag_url":"https://www.countryflags.io/SV/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "El Salvador",
+        "month": "10",
+        "day": "26",
+        "outcome": "1",
+        "year": "1960",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Cesar Yanes Urias"
+      },
+      {
+        "country": "El Salvador",
+        "month": "1",
+        "day": "25",
+        "outcome": "1",
+        "year": "1961",
+        "deaths": "10",
+        "arc": null,
+        "leader": "Portillo"
+      },
+      {
+        "country": "El Salvador",
+        "month": "3",
+        "day": "25",
+        "outcome": "2",
+        "year": "1972",
+        "deaths": "100",
+        "arc": null,
+        "leader": "Col. Benjamin Mejia, Jose Napolean Duarte"
+      },
+      {
+        "country": "El Salvador",
+        "month": "10",
+        "day": "15",
+        "outcome": "1",
+        "year": "1979",
+        "deaths": "28",
+        "arc": null,
+        "leader": "Cols. Jaime Abdul Gutierrez? Adolfo Arnoldo Majano"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Equatorial Guinea",
+	"code":"GNQ",
+	"flag_url":"https://www.countryflags.io/GQ/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Equatorial Guinea",
+        "month": "3",
+        "day": "5",
+        "outcome": "2",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Sr. Ndongo"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "month": "8",
+        "day": "3",
+        "outcome": "1",
+        "year": "1979",
+        "deaths": "250",
+        "arc": null,
+        "leader": "Col. Teodoro Obiang Nguema Mbasogo"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "month": "4",
+        "day": "10",
+        "outcome": "2",
+        "year": "1981",
+        "deaths": "17",
+        "arc": null,
+        "leader": "Pedro Ekong, Angel Masie Ntutumu, Andres Moises Mba"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "month": "5",
+        "day": "11",
+        "outcome": "2",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Sgt. Venancio Miko Obiang"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "month": "7",
+        "day": "19",
+        "outcome": "2",
+        "year": "1986",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Eugenio Abeso Mondu"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "month": "8",
+        "day": null,
+        "outcome": "4",
+        "year": "1988",
+        "deaths": "0",
+        "arc": null,
+        "leader": "several"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "month": "3",
+        "day": "7",
+        "outcome": "3",
+        "year": "2004",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Severo Moto; Simon Mann"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "month": "2",
+        "day": "11",
+        "outcome": "2",
+        "year": "2009",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Jose Abeso Nsue; Manuel Ndong Anseme; Alipio Ndong Asumu; Jacinto Micha Obiang"
+      }
+    ],
+    "count": 8
+  },
+  {
+    "alpha_country": "Eritrea",
+	"code":"ERI",
+	"flag_url":"https://www.countryflags.io/ER/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Eritrea",
+        "month": "1",
+        "day": "21",
+        "outcome": "2",
+        "year": "2013",
+        "deaths": "999",
+        "arc": null,
+        "leader": "c200 mutinous soldiers"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Ethiopia",
+	"code":"ETH",
+	"flag_url":"https://www.countryflags.io/ET/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Ethiopia",
+        "month": "12",
+        "day": "14",
+        "outcome": "2",
+        "year": "1960",
+        "deaths": "331",
+        "arc": null,
+        "leader": "Gen. Mengistu Newaye, Germain Newaye, Col. Workineh Gebeheyu, Getachew Bekele"
+      },
+      {
+        "country": "Ethiopia",
+        "month": "9",
+        "day": "12",
+        "outcome": "1",
+        "year": "1974",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Derg; Andom Banti"
+      },
+      {
+        "country": "Ethiopia",
+        "month": "11",
+        "day": "23",
+        "outcome": "1",
+        "year": "1974",
+        "deaths": "60",
+        "arc": null,
+        "leader": "Derg: Gen. Tafari Banti, Major Mengistu"
+      },
+      {
+        "country": "Ethiopia",
+        "month": "2",
+        "day": "3",
+        "outcome": "1",
+        "year": "1977",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Lt. Col. Mengistu Haile Mariam"
+      },
+      {
+        "country": "Ethiopia",
+        "month": "2",
+        "day": "3",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "10",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Ethiopia",
+        "month": "5",
+        "day": "16",
+        "outcome": "2",
+        "year": "1989",
+        "deaths": "400",
+        "arc": null,
+        "leader": "MG Merid Negusie, MG Amha Desta"
+      },
+      {
+        "country": "Ethiopia",
+        "month": "4",
+        "day": "25",
+        "outcome": "3",
+        "year": "2009",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Brig-Gen. Asamnew Tsige; Berhanu Nega, Ginbot 7 Movement"
+      }
+    ],
+    "count": 7
+  },
+  {
+    "alpha_country": "Fiji",
+	"code":"FJI",
+	"flag_url":"https://www.countryflags.io/FJ/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Fiji",
+        "month": "5",
+        "day": "14",
+        "outcome": "1",
+        "year": "1987",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "LTC/Brig Sitiveni Rabuka"
+      },
+      {
+        "country": "Fiji",
+        "month": "5",
+        "day": "19",
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "1",
+        "arc": null,
+        "leader": "George Speight"
+      },
+      {
+        "country": "Fiji",
+        "month": "11",
+        "day": null,
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Ratulnoke Takiveikata"
+      },
+      {
+        "country": "Fiji",
+        "month": "12",
+        "day": "5",
+        "outcome": "1",
+        "year": "2006",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Commodore Frank Bainimarama"
+      },
+      {
+        "country": "Fiji",
+        "month": "11",
+        "day": "3",
+        "outcome": "3",
+        "year": "2007",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Ratu Inoke Takiveikata; Col. Metuisela Mua; Barbadoes Mills"
+      }
+    ],
+    "count": 5
+  },
+  {
+    "alpha_country": "Gabon",
+	"code":"GAB",
+	"flag_url":"https://www.countryflags.io/GA/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Gabon",
+        "month": "2",
+        "day": "18",
+        "outcome": "2",
+        "year": "1964",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Jean-Hilaire Aubame"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Gambia",
+	"code":"GMB",
+	"flag_url":"https://www.countryflags.io/GM/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Gambia",
+        "month": "7",
+        "day": "29",
+        "outcome": "2",
+        "year": "1981",
+        "deaths": "650",
+        "arc": null,
+        "leader": "Kukli Samba Sanyang"
+      },
+      {
+        "country": "Gambia",
+        "month": "7",
+        "day": "23",
+        "outcome": "1",
+        "year": "1994",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Lt. Yahya Jammeh"
+      },
+      {
+        "country": "Gambia",
+        "month": "11",
+        "day": "10",
+        "outcome": "2",
+        "year": "1994",
+        "deaths": "50",
+        "arc": null,
+        "leader": "Lt. Basiru Borrow"
+      },
+      {
+        "country": "Gambia",
+        "month": "1",
+        "day": "27",
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Lts. Sana Sabally & Sadibu Hydara"
+      },
+      {
+        "country": "Gambia",
+        "month": "3",
+        "day": "21",
+        "outcome": "3",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Ndure Cham, Abdulaye Kujaby, Tamsir Jassy, Alieu Jobe"
+      },
+      {
+        "country": "Gambia",
+        "month": "11",
+        "day": "21",
+        "outcome": "3",
+        "year": "2009",
+        "deaths": "8",
+        "arc": null,
+        "leader": "ex-army chief Lang Tombong Tamba and seven others"
+      },
+      {
+        "country": "Gambia",
+        "month": "3",
+        "day": "18",
+        "outcome": "3",
+        "year": "2010",
+        "deaths": "9",
+        "arc": null,
+        "leader": "Gen. Yankuba Drammeh; Rear Adm. Sarjo Fofona; Ensa Badjie"
+      },
+      {
+        "country": "Gambia",
+        "month": "12",
+        "day": "30",
+        "outcome": "2",
+        "year": "2014",
+        "deaths": "3",
+        "arc": null,
+        "leader": "Lamin Sanneh; Cherno Njie"
+      }
+    ],
+    "count": 8
+  },
+  {
+    "alpha_country": "Georgia",
+	"code":"GEO",
+	"flag_url":"https://www.countryflags.io/GE/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Georgia",
+        "month": "5",
+        "day": null,
+        "outcome": "3",
+        "year": "1999",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Igor Giorgadze"
+      },
+      {
+        "country": "Georgia",
+        "month": "9",
+        "day": "6",
+        "outcome": "4",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Igor Giorgadze"
+      },
+      {
+        "country": "Georgia",
+        "month": "5",
+        "day": "5",
+        "outcome": "2",
+        "year": "2009",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Maj. Ghvaladze; Mukhrovani Tank Battalion"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Ghana",
+	"code":"GHA",
+	"flag_url":"https://www.countryflags.io/GH/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Ghana",
+        "month": "10",
+        "day": "3",
+        "outcome": "4",
+        "year": "1961",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Victor Yaw de Grant Brempong, United Party and labor leaders"
+      },
+      {
+        "country": "Ghana",
+        "month": "8",
+        "day": "2",
+        "outcome": "2",
+        "year": "1962",
+        "deaths": "5",
+        "arc": null,
+        "leader": "Ako Adjei, Tawiah Adamafio, H. H. Cofie-Crabbe"
+      },
+      {
+        "country": "Ghana",
+        "month": "2",
+        "day": "24",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "27",
+        "arc": null,
+        "leader": "Maj-Gen. Joseph Ankrah"
+      },
+      {
+        "country": "Ghana",
+        "month": "1",
+        "day": "23",
+        "outcome": "3",
+        "year": "1967",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Kwame Nkrumah, Baffour Awuah, Sidi Ali, Osei Poku, Lt. Owusu Gyima, Lt. A. Sulemana"
+      },
+      {
+        "country": "Ghana",
+        "month": "4",
+        "day": "17",
+        "outcome": "2",
+        "year": "1967",
+        "deaths": "5",
+        "arc": null,
+        "leader": "Lt. Sam Arthur, Lt. Moses Yeboah"
+      },
+      {
+        "country": "Ghana",
+        "month": "1",
+        "day": "13",
+        "outcome": "1",
+        "year": "1972",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "LTC Ignatius Kutu Acheampong"
+      },
+      {
+        "country": "Ghana",
+        "month": "5",
+        "day": null,
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTC George Minyila, Attoh Quarshie"
+      },
+      {
+        "country": "Ghana",
+        "month": "7",
+        "day": "5",
+        "outcome": "1",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. F.W.K. Akuffo"
+      },
+      {
+        "country": "Ghana",
+        "month": "5",
+        "day": "15",
+        "outcome": "2",
+        "year": "1979",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Flt-Lt. Jerry Rawlings"
+      },
+      {
+        "country": "Ghana",
+        "month": "6",
+        "day": "4",
+        "outcome": "1",
+        "year": "1979",
+        "deaths": "21",
+        "arc": null,
+        "leader": "Flt-Lt. Jerry Rawlings"
+      },
+      {
+        "country": "Ghana",
+        "month": "12",
+        "day": "31",
+        "outcome": "1",
+        "year": "1981",
+        "deaths": "50",
+        "arc": "1",
+        "leader": "supporters of Rawlings"
+      },
+      {
+        "country": "Ghana",
+        "month": "11",
+        "day": "23",
+        "outcome": "2",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "followers of Sgt. Alolga Akata-Pore"
+      },
+      {
+        "country": "Ghana",
+        "month": "6",
+        "day": "19",
+        "outcome": "2",
+        "year": "1983",
+        "deaths": "26",
+        "arc": null,
+        "leader": "LTC Ekow Dennis, Capt. Edward Adjei-Ampofo"
+      },
+      {
+        "country": "Ghana",
+        "month": "3",
+        "day": "23",
+        "outcome": "4",
+        "year": "1984",
+        "deaths": "5",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Ghana",
+        "month": "11",
+        "day": "6",
+        "outcome": "4",
+        "year": "2004",
+        "deaths": "0",
+        "arc": null,
+        "leader": "members of disbanded 64 Infantry Regiment (bodyguards to former-Pres. Rawlings"
+      }
+    ],
+    "count": 15
+  },
+  {
+    "alpha_country": "Greece",
+	"code":"GRC",
+	"flag_url":"https://www.countryflags.io/GR/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Greece",
+        "month": "4",
+        "day": "21",
+        "outcome": "1",
+        "year": "1967",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "army; Kollias"
+      },
+      {
+        "country": "Greece",
+        "month": "12",
+        "day": "13",
+        "outcome": "2",
+        "year": "1967",
+        "deaths": "999",
+        "arc": null,
+        "leader": "King Constantine"
+      },
+      {
+        "country": "Greece",
+        "month": "11",
+        "day": "25",
+        "outcome": "1",
+        "year": "1973",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTG Phaedon Ghizikis"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Guatemala",
+	"code":"GTM",
+	"flag_url":"https://www.countryflags.io/GT/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Guatemala",
+        "month": "11",
+        "day": "13",
+        "outcome": "2",
+        "year": "1960",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Marco Antonio Yon Sosa, Luis Augusto Turcios Lima"
+      },
+      {
+        "country": "Guatemala",
+        "month": "3",
+        "day": "30",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Enruque Peralta"
+      },
+      {
+        "country": "Guatemala",
+        "month": "3",
+        "day": "23",
+        "outcome": "1",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "dissident young officers, Rios Montt"
+      },
+      {
+        "country": "Guatemala",
+        "month": "8",
+        "day": "14",
+        "outcome": "2",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Leonel Sisniego Otero"
+      },
+      {
+        "country": "Guatemala",
+        "month": "10",
+        "day": "20",
+        "outcome": "2",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Edgardo Ponciano, Col. Gordillo Martinez"
+      },
+      {
+        "country": "Guatemala",
+        "month": "8",
+        "day": "8",
+        "outcome": "1",
+        "year": "1983",
+        "deaths": "999",
+        "arc": null,
+        "leader": "BG Oscar Mejia Victores"
+      },
+      {
+        "country": "Guatemala",
+        "month": "5",
+        "day": "11",
+        "outcome": "2",
+        "year": "1988",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Guatemala",
+        "month": "5",
+        "day": "9",
+        "outcome": "2",
+        "year": "1989",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Capt. Romeo Guevara Reyes"
+      },
+      {
+        "country": "Guatemala",
+        "month": "5",
+        "day": "25",
+        "outcome": "2",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Pres. Jorge Serrano"
+      }
+    ],
+    "count": 9
+  },
+  {
+    "alpha_country": "Guinea",
+	"code":"GIN",
+	"flag_url":"https://www.countryflags.io/GN/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Guinea",
+        "month": "11",
+        "day": null,
+        "outcome": "4",
+        "year": "1961",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Guinea",
+        "month": "11",
+        "day": "9",
+        "outcome": "4",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Guinea",
+        "month": "2",
+        "day": "16",
+        "outcome": "3",
+        "year": "1968",
+        "deaths": "999",
+        "arc": null,
+        "leader": "National Liberation Front"
+      },
+      {
+        "country": "Guinea",
+        "month": "3",
+        "day": "10",
+        "outcome": "3",
+        "year": "1969",
+        "deaths": "999",
+        "arc": null,
+        "leader": "M. Foderba Keita and Col. Kaman Diaby"
+      },
+      {
+        "country": "Guinea",
+        "month": "11",
+        "day": "22",
+        "outcome": "2",
+        "year": "1970",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Guinean exiles in GNB"
+      },
+      {
+        "country": "Guinea",
+        "month": "1",
+        "day": "10",
+        "outcome": "3",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. M. Fedeba Keita, Col. Kaman Diaby"
+      },
+      {
+        "country": "Guinea",
+        "month": "4",
+        "day": "3",
+        "outcome": "1",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Col. Lansana Conte"
+      },
+      {
+        "country": "Guinea",
+        "month": "7",
+        "day": "4",
+        "outcome": "2",
+        "year": "1985",
+        "deaths": "57",
+        "arc": null,
+        "leader": "Col. Traore"
+      },
+      {
+        "country": "Guinea",
+        "month": "2",
+        "day": "2",
+        "outcome": "2",
+        "year": "1996",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Guinea",
+        "month": "3",
+        "day": "17",
+        "outcome": "4",
+        "year": "1997",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Guinea",
+        "month": "11",
+        "day": null,
+        "outcome": "3",
+        "year": "2003",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Guinea",
+        "month": "4",
+        "day": "4",
+        "outcome": "2",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Prime Minister Cellon Dalein Diallo"
+      },
+      {
+        "country": "Guinea",
+        "month": "12",
+        "day": "23",
+        "outcome": "1",
+        "year": "2008",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Capt. Moussa Dadis Camara"
+      },
+      {
+        "country": "Guinea",
+        "month": "4",
+        "day": "24",
+        "outcome": "3",
+        "year": "2009",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Lt-Col. Aboubacar Sidiki Camara; Adml. Aly Daffe; Capt. Saa Alphonse Toure; Capt. Abdoulaye Keita"
+      },
+      {
+        "country": "Guinea",
+        "month": "7",
+        "day": "19",
+        "outcome": "2",
+        "year": "2011",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Former senior army officers"
+      }
+    ],
+    "count": 15
+  },
+  {
+    "alpha_country": "Guinea-Bissau",
+	"code":"GNB",
+	"flag_url":"https://www.countryflags.io/GW/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Guinea-Bissau",
+        "month": "3",
+        "day": "30",
+        "outcome": "3",
+        "year": "1975",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "11",
+        "day": null,
+        "outcome": "2",
+        "year": "1978",
+        "deaths": "200",
+        "arc": null,
+        "leader": "Malam Sanha"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "11",
+        "day": "14",
+        "outcome": "1",
+        "year": "1980",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Maj. Joao Bernardo Vieira"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "7",
+        "day": null,
+        "outcome": "3",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Joao Da Costa, Maj. Leopoldo Alfama, Honorio Fonseca"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "3",
+        "day": "10",
+        "outcome": "4",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Prime Minister Vito Saude Maria and others"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "11",
+        "day": "7",
+        "outcome": "4",
+        "year": "1985",
+        "deaths": "7",
+        "arc": null,
+        "leader": "incl. Col. Paulo Correira (1st VP)"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "3",
+        "day": null,
+        "outcome": "4",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "6",
+        "day": "7",
+        "outcome": "2",
+        "year": "1998",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Gen. Ansumane Mane"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "5",
+        "day": "7",
+        "outcome": "1",
+        "year": "1999",
+        "deaths": "300",
+        "arc": null,
+        "leader": "Gen. Mane"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "11",
+        "day": null,
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "10",
+        "arc": null,
+        "leader": "Gen. Mane"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "12",
+        "day": "2",
+        "outcome": "4",
+        "year": "2001",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Almane Alam Camara, Lamine Sanha"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "9",
+        "day": "14",
+        "outcome": "1",
+        "year": "2003",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Verissimo Correira Seabre"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "5",
+        "day": "25",
+        "outcome": "4",
+        "year": "2005",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Kumba Yalla"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "8",
+        "day": "8",
+        "outcome": "2",
+        "year": "2008",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Rear Adm. Jose Americo Bubo Na Tchute"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "11",
+        "day": "23",
+        "outcome": "2",
+        "year": "2008",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Alexandre Tchama Yala"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "6",
+        "day": "4",
+        "outcome": "2",
+        "year": "2009",
+        "deaths": "5",
+        "arc": null,
+        "leader": "Helder Proenca, Baciro Dabo"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "4",
+        "day": "1",
+        "outcome": "2",
+        "year": "2010",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen.Antonio Indjai"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "12",
+        "day": "26",
+        "outcome": "2",
+        "year": "2011",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Rear Adm. Jose Americo Bubo Na Tchute"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "4",
+        "day": "12",
+        "outcome": "1",
+        "year": "2012",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Antonio Indjai"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "month": "10",
+        "day": "21",
+        "outcome": "2",
+        "year": "2012",
+        "deaths": "7",
+        "arc": null,
+        "leader": "Capt. Pansau N'Tchama"
+      }
+    ],
+    "count": 20
+  },
+  {
+    "alpha_country": "Haiti",
+	"code":"HTI",
+	"flag_url":"https://www.countryflags.io/HT/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Haiti",
+        "month": "5",
+        "day": "20",
+        "outcome": "2",
+        "year": "1968",
+        "deaths": "999",
+        "arc": null,
+        "leader": "invasion by exile group"
+      },
+      {
+        "country": "Haiti",
+        "month": "4",
+        "day": "24",
+        "outcome": "2",
+        "year": "1970",
+        "deaths": "26",
+        "arc": null,
+        "leader": "Col. Octave Cayard, Rameau Estime, Joseph Charles Clemard"
+      },
+      {
+        "country": "Haiti",
+        "month": "6",
+        "day": "19",
+        "outcome": "1",
+        "year": "1988",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Henri Namphy"
+      },
+      {
+        "country": "Haiti",
+        "month": "9",
+        "day": "17",
+        "outcome": "1",
+        "year": "1988",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Brig-Gen. Prosper Avril"
+      },
+      {
+        "country": "Haiti",
+        "month": "4",
+        "day": "2",
+        "outcome": "2",
+        "year": "1989",
+        "deaths": "4",
+        "arc": null,
+        "leader": "LTC Himmler Rebu, Leopold battalion"
+      },
+      {
+        "country": "Haiti",
+        "month": "4",
+        "day": "5",
+        "outcome": "2",
+        "year": "1989",
+        "deaths": "25",
+        "arc": null,
+        "leader": "soldiers of Dessalines battalion"
+      },
+      {
+        "country": "Haiti",
+        "month": "6",
+        "day": "6",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "100",
+        "arc": null,
+        "leader": "Roger Lafontant"
+      },
+      {
+        "country": "Haiti",
+        "month": "9",
+        "day": "30",
+        "outcome": "1",
+        "year": "1991",
+        "deaths": "26",
+        "arc": null,
+        "leader": "Brig-Gen. Raoul Cedras"
+      },
+      {
+        "country": "Haiti",
+        "month": "10",
+        "day": "16",
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 9
+  },
+  {
+    "alpha_country": "Honduras",
+	"code":"HND",
+	"flag_url":"https://www.countryflags.io/HN/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Honduras",
+        "month": "10",
+        "day": "3",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Col. Osvaldo Lopez Arellano"
+      },
+      {
+        "country": "Honduras",
+        "month": "12",
+        "day": "4",
+        "outcome": "1",
+        "year": "1972",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Osvaldo Lopez Arellano"
+      },
+      {
+        "country": "Honduras",
+        "month": "4",
+        "day": "22",
+        "outcome": "1",
+        "year": "1975",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Honduras",
+        "month": "10",
+        "day": "21",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "0",
+        "arc": null,
+        "leader": "junior officers (unspecified)"
+      },
+      {
+        "country": "Honduras",
+        "month": "8",
+        "day": "7",
+        "outcome": "1",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Policarpo Paz Garcia"
+      },
+      {
+        "country": "Honduras",
+        "month": "7",
+        "day": "30",
+        "outcome": "2",
+        "year": "1999",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 6
+  },
+  {
+    "alpha_country": "India",
+	"code":"IND",
+	"flag_url":"https://www.countryflags.io/IN/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "India",
+        "month": "10",
+        "day": "30",
+        "outcome": "2",
+        "year": "1968",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Zeheto"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Indonesia",
+	"code":"IDN",
+	"flag_url":"https://www.countryflags.io/ID/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Indonesia",
+        "month": "10",
+        "day": "1",
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "115000",
+        "arc": null,
+        "leader": "Lt.Col. Untung, 30th September Movement"
+      },
+      {
+        "country": "Indonesia",
+        "month": "3",
+        "day": "12",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gen. Suharto"
+      },
+      {
+        "country": "Indonesia",
+        "month": "12",
+        "day": "2",
+        "outcome": "4",
+        "year": "2016",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Rachmawati Sukarnoputri; Ahmad Dhani; two former army generals; six others"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Iran",
+	"code":"IRN",
+	"flag_url":"https://www.countryflags.io/IR/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Iran",
+        "month": "1",
+        "day": "16",
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified army officers"
+      },
+      {
+        "country": "Iran",
+        "month": "6",
+        "day": null,
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "96",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iran",
+        "month": "6",
+        "day": "27",
+        "outcome": "2",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Azar Dahkam"
+      },
+      {
+        "country": "Iran",
+        "month": "5",
+        "day": "28",
+        "outcome": "2",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Iraq",
+	"code":"IRQ",
+	"flag_url":"https://www.countryflags.io/IQ/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Iraq",
+        "month": "2",
+        "day": "8",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "4",
+        "arc": null,
+        "leader": "Col. Abdul Karim Mustapha Nasrat"
+      },
+      {
+        "country": "Iraq",
+        "month": "11",
+        "day": "18",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "200-500",
+        "arc": null,
+        "leader": "Gen. Abdul Aref"
+      },
+      {
+        "country": "Iraq",
+        "month": "9",
+        "day": "5",
+        "outcome": "2",
+        "year": "1964",
+        "deaths": "0",
+        "arc": null,
+        "leader": "BG Bakr"
+      },
+      {
+        "country": "Iraq",
+        "month": "6",
+        "day": "23",
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iraq",
+        "month": "6",
+        "day": "30",
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iraq",
+        "month": "8",
+        "day": "21",
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Salem al Fakhry"
+      },
+      {
+        "country": "Iraq",
+        "month": "8",
+        "day": null,
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iraq",
+        "month": "9",
+        "day": "16",
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Brig. Aref Abdul Razzak"
+      },
+      {
+        "country": "Iraq",
+        "month": "6",
+        "day": "30",
+        "outcome": "2",
+        "year": "1966",
+        "deaths": "2",
+        "arc": null,
+        "leader": "BG Aref Abdul Razzak"
+      },
+      {
+        "country": "Iraq",
+        "month": "7",
+        "day": "17",
+        "outcome": "1",
+        "year": "1968",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Abdul Razzak al Nayef"
+      },
+      {
+        "country": "Iraq",
+        "month": "10",
+        "day": "6",
+        "outcome": "2",
+        "year": "1968",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gen. Abdul Hadi al Rawi, Gen. Razzak"
+      },
+      {
+        "country": "Iraq",
+        "month": "1",
+        "day": "20",
+        "outcome": "3",
+        "year": "1970",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Maj.Gen. Abdul Ghani al Rawi"
+      },
+      {
+        "country": "Iraq",
+        "month": "6",
+        "day": "30",
+        "outcome": "2",
+        "year": "1973",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Col. Nazem Kazzar"
+      },
+      {
+        "country": "Iraq",
+        "month": "7",
+        "day": "28",
+        "outcome": "2",
+        "year": "1979",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. A. Hussein al-Hamdani, M.A.H. Mashhadi, M. Mahjoub, M. Ayesh, G. Abdel-Jalil"
+      },
+      {
+        "country": "Iraq",
+        "month": "12",
+        "day": "20",
+        "outcome": "2",
+        "year": "1984",
+        "deaths": "62",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iraq",
+        "month": "9",
+        "day": null,
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Sa'adoun Hammadi"
+      },
+      {
+        "country": "Iraq",
+        "month": "12",
+        "day": null,
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "80",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iraq",
+        "month": "2",
+        "day": "19",
+        "outcome": "4",
+        "year": "1992",
+        "deaths": "90",
+        "arc": null,
+        "leader": "BG Jasim Ali"
+      },
+      {
+        "country": "Iraq",
+        "month": "6",
+        "day": null,
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iraq",
+        "month": "12",
+        "day": null,
+        "outcome": "4",
+        "year": "1992",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iraq",
+        "month": "1",
+        "day": null,
+        "outcome": "3",
+        "year": "1995",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iraq",
+        "month": "3",
+        "day": "5",
+        "outcome": "4",
+        "year": "1995",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Maj.Gen.(retd) Wafiq Samaraii"
+      },
+      {
+        "country": "Iraq",
+        "month": "5",
+        "day": "14",
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "200",
+        "arc": null,
+        "leader": "Gen. Mohammad Mazlum al-Dulaimi"
+      },
+      {
+        "country": "Iraq",
+        "month": "7",
+        "day": null,
+        "outcome": "4",
+        "year": "1996",
+        "deaths": "150",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Iraq",
+        "month": "1",
+        "day": null,
+        "outcome": "3",
+        "year": "2000",
+        "deaths": "38",
+        "arc": null,
+        "leader": "BG Abd al-Karim al-Dulaymi"
+      },
+      {
+        "country": "Iraq",
+        "month": "10",
+        "day": null,
+        "outcome": "4",
+        "year": "2011",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified Sunni opposition leaders"
+      }
+    ],
+    "count": 26
+  },
+  {
+    "alpha_country": "Italy",
+	"code":"ITA",
+	"flag_url":"https://www.countryflags.io/IT/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Italy",
+        "month": "12",
+        "day": "7",
+        "outcome": "4",
+        "year": "1973",
+        "deaths": "0",
+        "arc": null,
+        "leader": "?Prince Borghese?"
+      },
+      {
+        "country": "Italy",
+        "month": "7",
+        "day": "9",
+        "outcome": "4",
+        "year": "1974",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Italy",
+        "month": "8",
+        "day": null,
+        "outcome": "4",
+        "year": "1974",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Italy",
+        "month": "10",
+        "day": null,
+        "outcome": "4",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Franco Monticone"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Jamaica",
+	"code":"JAM",
+	"flag_url":"https://www.countryflags.io/JM/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Jamaica",
+        "month": "6",
+        "day": null,
+        "outcome": "4",
+        "year": "1980",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. H. Charles Johnson"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Jordan",
+	"code":"JOR",
+	"flag_url":"https://www.countryflags.io/JO/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Jordan",
+        "month": "11",
+        "day": null,
+        "outcome": "4",
+        "year": "1972",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Col. Rafei Hindawi"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Kazakhstan",
+	"code":"KAZ",
+	"flag_url":"https://www.countryflags.io/KZ/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Kazakhstan",
+        "month": "5",
+        "day": "28",
+        "outcome": "4",
+        "year": "2007",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Rakhat Aliyev; Alnur Musayev"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Kenya",
+	"code":"KEN",
+	"flag_url":"https://www.countryflags.io/KE/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Kenya",
+        "month": "4",
+        "day": "8",
+        "outcome": "4",
+        "year": "1970",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Daniel Owino"
+      },
+      {
+        "country": "Kenya",
+        "month": "8",
+        "day": "1",
+        "outcome": "2",
+        "year": "1982",
+        "deaths": "159",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Kyrgyzstan",
+	"code":"KGZ",
+	"flag_url":"https://www.countryflags.io/KG/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Kyrgyzstan",
+        "month": "5",
+        "day": "15",
+        "outcome": "2",
+        "year": "2003",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Adyl Karimov"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "month": "10",
+        "day": "3",
+        "outcome": "4",
+        "year": "2012",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Kamchybek Tashiyev; Sadyr Zhaparov; Talant Mamytov"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "month": "5",
+        "day": "12",
+        "outcome": "3",
+        "year": "2016",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Bekbolot Talgarbekov; Marat Sultanov; Torobay Kolubayev"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "month": "4",
+        "day": "17",
+        "outcome": "3",
+        "year": "2017",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Bektur Asanov; Kubanychbek Kadyrov; Ernest Karybekov"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "month": "9",
+        "day": "30",
+        "outcome": "3",
+        "year": "2017",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Kanatbek Isayev"
+      }
+    ],
+    "count": 5
+  },
+  {
+    "alpha_country": "Laos",
+	"code":"LAO",
+	"flag_url":"https://www.countryflags.io/LA/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Laos",
+        "month": "8",
+        "day": "9",
+        "outcome": "1",
+        "year": "1960",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Capt. Kong Le"
+      },
+      {
+        "country": "Laos",
+        "month": "4",
+        "day": "19",
+        "outcome": "1",
+        "year": "1964",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Gens. Khouprasith Abhay & Siho Lanphouthcoul"
+      },
+      {
+        "country": "Laos",
+        "month": "1",
+        "day": "31",
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "60",
+        "arc": null,
+        "leader": "Col. Bounleuth Sykosy"
+      },
+      {
+        "country": "Laos",
+        "month": "10",
+        "day": "21",
+        "outcome": "2",
+        "year": "1966",
+        "deaths": "36",
+        "arc": null,
+        "leader": "Brig.Gen. Thao Ma"
+      },
+      {
+        "country": "Laos",
+        "month": "8",
+        "day": "20",
+        "outcome": "2",
+        "year": "1973",
+        "deaths": "20",
+        "arc": null,
+        "leader": "BG Thao Ma, Col. Bounleuth"
+      },
+      {
+        "country": "Laos",
+        "month": "10",
+        "day": null,
+        "outcome": "4",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Thongsouk Saisanakhi, Latsami Khamphoui"
+      },
+      {
+        "country": "Laos",
+        "month": "6",
+        "day": "4",
+        "outcome": "3",
+        "year": "2007",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Vang Pao (arrested in USA)"
+      }
+    ],
+    "count": 7
+  },
+  {
+    "alpha_country": "Lebanon",
+	"code":"LBN",
+	"flag_url":"https://www.countryflags.io/LB/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Lebanon",
+        "month": "12",
+        "day": "31",
+        "outcome": "2",
+        "year": "1961",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Syrian Social Nationalist Party and a few army officers"
+      },
+      {
+        "country": "Lebanon",
+        "month": "3",
+        "day": "16",
+        "outcome": "2",
+        "year": "1976",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Brig. Abdul-Aziz Ahdab, Maj.Gen. Saeed, Lt. Khatib"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Lesotho",
+	"code":"LSO",
+	"flag_url":"https://www.countryflags.io/LS/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Lesotho",
+        "month": "1",
+        "day": "30",
+        "outcome": "1",
+        "year": "1970",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "Chief Jonathan"
+      },
+      {
+        "country": "Lesotho",
+        "month": "1",
+        "day": "7",
+        "outcome": "2",
+        "year": "1974",
+        "deaths": "200",
+        "arc": null,
+        "leader": "Basutoland Congress Party"
+      },
+      {
+        "country": "Lesotho",
+        "month": "12",
+        "day": "19",
+        "outcome": "4",
+        "year": "1983",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Charles Molap"
+      },
+      {
+        "country": "Lesotho",
+        "month": "1",
+        "day": "20",
+        "outcome": "1",
+        "year": "1986",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj-Gen. Justin Lekhanya"
+      },
+      {
+        "country": "Lesotho",
+        "month": "2",
+        "day": "19",
+        "outcome": "3",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. T. Letsie, Lt-Col. J. S. Letsie, Col. A. K. Mosoeunyane, Maj. P. M. Mokhanto"
+      },
+      {
+        "country": "Lesotho",
+        "month": "4",
+        "day": "30",
+        "outcome": "1",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Elias Tutsoane Ramaema"
+      },
+      {
+        "country": "Lesotho",
+        "month": "8",
+        "day": "17",
+        "outcome": "2",
+        "year": "1994",
+        "deaths": "5",
+        "arc": null,
+        "leader": "King Letsie III"
+      },
+      {
+        "country": "Lesotho",
+        "month": "2",
+        "day": "29",
+        "outcome": "3",
+        "year": "1996",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Makara Sekautu, Matsoso Bolofo, Lepoko Molapo, David Jonathan"
+      },
+      {
+        "country": "Lesotho",
+        "month": "6",
+        "day": "15",
+        "outcome": "4",
+        "year": "2007",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Lesotho",
+        "month": "4",
+        "day": "23",
+        "outcome": "2",
+        "year": "2009",
+        "deaths": "3",
+        "arc": null,
+        "leader": "unspecified; South African and Mozambiquan mercenaries"
+      },
+      {
+        "country": "Lesotho",
+        "month": "8",
+        "day": "30",
+        "outcome": "2",
+        "year": "2014",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Lt. Gen. Tlali Kamoli"
+      }
+    ],
+    "count": 11
+  },
+  {
+    "alpha_country": "Liberia",
+	"code":"LBR",
+	"flag_url":"https://www.countryflags.io/LR/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Liberia",
+        "month": "3",
+        "day": "7",
+        "outcome": "4",
+        "year": "1980",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gabriel Matthews"
+      },
+      {
+        "country": "Liberia",
+        "month": "4",
+        "day": "12",
+        "outcome": "1",
+        "year": "1980",
+        "deaths": "1",
+        "arc": null,
+        "leader": "MSGT Samuel Kanyon Doe"
+      },
+      {
+        "country": "Liberia",
+        "month": "4",
+        "day": "14",
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Maj. William Jerbo"
+      },
+      {
+        "country": "Liberia",
+        "month": "5",
+        "day": "18",
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Bernie Warner"
+      },
+      {
+        "country": "Liberia",
+        "month": "5",
+        "day": null,
+        "outcome": "4",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified NCOs & soldiers"
+      },
+      {
+        "country": "Liberia",
+        "month": "11",
+        "day": "21",
+        "outcome": "4",
+        "year": "1983",
+        "deaths": "4",
+        "arc": null,
+        "leader": "BG Thomas Quiwonkpa"
+      },
+      {
+        "country": "Liberia",
+        "month": "8",
+        "day": null,
+        "outcome": "4",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Dr. Sawyer, Col. Borteh, Col. Jorwley, Mr. Kieh"
+      },
+      {
+        "country": "Liberia",
+        "month": "11",
+        "day": "3",
+        "outcome": "4",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Liberia",
+        "month": "11",
+        "day": "12",
+        "outcome": "2",
+        "year": "1985",
+        "deaths": "800",
+        "arc": null,
+        "leader": "Brig.Gen. Thomas Quiwonkpa"
+      },
+      {
+        "country": "Liberia",
+        "month": "9",
+        "day": "4",
+        "outcome": "3",
+        "year": "1986",
+        "deaths": "0",
+        "arc": null,
+        "leader": "three arrested in Nimba; foreign dissidents"
+      },
+      {
+        "country": "Liberia",
+        "month": "3",
+        "day": "22",
+        "outcome": "4",
+        "year": "1988",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. William Kpolleh"
+      },
+      {
+        "country": "Liberia",
+        "month": "9",
+        "day": "7",
+        "outcome": "1",
+        "year": "1994",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Tom Woewieyu"
+      },
+      {
+        "country": "Liberia",
+        "month": "9",
+        "day": "15",
+        "outcome": "2",
+        "year": "1994",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Charles Julue"
+      },
+      {
+        "country": "Liberia",
+        "month": "5",
+        "day": null,
+        "outcome": "4",
+        "year": "2003",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. VP Moses Blah"
+      }
+    ],
+    "count": 14
+  },
+  {
+    "alpha_country": "Libya",
+	"code":"LBY",
+	"flag_url":"https://www.countryflags.io/LY/flat/64.png",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Libya",
+        "month": "9",
+        "day": "1",
+        "outcome": "1",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Free Officers Movement, Capt. Gadhafi"
+      },
+      {
+        "country": "Libya",
+        "month": "12",
+        "day": null,
+        "outcome": "3",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Adam Said Hawaz, Col. Mousa Ahmad"
+      },
+      {
+        "country": "Libya",
+        "month": "8",
+        "day": "5",
+        "outcome": "3",
+        "year": "1975",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Abdel Fattah Yunis, Maj. Meheishi, Maj. Bashir Hawwadi"
+      },
+      {
+        "country": "Libya",
+        "month": "10",
+        "day": null,
+        "outcome": "2",
+        "year": "1993",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Maj. Addel Salem Jalloud"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Madagascar",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Madagascar",
+        "month": "12",
+        "day": "31",
+        "outcome": "2",
+        "year": "1974",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Brechard Rajaonarison"
+      },
+      {
+        "country": "Madagascar",
+        "month": "1",
+        "day": "24",
+        "outcome": "4",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Col. Rasolofo, Fr. J. Randrianoelisoa, A. Rakotozafy"
+      },
+      {
+        "country": "Madagascar",
+        "month": "7",
+        "day": null,
+        "outcome": "2",
+        "year": "1989",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Madagascar",
+        "month": "5",
+        "day": "13",
+        "outcome": "2",
+        "year": "1990",
+        "deaths": "35",
+        "arc": null,
+        "leader": "incl. Joma Ernest, Jean-Jacques Rafalimanana"
+      },
+      {
+        "country": "Madagascar",
+        "month": "7",
+        "day": "29",
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Madagascar",
+        "month": "11",
+        "day": null,
+        "outcome": "4",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Fidy Adrianafidisoa"
+      },
+      {
+        "country": "Madagascar",
+        "month": "11",
+        "day": "17",
+        "outcome": "2",
+        "year": "2010",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Noel Rakotonandrasana; Col. Charles Andrianasoavavna; Raymond Ranjeva"
+      }
+    ],
+    "count": 7
+  },
+  {
+    "alpha_country": "Malawi",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Malawi",
+        "month": "3",
+        "day": "26",
+        "outcome": "4",
+        "year": "2001",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Malawi",
+        "month": "5",
+        "day": "13",
+        "outcome": "3",
+        "year": "2008",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Joseph Chimbayo; Joseph Aironi; John Chikakwiya; Kennedy Makwangwala"
+      },
+      {
+        "country": "Malawi",
+        "month": "4",
+        "day": "5",
+        "outcome": "3",
+        "year": "2012",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Peter Mutharika; Bright Msaka; Goodall Gondwe; and other government officials"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Malaysia",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Malaysia",
+        "month": "11",
+        "day": "19",
+        "outcome": "4",
+        "year": "1985",
+        "deaths": "18",
+        "arc": null,
+        "leader": "Haji Ibrahim Mahmud"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Mali",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Mali",
+        "month": "11",
+        "day": "19",
+        "outcome": "1",
+        "year": "1968",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Lt. Moussa Traore"
+      },
+      {
+        "country": "Mali",
+        "month": "8",
+        "day": "12",
+        "outcome": "2",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Mali",
+        "month": "4",
+        "day": "8",
+        "outcome": "4",
+        "year": "1971",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Capt. Yoro Diakite, Capt. Malik Diallo"
+      },
+      {
+        "country": "Mali",
+        "month": "2",
+        "day": "28",
+        "outcome": "2",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Kissima Doukara, Tiecoro Bagayoko"
+      },
+      {
+        "country": "Mali",
+        "month": "12",
+        "day": "30",
+        "outcome": "3",
+        "year": "1980",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Adj. Aladje Djire, Adj. Karim Sissoko, Sekou Sonogo"
+      },
+      {
+        "country": "Mali",
+        "month": "7",
+        "day": "14",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Lamine Diabira"
+      },
+      {
+        "country": "Mali",
+        "month": "12",
+        "day": "9",
+        "outcome": "3",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Lt-Col. Oumar Diallo"
+      },
+      {
+        "country": "Mali",
+        "month": "10",
+        "day": "27",
+        "outcome": "3",
+        "year": "1996",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Mady Diallo"
+      },
+      {
+        "country": "Mali",
+        "month": "3",
+        "day": "21",
+        "outcome": "1",
+        "year": "2012",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "Capt. Amadou Haya Sanogo"
+      },
+      {
+        "country": "Mali",
+        "month": "4",
+        "day": "30",
+        "outcome": "2",
+        "year": "2012",
+        "deaths": "15",
+        "arc": null,
+        "leader": "\"Red Beret\" presidential guard troops"
+      }
+    ],
+    "count": 10
+  },
+  {
+    "alpha_country": "Mauritania",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Mauritania",
+        "month": "7",
+        "day": "10",
+        "outcome": "1",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTC Ould Salek"
+      },
+      {
+        "country": "Mauritania",
+        "month": "1",
+        "day": "4",
+        "outcome": "1",
+        "year": "1980",
+        "deaths": "999",
+        "arc": null,
+        "leader": "LTC Mohamed Khouna Ould Heydalla"
+      },
+      {
+        "country": "Mauritania",
+        "month": "3",
+        "day": "16",
+        "outcome": "2",
+        "year": "1981",
+        "deaths": "28",
+        "arc": null,
+        "leader": "LTC Ould Sidi, LTC Abdelkader"
+      },
+      {
+        "country": "Mauritania",
+        "month": "2",
+        "day": "6",
+        "outcome": "2",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Ould Salek, et al"
+      },
+      {
+        "country": "Mauritania",
+        "month": "12",
+        "day": "12",
+        "outcome": "1",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Moaouia Taya"
+      },
+      {
+        "country": "Mauritania",
+        "month": "10",
+        "day": "22",
+        "outcome": "3",
+        "year": "1987",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Lt. Ba Seydi, Lt. Sarr Amadou, Lt. Sy Saidou"
+      },
+      {
+        "country": "Mauritania",
+        "month": "11",
+        "day": null,
+        "outcome": "2",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Mauritania",
+        "month": "10",
+        "day": null,
+        "outcome": "4",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Mauritania",
+        "month": "6",
+        "day": "8",
+        "outcome": "2",
+        "year": "2003",
+        "deaths": "15",
+        "arc": null,
+        "leader": "Saleh Ould Hanenna"
+      },
+      {
+        "country": "Mauritania",
+        "month": "8",
+        "day": "10",
+        "outcome": "3",
+        "year": "2004",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Saleh Ould Hanenna; Fursan al-Taghyir (Knights of Change)"
+      },
+      {
+        "country": "Mauritania",
+        "month": "9",
+        "day": "27",
+        "outcome": "3",
+        "year": "2004",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Saleh Ould Hanenna; Fursan al-Taghyir (Knights of Change)"
+      },
+      {
+        "country": "Mauritania",
+        "month": "8",
+        "day": "3",
+        "outcome": "1",
+        "year": "2005",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Military Council for Justice and Democracy led by Col. Ely Ould Mohamed Vall"
+      },
+      {
+        "country": "Mauritania",
+        "month": "6",
+        "day": "9",
+        "outcome": "3",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Abderramane Ould Lekour, Sid Mohammed Ould Faida, Mohammed Ould Aly"
+      },
+      {
+        "country": "Mauritania",
+        "month": "8",
+        "day": "6",
+        "outcome": "1",
+        "year": "2008",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Mohamed Ould Abdel Aziz"
+      }
+    ],
+    "count": 14
+  },
+  {
+    "alpha_country": "Moldova",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Moldova",
+        "month": "2",
+        "day": "7",
+        "outcome": "4",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Valeriu Pasat"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Montenegro",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Montenegro",
+        "month": "10",
+        "day": "16",
+        "outcome": "3",
+        "year": "2016",
+        "deaths": "0",
+        "arc": null,
+        "leader": "twenty ethnic-Serbs"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Morocco",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Morocco",
+        "month": "7",
+        "day": null,
+        "outcome": "4",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "number of UNFP leaders"
+      },
+      {
+        "country": "Morocco",
+        "month": "7",
+        "day": "10",
+        "outcome": "2",
+        "year": "1971",
+        "deaths": "90",
+        "arc": null,
+        "leader": "Gen. Mohammed Medbouh"
+      },
+      {
+        "country": "Morocco",
+        "month": "8",
+        "day": "16",
+        "outcome": "2",
+        "year": "1972",
+        "deaths": "8",
+        "arc": null,
+        "leader": "Air Force fighters"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Mozambique",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Mozambique",
+        "month": "12",
+        "day": "18",
+        "outcome": "2",
+        "year": "1975",
+        "deaths": "6",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Mozambique",
+        "month": "6",
+        "day": "24",
+        "outcome": "3",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Col. Antonio, ColGen. Mabote"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Nepal",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Nepal",
+        "month": "10",
+        "day": "8",
+        "outcome": "2",
+        "year": "1960",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Prince Om Jung"
+      },
+      {
+        "country": "Nepal",
+        "month": "10",
+        "day": null,
+        "outcome": "2",
+        "year": "1960",
+        "deaths": "0",
+        "arc": null,
+        "leader": "a Hindu yogi"
+      },
+      {
+        "country": "Nepal",
+        "month": "12",
+        "day": "15",
+        "outcome": "1",
+        "year": "1960",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "King Mahendra"
+      },
+      {
+        "country": "Nepal",
+        "month": "10",
+        "day": "4",
+        "outcome": "1",
+        "year": "2002",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "King Gyanendra"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Nicaragua",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Nicaragua",
+        "month": "1",
+        "day": "22",
+        "outcome": "2",
+        "year": "1967",
+        "deaths": "34",
+        "arc": null,
+        "leader": "Dr. Fernando Aguero Rocha"
+      },
+      {
+        "country": "Nicaragua",
+        "month": "8",
+        "day": "28",
+        "outcome": "2",
+        "year": "1978",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTCs Larios & Montalba"
+      },
+      {
+        "country": "Nicaragua",
+        "month": "11",
+        "day": "17",
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Jorge Salzar Arguello"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Niger",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Niger",
+        "month": "4",
+        "day": "15",
+        "outcome": "1",
+        "year": "1974",
+        "deaths": "20",
+        "arc": null,
+        "leader": "LTC Seymi Kountche"
+      },
+      {
+        "country": "Niger",
+        "month": "8",
+        "day": "2",
+        "outcome": "3",
+        "year": "1975",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Souna Sido, Dilbo Bakary, Maitourane Gadjio"
+      },
+      {
+        "country": "Niger",
+        "month": "3",
+        "day": "15",
+        "outcome": "2",
+        "year": "1976",
+        "deaths": "30",
+        "arc": null,
+        "leader": "Maj. Basere Moussa, Capt. Sidi Mohamed, Ahmed Mouddour"
+      },
+      {
+        "country": "Niger",
+        "month": "10",
+        "day": "5",
+        "outcome": "2",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Mahamane Sidikou, Lt. Amadou Oumarou, Lt-Col. Seybou, Capt. Mamane Ousseini"
+      },
+      {
+        "country": "Niger",
+        "month": "1",
+        "day": "27",
+        "outcome": "1",
+        "year": "1996",
+        "deaths": "2",
+        "arc": "1",
+        "leader": "Col. Ibrahim Barre Mainassara"
+      },
+      {
+        "country": "Niger",
+        "month": "1",
+        "day": "2",
+        "outcome": "4",
+        "year": "1998",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Hama Amadou, Issoufou Assoumane, Mohamed Bazoum"
+      },
+      {
+        "country": "Niger",
+        "month": "2",
+        "day": "18",
+        "outcome": "1",
+        "year": "2010",
+        "deaths": "10",
+        "arc": null,
+        "leader": "Supreme Council for the Restoration of Democracy (CSRD); Maj. Salou Djibo"
+      },
+      {
+        "country": "Niger",
+        "month": "10",
+        "day": "14",
+        "outcome": "3",
+        "year": "2010",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Abdoulaye Badie; Col. Abdou Sidikou; 2 others"
+      },
+      {
+        "country": "Niger",
+        "month": "7",
+        "day": "12",
+        "outcome": "3",
+        "year": "2011",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Niger",
+        "month": "12",
+        "day": "18",
+        "outcome": "3",
+        "year": "2015",
+        "deaths": "0",
+        "arc": null,
+        "leader": "senior military officers"
+      }
+    ],
+    "count": 10
+  },
+  {
+    "alpha_country": "Nigeria",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Nigeria",
+        "month": "10",
+        "day": "1",
+        "outcome": "3",
+        "year": "1962",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Chief Enahoro, Samuel Ikoka, Aye Adabaujo"
+      },
+      {
+        "country": "Nigeria",
+        "month": "1",
+        "day": "15",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "10",
+        "arc": "1",
+        "leader": "Maj. Nzeogwu"
+      },
+      {
+        "country": "Nigeria",
+        "month": "7",
+        "day": "29",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "30",
+        "arc": null,
+        "leader": "Lt. Col Yakubu Gowon; Hausa army officers"
+      },
+      {
+        "country": "Nigeria",
+        "month": "7",
+        "day": "29",
+        "outcome": "1",
+        "year": "1975",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Murtala Ramat Mohammed"
+      },
+      {
+        "country": "Nigeria",
+        "month": "2",
+        "day": "13",
+        "outcome": "2",
+        "year": "1976",
+        "deaths": "6",
+        "arc": null,
+        "leader": "LTC Bukar Dimka"
+      },
+      {
+        "country": "Nigeria",
+        "month": "12",
+        "day": "31",
+        "outcome": "1",
+        "year": "1983",
+        "deaths": "25",
+        "arc": "1",
+        "leader": "MG Mohammed Buhari"
+      },
+      {
+        "country": "Nigeria",
+        "month": "10",
+        "day": null,
+        "outcome": "3",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Nigeria",
+        "month": "8",
+        "day": "27",
+        "outcome": "1",
+        "year": "1985",
+        "deaths": "1",
+        "arc": null,
+        "leader": "MG Ibrahim Babangida"
+      },
+      {
+        "country": "Nigeria",
+        "month": "12",
+        "day": null,
+        "outcome": "3",
+        "year": "1985",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. MG Vatsa"
+      },
+      {
+        "country": "Nigeria",
+        "month": "4",
+        "day": "22",
+        "outcome": "2",
+        "year": "1990",
+        "deaths": "10",
+        "arc": null,
+        "leader": "Maj. Gideon Okar"
+      },
+      {
+        "country": "Nigeria",
+        "month": "11",
+        "day": "17",
+        "outcome": "1",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Sanni Abacha"
+      },
+      {
+        "country": "Nigeria",
+        "month": "3",
+        "day": null,
+        "outcome": "3",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Gen. Obasanjo"
+      },
+      {
+        "country": "Nigeria",
+        "month": "12",
+        "day": null,
+        "outcome": "3",
+        "year": "1997",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. LTG Diya, MG Adisa, MG Olarenwaju"
+      },
+      {
+        "country": "Nigeria",
+        "month": "3",
+        "day": "30",
+        "outcome": "3",
+        "year": "2004",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Hamza al-Mustapha; Lt-Col. Mohammed ibn Umar Adeka; Onwuchekwa Okorie; Navy Com.Yakubu Kudambo"
+      }
+    ],
+    "count": 14
+  },
+  {
+    "alpha_country": "North Korea",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "North Korea",
+        "month": "2",
+        "day": "5",
+        "outcome": "4",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "North Korea",
+        "month": null,
+        "day": null,
+        "outcome": "4",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "North Yemen",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "North Yemen",
+        "month": "9",
+        "day": "27",
+        "outcome": "1",
+        "year": "1962",
+        "deaths": "12",
+        "arc": null,
+        "leader": "Col. Abdullah Sallal"
+      },
+      {
+        "country": "North Yemen",
+        "month": "11",
+        "day": "4",
+        "outcome": "1",
+        "year": "1967",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTC Iriani, LIC al Rohoumi, Col. Baider"
+      },
+      {
+        "country": "North Yemen",
+        "month": "3",
+        "day": "22",
+        "outcome": "3",
+        "year": "1968",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Popular Resistance Forces"
+      },
+      {
+        "country": "North Yemen",
+        "month": "1",
+        "day": "26",
+        "outcome": "4",
+        "year": "1969",
+        "deaths": "40",
+        "arc": null,
+        "leader": "Maj. Abdel Raqeb Abdul Wahab"
+      },
+      {
+        "country": "North Yemen",
+        "month": "6",
+        "day": "13",
+        "outcome": "1",
+        "year": "1974",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Ibrahim Mohammed al Hamadi"
+      },
+      {
+        "country": "North Yemen",
+        "month": "10",
+        "day": "15",
+        "outcome": "2",
+        "year": "1978",
+        "deaths": "31",
+        "arc": null,
+        "leader": "Majs. Fallah, Nassar, el Razi"
+      }
+    ],
+    "count": 6
+  },
+  {
+    "alpha_country": "Oman",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Oman",
+        "month": "7",
+        "day": "23",
+        "outcome": "1",
+        "year": "1970",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Qabas bin Said"
+      },
+      {
+        "country": "Oman",
+        "month": "1",
+        "day": "26",
+        "outcome": "3",
+        "year": "2005",
+        "deaths": "0",
+        "arc": null,
+        "leader": "members of the Ibadi society"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Pakistan",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Pakistan",
+        "month": "7",
+        "day": "5",
+        "outcome": "1",
+        "year": "1977",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Mohammed Zia ul-Haq"
+      },
+      {
+        "country": "Pakistan",
+        "month": "1",
+        "day": null,
+        "outcome": "2",
+        "year": "1984",
+        "deaths": "1",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Pakistan",
+        "month": "9",
+        "day": null,
+        "outcome": "3",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "BG Billa or MG Abbasi"
+      },
+      {
+        "country": "Pakistan",
+        "month": "10",
+        "day": "12",
+        "outcome": "1",
+        "year": "1999",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Musharraf"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Panama",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Panama",
+        "month": "10",
+        "day": "12",
+        "outcome": "1",
+        "year": "1968",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "LTC Omar Torrijos"
+      },
+      {
+        "country": "Panama",
+        "month": "12",
+        "day": "14",
+        "outcome": "2",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Silvero & LTC Sanjur"
+      },
+      {
+        "country": "Panama",
+        "month": "9",
+        "day": "14",
+        "outcome": "4",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Diaz Herrera"
+      },
+      {
+        "country": "Panama",
+        "month": "3",
+        "day": "16",
+        "outcome": "2",
+        "year": "1988",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Lenida Macias"
+      },
+      {
+        "country": "Panama",
+        "month": "10",
+        "day": "3",
+        "outcome": "2",
+        "year": "1989",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Moises Giroldi Vega"
+      },
+      {
+        "country": "Panama",
+        "month": "10",
+        "day": "16",
+        "outcome": "4",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Eduardo Herrera"
+      },
+      {
+        "country": "Panama",
+        "month": "12",
+        "day": "5",
+        "outcome": "4",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Herrara"
+      },
+      {
+        "country": "Panama",
+        "month": "10",
+        "day": null,
+        "outcome": "4",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Maj. Saldana, Lt. Rodriguez"
+      },
+      {
+        "country": "Panama",
+        "month": "1",
+        "day": null,
+        "outcome": "3",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 9
+  },
+  {
+    "alpha_country": "Papua New Guinea",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Papua New Guinea",
+        "month": "3",
+        "day": "14",
+        "outcome": "2",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Paul Tohian"
+      },
+      {
+        "country": "Papua New Guinea",
+        "month": "1",
+        "day": "26",
+        "outcome": "2",
+        "year": "2012",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Michael Somare"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Paraguay",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Paraguay",
+        "month": "2",
+        "day": "3",
+        "outcome": "1",
+        "year": "1989",
+        "deaths": "17",
+        "arc": null,
+        "leader": "Gen. Andres Rodriguez"
+      },
+      {
+        "country": "Paraguay",
+        "month": "4",
+        "day": "22",
+        "outcome": "2",
+        "year": "1996",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Lino Oviedo"
+      },
+      {
+        "country": "Paraguay",
+        "month": "5",
+        "day": "18",
+        "outcome": "2",
+        "year": "2000",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Oviedo"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Peru",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Peru",
+        "month": "7",
+        "day": "18",
+        "outcome": "1",
+        "year": "1962",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Gen. Perez Godoy"
+      },
+      {
+        "country": "Peru",
+        "month": "3",
+        "day": "3",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Nicholas Lindley"
+      },
+      {
+        "country": "Peru",
+        "month": "10",
+        "day": "3",
+        "outcome": "1",
+        "year": "1968",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Juan Velasco Alvarado"
+      },
+      {
+        "country": "Peru",
+        "month": "8",
+        "day": "29",
+        "outcome": "1",
+        "year": "1975",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Francisco Morales Bermudez"
+      },
+      {
+        "country": "Peru",
+        "month": "3",
+        "day": null,
+        "outcome": "3",
+        "year": "1976",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Peru",
+        "month": "11",
+        "day": "13",
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Jaime Salinas Sedo, Jose Pastor Vives, Luis Palomino Rodriguez"
+      }
+    ],
+    "count": 6
+  },
+  {
+    "alpha_country": "Philippines",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Philippines",
+        "month": "7",
+        "day": "6",
+        "outcome": "2",
+        "year": "1986",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Arturo Tolantino"
+      },
+      {
+        "country": "Philippines",
+        "month": "11",
+        "day": "22",
+        "outcome": "3",
+        "year": "1986",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Mr. Enrile"
+      },
+      {
+        "country": "Philippines",
+        "month": "1",
+        "day": "27",
+        "outcome": "2",
+        "year": "1987",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Col. Oscar Canlas"
+      },
+      {
+        "country": "Philippines",
+        "month": "8",
+        "day": "27",
+        "outcome": "2",
+        "year": "1987",
+        "deaths": "3",
+        "arc": null,
+        "leader": "Col. Gregorio Honasan"
+      },
+      {
+        "country": "Philippines",
+        "month": "12",
+        "day": "1",
+        "outcome": "2",
+        "year": "1989",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Gregorio Honasan"
+      },
+      {
+        "country": "Philippines",
+        "month": "10",
+        "day": "4",
+        "outcome": "2",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Alexander Noble"
+      },
+      {
+        "country": "Philippines",
+        "month": "4",
+        "day": "29",
+        "outcome": "4",
+        "year": "2001",
+        "deaths": "4",
+        "arc": null,
+        "leader": "supporters of Estrada"
+      },
+      {
+        "country": "Philippines",
+        "month": "7",
+        "day": "27",
+        "outcome": "4",
+        "year": "2003",
+        "deaths": "0",
+        "arc": null,
+        "leader": "\"Oakwood Munity\" Capt. Gerardo Gambala; Capt. Milo Maestrecampo; Lt. Antonio Trillanes IV"
+      },
+      {
+        "country": "Philippines",
+        "month": "2",
+        "day": "24",
+        "outcome": "3",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gregorio Honasan"
+      },
+      {
+        "country": "Philippines",
+        "month": "7",
+        "day": "24",
+        "outcome": "4",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Philippines",
+        "month": "11",
+        "day": "29",
+        "outcome": "2",
+        "year": "2007",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Antonio Trillanes; Brig-Gen. Danilo Lim"
+      }
+    ],
+    "count": 11
+  },
+  {
+    "alpha_country": "Poland",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Poland",
+        "month": "12",
+        "day": "12",
+        "outcome": "1",
+        "year": "1981",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gen. Jaruzelski"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Portugal",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Portugal",
+        "month": "4",
+        "day": "25",
+        "outcome": "1",
+        "year": "1974",
+        "deaths": "10",
+        "arc": null,
+        "leader": "Gen. Antonio Spinola"
+      },
+      {
+        "country": "Portugal",
+        "month": "9",
+        "day": "28",
+        "outcome": "2",
+        "year": "1974",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Spinola"
+      },
+      {
+        "country": "Portugal",
+        "month": "3",
+        "day": "11",
+        "outcome": "2",
+        "year": "1975",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Capt. Sebastiao Martins"
+      },
+      {
+        "country": "Portugal",
+        "month": "7",
+        "day": "31",
+        "outcome": "4",
+        "year": "1975",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Portugal",
+        "month": "11",
+        "day": "25",
+        "outcome": "2",
+        "year": "1975",
+        "deaths": "5",
+        "arc": null,
+        "leader": "Gens. Carualho and Fabiao"
+      }
+    ],
+    "count": 5
+  },
+  {
+    "alpha_country": "Qatar",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Qatar",
+        "month": "2",
+        "day": "22",
+        "outcome": "1",
+        "year": "1972",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Sheikh Khalifa bin Hamad al Thani"
+      },
+      {
+        "country": "Qatar",
+        "month": "6",
+        "day": "27",
+        "outcome": "1",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Sheikh Hamad bin Khalifa at Thani"
+      },
+      {
+        "country": "Qatar",
+        "month": "2",
+        "day": "20",
+        "outcome": "2",
+        "year": "1996",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Sheikh Hamad bin Jasiem bin Hamad al Thani"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Romania",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Romania",
+        "month": "1",
+        "day": null,
+        "outcome": "4",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Rwanda",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Rwanda",
+        "month": "7",
+        "day": "5",
+        "outcome": "1",
+        "year": "1973",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Juvenal Habyalimana"
+      },
+      {
+        "country": "Rwanda",
+        "month": "5",
+        "day": null,
+        "outcome": "4",
+        "year": "1980",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Maj. Theonaste Lizinde"
+      },
+      {
+        "country": "Rwanda",
+        "month": "9",
+        "day": "20",
+        "outcome": "4",
+        "year": "2017",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Boniface Twagirimana and eight others"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Saudi Arabia",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Saudi Arabia",
+        "month": "12",
+        "day": null,
+        "outcome": "4",
+        "year": "1979",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Senegal",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Senegal",
+        "month": "12",
+        "day": "17",
+        "outcome": "2",
+        "year": "1962",
+        "deaths": "0",
+        "arc": null,
+        "leader": "PM M. Mamadou Dia"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Sierra Leone",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Sierra Leone",
+        "month": "2",
+        "day": "1",
+        "outcome": "3",
+        "year": "1967",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Siaka Stevens"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "3",
+        "day": "21",
+        "outcome": "1",
+        "year": "1967",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "Brig. David Lansana; National Reformation Council (army officers): Maj. Charles Blake, Lt.Col. Ambrose Patrick Genda, William Leigh, Lt.Col. Andrew Juxon-Smith"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "4",
+        "day": "18",
+        "outcome": "1",
+        "year": "1968",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Stevens"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "10",
+        "day": null,
+        "outcome": "4",
+        "year": "1970",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "3",
+        "day": "23",
+        "outcome": "2",
+        "year": "1971",
+        "deaths": "2",
+        "arc": null,
+        "leader": "BG John Bangura"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "3",
+        "day": null,
+        "outcome": "3",
+        "year": "1986",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Edison Gorvie, Capt. Abdul Kamara"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "3",
+        "day": "23",
+        "outcome": "2",
+        "year": "1987",
+        "deaths": "1",
+        "arc": null,
+        "leader": "incl. Mr. Minah (1st VP)"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "4",
+        "day": "30",
+        "outcome": "1",
+        "year": "1992",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Capt. Valentine Strasser"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "12",
+        "day": "28",
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "10",
+        "day": "16",
+        "outcome": "4",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "10",
+        "day": "2",
+        "outcome": "2",
+        "year": "1995",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "1",
+        "day": "16",
+        "outcome": "1",
+        "year": "1996",
+        "deaths": "0",
+        "arc": null,
+        "leader": "BG Julius Maada Bio"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "9",
+        "day": "8",
+        "outcome": "2",
+        "year": "1996",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unnamed sergeant"
+      },
+      {
+        "country": "Sierra Leone",
+        "month": "5",
+        "day": "25",
+        "outcome": "1",
+        "year": "1997",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Maj. Johnny Paul Koroma"
+      }
+    ],
+    "count": 14
+  },
+  {
+    "alpha_country": "Somalia",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Somalia",
+        "month": "12",
+        "day": "10",
+        "outcome": "2",
+        "year": "1961",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Hassan Kayd"
+      },
+      {
+        "country": "Somalia",
+        "month": "10",
+        "day": "21",
+        "outcome": "1",
+        "year": "1969",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Mohammed Siad Barre, Revolutionary Council"
+      },
+      {
+        "country": "Somalia",
+        "month": "4",
+        "day": "27",
+        "outcome": "3",
+        "year": "1970",
+        "deaths": "29",
+        "arc": null,
+        "leader": "Gens. Korshel, Guled, Kedie and others"
+      },
+      {
+        "country": "Somalia",
+        "month": "4",
+        "day": "9",
+        "outcome": "2",
+        "year": "1978",
+        "deaths": "20",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Somalia",
+        "month": "6",
+        "day": "23",
+        "outcome": "2",
+        "year": "1988",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTG Mohammed Ali Samater"
+      }
+    ],
+    "count": 5
+  },
+  {
+    "alpha_country": "South Africa",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "South Africa",
+        "month": "7",
+        "day": null,
+        "outcome": "3",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. MG Charles Sebe"
+      },
+      {
+        "country": "South Africa",
+        "month": "12",
+        "day": "18",
+        "outcome": "3",
+        "year": "2012",
+        "deaths": "0",
+        "arc": null,
+        "leader": "four white supremacists"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "South Korea",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "South Korea",
+        "month": "5",
+        "day": "16",
+        "outcome": "1",
+        "year": "1961",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "LTG Chang Do Yung (formed cabinet)"
+      },
+      {
+        "country": "South Korea",
+        "month": "12",
+        "day": "12",
+        "outcome": "2",
+        "year": "1979",
+        "deaths": "3",
+        "arc": null,
+        "leader": "Gen. Chun Doo Hwan"
+      },
+      {
+        "country": "South Korea",
+        "month": "8",
+        "day": "21",
+        "outcome": "4",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "South Korea",
+        "month": "8",
+        "day": "28",
+        "outcome": "4",
+        "year": "2013",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Lee Seok-ki; members of United Progressive Party"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "South Sudan",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "South Sudan",
+        "month": "12",
+        "day": "15",
+        "outcome": "2",
+        "year": "2013",
+        "deaths": "66",
+        "arc": null,
+        "leader": "Riek Machar"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "South Vietnam",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "South Vietnam",
+        "month": "11",
+        "day": "11",
+        "outcome": "2",
+        "year": "1960",
+        "deaths": "3000",
+        "arc": null,
+        "leader": "Col. Vuong Van Dong, Col. Nguyen Chanh Thi"
+      },
+      {
+        "country": "South Vietnam",
+        "month": "11",
+        "day": "1",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "36",
+        "arc": null,
+        "leader": "LTG Duong Van Minh"
+      },
+      {
+        "country": "South Vietnam",
+        "month": "1",
+        "day": "30",
+        "outcome": "1",
+        "year": "1964",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gens. Nguyen Khanh & Tran Thien Khiem"
+      },
+      {
+        "country": "South Vietnam",
+        "month": "9",
+        "day": "13",
+        "outcome": "2",
+        "year": "1964",
+        "deaths": "999",
+        "arc": null,
+        "leader": "MG Duong Van Duc"
+      },
+      {
+        "country": "South Vietnam",
+        "month": "1",
+        "day": "27",
+        "outcome": "1",
+        "year": "1965",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gen. Nguyen Khanh"
+      },
+      {
+        "country": "South Vietnam",
+        "month": "2",
+        "day": "19",
+        "outcome": "2",
+        "year": "1965",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Col. Pham Ngoc Thao"
+      },
+      {
+        "country": "South Vietnam",
+        "month": "6",
+        "day": "11",
+        "outcome": "1",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Nguyen Van Thien"
+      }
+    ],
+    "count": 7
+  },
+  {
+    "alpha_country": "South Yemen",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "South Yemen",
+        "month": "6",
+        "day": "22",
+        "outcome": "1",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Salem Rubayyi, Mohammed Ali Haithem, Mohammed Ali al Aulaqi"
+      },
+      {
+        "country": "South Yemen",
+        "month": "6",
+        "day": "26",
+        "outcome": "1",
+        "year": "1978",
+        "deaths": "600",
+        "arc": null,
+        "leader": "Ali Nassar Mohammed"
+      },
+      {
+        "country": "South Yemen",
+        "month": "1",
+        "day": "13",
+        "outcome": "1",
+        "year": "1986",
+        "deaths": "2000",
+        "arc": null,
+        "leader": "Ismail, Col. Antar, Haidar Abu Bakr al Attas"
+      }
+    ],
+    "count": 3
+  },
+  {
+    "alpha_country": "Soviet Union",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Soviet Union",
+        "month": "2",
+        "day": null,
+        "outcome": "4",
+        "year": "1990",
+        "deaths": "22",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Soviet Union",
+        "month": "8",
+        "day": "21",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gennady Yanavev, Valentin Pavlov, Vladimir Kryuchkov, \"Gang of Eight\""
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Spain",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Spain",
+        "month": "11",
+        "day": "17",
+        "outcome": "2",
+        "year": "1979",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTC Antonio Tejero Molina"
+      },
+      {
+        "country": "Spain",
+        "month": "1",
+        "day": null,
+        "outcome": "4",
+        "year": "1980",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Gen. Luis Torres Rojas"
+      },
+      {
+        "country": "Spain",
+        "month": "2",
+        "day": "23",
+        "outcome": "2",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTC Molina"
+      },
+      {
+        "country": "Spain",
+        "month": "10",
+        "day": "1",
+        "outcome": "3",
+        "year": "1982",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Jesus Cuspinera, LTC Jose Cuspinera, Col. Luis Gutierrez"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Sri Lanka",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Sri Lanka",
+        "month": "1",
+        "day": "27",
+        "outcome": "3",
+        "year": "1962",
+        "deaths": "0",
+        "arc": null,
+        "leader": "C. C. Dissanayake, Col. Maurice de Mel, Col. F. C. de Saram"
+      },
+      {
+        "country": "Sri Lanka",
+        "month": "1",
+        "day": "29",
+        "outcome": "4",
+        "year": "2010",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen-retd. Sarath Fonseka"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Sudan",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Sudan",
+        "month": "12",
+        "day": "28",
+        "outcome": "2",
+        "year": "1966",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Lt. Khalid Hussein Osman, Col. Gaafar Nimeira, Communist Party"
+      },
+      {
+        "country": "Sudan",
+        "month": "5",
+        "day": "25",
+        "outcome": "1",
+        "year": "1969",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Col. Jaafar Mohammed al Nemery"
+      },
+      {
+        "country": "Sudan",
+        "month": "7",
+        "day": "20",
+        "outcome": "3",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "\"Free Blacks\""
+      },
+      {
+        "country": "Sudan",
+        "month": "7",
+        "day": "26",
+        "outcome": "3",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Sudan",
+        "month": "8",
+        "day": "17",
+        "outcome": "3",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Abdalla Abderrahman Nugdalla"
+      },
+      {
+        "country": "Sudan",
+        "month": "1",
+        "day": "7",
+        "outcome": "3",
+        "year": "1970",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Brig. (retr) Abdullah Mohammed Aden"
+      },
+      {
+        "country": "Sudan",
+        "month": "3",
+        "day": "30",
+        "outcome": "2",
+        "year": "1970",
+        "deaths": "150",
+        "arc": null,
+        "leader": "Imam el Hadi el Mahdi; Ansar sect"
+      },
+      {
+        "country": "Sudan",
+        "month": "7",
+        "day": "19",
+        "outcome": "2",
+        "year": "1971",
+        "deaths": "50",
+        "arc": null,
+        "leader": "Maj. Hashem el Atta"
+      },
+      {
+        "country": "Sudan",
+        "month": "1",
+        "day": "26",
+        "outcome": "4",
+        "year": "1973",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Brig (retd) Shenan"
+      },
+      {
+        "country": "Sudan",
+        "month": "9",
+        "day": "5",
+        "outcome": "2",
+        "year": "1975",
+        "deaths": "999",
+        "arc": null,
+        "leader": "military; joined by communist and religious groups"
+      },
+      {
+        "country": "Sudan",
+        "month": "7",
+        "day": "2",
+        "outcome": "2",
+        "year": "1976",
+        "deaths": "1000",
+        "arc": null,
+        "leader": "incl. Capt. Bushra Abdullah, BG Mohammed Nur Saad"
+      },
+      {
+        "country": "Sudan",
+        "month": "2",
+        "day": "3",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "9",
+        "arc": null,
+        "leader": "Philip Abbas Gaboush"
+      },
+      {
+        "country": "Sudan",
+        "month": "3",
+        "day": null,
+        "outcome": "3",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "BG Saad Buhar"
+      },
+      {
+        "country": "Sudan",
+        "month": "7",
+        "day": null,
+        "outcome": "3",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Mohammed Kati Gibriel"
+      },
+      {
+        "country": "Sudan",
+        "month": "4",
+        "day": "6",
+        "outcome": "1",
+        "year": "1985",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Gen. Abdel Rahman Swar el Dahab"
+      },
+      {
+        "country": "Sudan",
+        "month": "9",
+        "day": "25",
+        "outcome": "2",
+        "year": "1985",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Col. Garang, Yacoub Ismail, Youssef Kewa"
+      },
+      {
+        "country": "Sudan",
+        "month": "6",
+        "day": "30",
+        "outcome": "1",
+        "year": "1989",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "BG Omar Hassan Ahmad al-Bashir"
+      },
+      {
+        "country": "Sudan",
+        "month": "4",
+        "day": "23",
+        "outcome": "4",
+        "year": "1990",
+        "deaths": "31",
+        "arc": null,
+        "leader": "incl. MG Khalid al Zayn Ali, MG Abdul Kader, BG Mohammed Osman Hamed Kavar"
+      },
+      {
+        "country": "Sudan",
+        "month": "9",
+        "day": "12",
+        "outcome": "2",
+        "year": "1990",
+        "deaths": "15",
+        "arc": null,
+        "leader": "Non-commissioned officers (Nuba)"
+      },
+      {
+        "country": "Sudan",
+        "month": "4",
+        "day": "16",
+        "outcome": "4",
+        "year": "1991",
+        "deaths": "20",
+        "arc": null,
+        "leader": "army officiers"
+      },
+      {
+        "country": "Sudan",
+        "month": "8",
+        "day": "23",
+        "outcome": "4",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Sudan",
+        "month": "2",
+        "day": "2",
+        "outcome": "4",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Sudan",
+        "month": "4",
+        "day": "15",
+        "outcome": "4",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Sudan",
+        "month": "3",
+        "day": "7",
+        "outcome": "4",
+        "year": "1996",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Sudan",
+        "month": "3",
+        "day": "31",
+        "outcome": "3",
+        "year": "2004",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Hasan Abdullah al-Turabi"
+      },
+      {
+        "country": "Sudan",
+        "month": "9",
+        "day": "25",
+        "outcome": "3",
+        "year": "2004",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Hasan Abdullah al-Turabi; JEM"
+      },
+      {
+        "country": "Sudan",
+        "month": "7",
+        "day": "14",
+        "outcome": "3",
+        "year": "2007",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Mubarak al-Fadhil al-Mahdi; Maj-Gen (retd) Ma'sh Muhammed Ali Hamid; Abd-al-Jalil al-Basha"
+      },
+      {
+        "country": "Sudan",
+        "month": "5",
+        "day": "10",
+        "outcome": "2",
+        "year": "2008",
+        "deaths": "200",
+        "arc": null,
+        "leader": "Justice and Equality Movement (JEM)"
+      }
+    ],
+    "count": 28
+  },
+  {
+    "alpha_country": "Sudan-North",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Sudan-North",
+        "month": "11",
+        "day": "22",
+        "outcome": "3",
+        "year": "2012",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Lt.Gen. Salah Abdallah Gosh"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Suriname",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Suriname",
+        "month": "2",
+        "day": "25",
+        "outcome": "1",
+        "year": "1980",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "Sgts. Neede, Sital, Abrahams, Horb, Mijnals, Joeman, Bouterse; Lt. Van Rey"
+      },
+      {
+        "country": "Suriname",
+        "month": "5",
+        "day": "6",
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Frits Ormskerk; Johannes Cornelis Krol; Jan Pronk"
+      },
+      {
+        "country": "Suriname",
+        "month": "8",
+        "day": "15",
+        "outcome": "1",
+        "year": "1980",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Sgt-Maj. Desi Bouterse"
+      },
+      {
+        "country": "Suriname",
+        "month": "3",
+        "day": "15",
+        "outcome": "2",
+        "year": "1981",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Sgt-Maj. Willem Hawker"
+      },
+      {
+        "country": "Suriname",
+        "month": "3",
+        "day": "11",
+        "outcome": "2",
+        "year": "1982",
+        "deaths": "12",
+        "arc": null,
+        "leader": "Sgt-Maj. Willem Hawker"
+      },
+      {
+        "country": "Suriname",
+        "month": "12",
+        "day": "8",
+        "outcome": "4",
+        "year": "1982",
+        "deaths": "15",
+        "arc": null,
+        "leader": "opposition leaders"
+      },
+      {
+        "country": "Suriname",
+        "month": "1",
+        "day": "30",
+        "outcome": "3",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Maj. Roy Horb, Lt. John Hardjoprajitno; Jan Sariman"
+      },
+      {
+        "country": "Suriname",
+        "month": "11",
+        "day": "25",
+        "outcome": "3",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Oemperkash Gobardham; Henck Chin-a-Sen"
+      },
+      {
+        "country": "Suriname",
+        "month": "4",
+        "day": "1",
+        "outcome": "3",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Oskar Kluis; John Barrow; Movement for the Liberation of Suriname"
+      },
+      {
+        "country": "Suriname",
+        "month": "7",
+        "day": "28",
+        "outcome": "3",
+        "year": "1986",
+        "deaths": "0",
+        "arc": null,
+        "leader": "US mercenaries arrested in New Orleans"
+      },
+      {
+        "country": "Suriname",
+        "month": "12",
+        "day": "24",
+        "outcome": "1",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Cmd. Iwan Granoogst; Col. Desi Bouterse"
+      }
+    ],
+    "count": 11
+  },
+  {
+    "alpha_country": "Swaziland",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Swaziland",
+        "month": "2",
+        "day": null,
+        "outcome": "4",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Swaziland",
+        "month": "12",
+        "day": null,
+        "outcome": "3",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Prince Matatazela, Princess Neane, Princess Buyisile, Royal Wife Lamndzebele"
+      },
+      {
+        "country": "Swaziland",
+        "month": "3",
+        "day": "20",
+        "outcome": "3",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unnamed"
+      },
+      {
+        "country": "Swaziland",
+        "month": "6",
+        "day": null,
+        "outcome": "2",
+        "year": "1984",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Prince Sozisa"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Syria",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Syria",
+        "month": "9",
+        "day": "28",
+        "outcome": "1",
+        "year": "1961",
+        "deaths": "999",
+        "arc": null,
+        "leader": "army; Al-kuzbari"
+      },
+      {
+        "country": "Syria",
+        "month": "3",
+        "day": "28",
+        "outcome": "2",
+        "year": "1962",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Brig-Gen Nahalawi, Brig-Gen. Assassa, Brig-Gen. Dahman"
+      },
+      {
+        "country": "Syria",
+        "month": "7",
+        "day": "29",
+        "outcome": "3",
+        "year": "1962",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Nasserites"
+      },
+      {
+        "country": "Syria",
+        "month": "3",
+        "day": "8",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Atassi; Amin al Hafiz"
+      },
+      {
+        "country": "Syria",
+        "month": "4",
+        "day": "8",
+        "outcome": "4",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Nasserites"
+      },
+      {
+        "country": "Syria",
+        "month": "7",
+        "day": null,
+        "outcome": "2",
+        "year": "1963",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Nasserites"
+      },
+      {
+        "country": "Syria",
+        "month": "2",
+        "day": "23",
+        "outcome": "1",
+        "year": "1966",
+        "deaths": "41",
+        "arc": null,
+        "leader": "Gen. Assad, Col. Suidan"
+      },
+      {
+        "country": "Syria",
+        "month": "9",
+        "day": "8",
+        "outcome": "2",
+        "year": "1966",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Col. Selim Hatoum"
+      },
+      {
+        "country": "Syria",
+        "month": "11",
+        "day": "13",
+        "outcome": "1",
+        "year": "1970",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Assad"
+      },
+      {
+        "country": "Syria",
+        "month": "1",
+        "day": null,
+        "outcome": "2",
+        "year": "1982",
+        "deaths": "50",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Syria",
+        "month": "5",
+        "day": "10",
+        "outcome": "4",
+        "year": "1987",
+        "deaths": "40",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 11
+  },
+  {
+    "alpha_country": "Tajikistan",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Tajikistan",
+        "month": "10",
+        "day": null,
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "0",
+        "arc": null,
+        "leader": "supporters of Rakhmon Nabiyev"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Tanzania",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Tanzania",
+        "month": "1",
+        "day": "19",
+        "outcome": "2",
+        "year": "1964",
+        "deaths": "999",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Tanzania",
+        "month": "7",
+        "day": "21",
+        "outcome": "4",
+        "year": "1967",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Eli Anangisye, Kassim Hanga"
+      },
+      {
+        "country": "Tanzania",
+        "month": "10",
+        "day": "11",
+        "outcome": "3",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Oscar Kambona, Bibi Titi Mohammed, Gray Likungu Mattaka, John Dunstan Chipaka"
+      },
+      {
+        "country": "Tanzania",
+        "month": "6",
+        "day": "26",
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Tanzania",
+        "month": "1",
+        "day": null,
+        "outcome": "3",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Hatty Maghee and more than 30 others"
+      },
+      {
+        "country": "Tanzania",
+        "month": "1",
+        "day": null,
+        "outcome": "4",
+        "year": "1988",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 6
+  },
+  {
+    "alpha_country": "Thailand",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Thailand",
+        "month": "11",
+        "day": "17",
+        "outcome": "1",
+        "year": "1971",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Field Marshal Thanom Kittikachorn"
+      },
+      {
+        "country": "Thailand",
+        "month": "10",
+        "day": "6",
+        "outcome": "1",
+        "year": "1976",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "incl. Adm. Sa-ngad, Gen. Kriangsak, Air Chief Marshal Kamol"
+      },
+      {
+        "country": "Thailand",
+        "month": "3",
+        "day": "26",
+        "outcome": "2",
+        "year": "1977",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Gen. Chalard Hiranyasiri"
+      },
+      {
+        "country": "Thailand",
+        "month": "10",
+        "day": "20",
+        "outcome": "1",
+        "year": "1977",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Adm. Sa-ngad Chaloryu"
+      },
+      {
+        "country": "Thailand",
+        "month": "4",
+        "day": "1",
+        "outcome": "2",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Sant Chitpatima"
+      },
+      {
+        "country": "Thailand",
+        "month": "9",
+        "day": "9",
+        "outcome": "2",
+        "year": "1985",
+        "deaths": "5",
+        "arc": null,
+        "leader": "incl. Col. Manoon Rupkachorn, Wing Comm. Manat Rupkachorn"
+      },
+      {
+        "country": "Thailand",
+        "month": "2",
+        "day": "23",
+        "outcome": "1",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Sunthorn Kongsompong"
+      },
+      {
+        "country": "Thailand",
+        "month": "9",
+        "day": "19",
+        "outcome": "1",
+        "year": "2006",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Gen. Sonthi Boonyaratglin"
+      },
+      {
+        "country": "Thailand",
+        "month": "5",
+        "day": "22",
+        "outcome": "1",
+        "year": "2014",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "General Prayuth Chan-ocha"
+      }
+    ],
+    "count": 9
+  },
+  {
+    "alpha_country": "Togo",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Togo",
+        "month": "1",
+        "day": "13",
+        "outcome": "1",
+        "year": "1963",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Sgt.Maj. Emmanuel Bodjolle"
+      },
+      {
+        "country": "Togo",
+        "month": "4",
+        "day": "9",
+        "outcome": "4",
+        "year": "1963",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Noel Kutuklui; United Togolese party"
+      },
+      {
+        "country": "Togo",
+        "month": "7",
+        "day": "4",
+        "outcome": "3",
+        "year": "1964",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Theophile Mally; Maj. Bodjolle"
+      },
+      {
+        "country": "Togo",
+        "month": "1",
+        "day": null,
+        "outcome": "4",
+        "year": "1965",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Eight military men"
+      },
+      {
+        "country": "Togo",
+        "month": "11",
+        "day": "20",
+        "outcome": "2",
+        "year": "1966",
+        "deaths": "0",
+        "arc": null,
+        "leader": "M. Kutuklui; Benoit Malou; Pierre Adossama"
+      },
+      {
+        "country": "Togo",
+        "month": "1",
+        "day": "13",
+        "outcome": "1",
+        "year": "1967",
+        "deaths": "0",
+        "arc": null,
+        "leader": "LTC Etienne Eyadema"
+      },
+      {
+        "country": "Togo",
+        "month": "5",
+        "day": "15",
+        "outcome": "4",
+        "year": "1969",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Bonito Herbert Olympio"
+      },
+      {
+        "country": "Togo",
+        "month": "8",
+        "day": "8",
+        "outcome": "2",
+        "year": "1970",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Noel Kutuklui"
+      },
+      {
+        "country": "Togo",
+        "month": "10",
+        "day": null,
+        "outcome": "3",
+        "year": "1977",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Togo",
+        "month": "1",
+        "day": null,
+        "outcome": "3",
+        "year": "1983",
+        "deaths": null,
+        "arc": null,
+        "leader": "Gilchrist Olympio"
+      },
+      {
+        "country": "Togo",
+        "month": "9",
+        "day": "23",
+        "outcome": "2",
+        "year": "1986",
+        "deaths": "26",
+        "arc": null,
+        "leader": "Gilchrist Olumpio, Capt. Francisco Lawson"
+      },
+      {
+        "country": "Togo",
+        "month": "8",
+        "day": "26",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Pres. Eyadema attempt to suspend national transition conference"
+      },
+      {
+        "country": "Togo",
+        "month": "10",
+        "day": "1",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Lt. Gnassingbe Ta, Maj. Marusse Djoua"
+      },
+      {
+        "country": "Togo",
+        "month": "11",
+        "day": "28",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "troops loyal to Eyadema"
+      },
+      {
+        "country": "Togo",
+        "month": "12",
+        "day": "3",
+        "outcome": "2",
+        "year": "1991",
+        "deaths": "17",
+        "arc": null,
+        "leader": "rebel soldiers"
+      },
+      {
+        "country": "Togo",
+        "month": "2",
+        "day": "5",
+        "outcome": "1",
+        "year": "2005",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Military; Faure Gnassingbe"
+      },
+      {
+        "country": "Togo",
+        "month": "4",
+        "day": "12",
+        "outcome": "3",
+        "year": "2009",
+        "deaths": "2",
+        "arc": null,
+        "leader": "Kpatche Gnassingbe"
+      }
+    ],
+    "count": 17
+  },
+  {
+    "alpha_country": "Trinidad & Tobago",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Trinidad & Tobago",
+        "month": "9",
+        "day": null,
+        "outcome": "3",
+        "year": "1983",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified \"Black Muslim\" group"
+      },
+      {
+        "country": "Trinidad & Tobago",
+        "month": "7",
+        "day": "27",
+        "outcome": "2",
+        "year": "1990",
+        "deaths": "30",
+        "arc": null,
+        "leader": "Imam Ysih Abu Bakr"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Tunisia",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Tunisia",
+        "month": "12",
+        "day": "19",
+        "outcome": "3",
+        "year": "1962",
+        "deaths": "10",
+        "arc": null,
+        "leader": "Capt. Kbair Maherzi, Com. Salah Ben Said, Lashar Chirati, Habib Hidni"
+      },
+      {
+        "country": "Tunisia",
+        "month": "11",
+        "day": "7",
+        "outcome": "1",
+        "year": "1987",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Zine el-Abidine Ben Ali"
+      },
+      {
+        "country": "Tunisia",
+        "month": "5",
+        "day": null,
+        "outcome": "4",
+        "year": "1991",
+        "deaths": "2",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Tunisia",
+        "month": "9",
+        "day": "7",
+        "outcome": "4",
+        "year": "1991",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      }
+    ],
+    "count": 4
+  },
+  {
+    "alpha_country": "Turkey",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Turkey",
+        "month": "5",
+        "day": "27",
+        "outcome": "1",
+        "year": "1960",
+        "deaths": "3",
+        "arc": null,
+        "leader": "Gen. Cemal Gursel"
+      },
+      {
+        "country": "Turkey",
+        "month": "2",
+        "day": "22",
+        "outcome": "2",
+        "year": "1962",
+        "deaths": "999",
+        "arc": null,
+        "leader": "cadets of Ankara War College"
+      },
+      {
+        "country": "Turkey",
+        "month": "5",
+        "day": "20",
+        "outcome": "2",
+        "year": "1963",
+        "deaths": "7",
+        "arc": null,
+        "leader": "Col. Aydemir"
+      },
+      {
+        "country": "Turkey",
+        "month": "3",
+        "day": "12",
+        "outcome": "1",
+        "year": "1971",
+        "deaths": "0",
+        "arc": "1",
+        "leader": "Military Commanders"
+      },
+      {
+        "country": "Turkey",
+        "month": "9",
+        "day": "10",
+        "outcome": "1",
+        "year": "1980",
+        "deaths": "999",
+        "arc": "1",
+        "leader": "Gen. Kenan Evren"
+      },
+      {
+        "country": "Turkey",
+        "month": "1",
+        "day": "26",
+        "outcome": "4",
+        "year": "2008",
+        "deaths": "0",
+        "arc": null,
+        "leader": "ultra-nationalist Ergenekon organization"
+      },
+      {
+        "country": "Turkey",
+        "month": "2",
+        "day": "22",
+        "outcome": "4",
+        "year": "2010",
+        "deaths": "0",
+        "arc": null,
+        "leader": "20 senior military officers in \"Sledgehammer\" plot"
+      },
+      {
+        "country": "Turkey",
+        "month": "7",
+        "day": "15",
+        "outcome": "2",
+        "year": "2016",
+        "deaths": "296",
+        "arc": null,
+        "leader": "Gulenists"
+      }
+    ],
+    "count": 8
+  },
+  {
+    "alpha_country": "Turkmenistan",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Turkmenistan",
+        "month": "4",
+        "day": null,
+        "outcome": "4",
+        "year": "2002",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Muhammad Nazarov"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Uganda",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Uganda",
+        "month": "1",
+        "day": "25",
+        "outcome": "1",
+        "year": "1971",
+        "deaths": "75",
+        "arc": null,
+        "leader": "MG Idi Amin"
+      },
+      {
+        "country": "Uganda",
+        "month": "3",
+        "day": "23",
+        "outcome": "2",
+        "year": "1974",
+        "deaths": "50",
+        "arc": null,
+        "leader": "BG Charles Arupe (in question)"
+      },
+      {
+        "country": "Uganda",
+        "month": "9",
+        "day": "9",
+        "outcome": "2",
+        "year": "1975",
+        "deaths": "999",
+        "arc": null,
+        "leader": "Lt. Col. Gori"
+      },
+      {
+        "country": "Uganda",
+        "month": "5",
+        "day": "12",
+        "outcome": "1",
+        "year": "1980",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Brig. David Oyite-Ojok, Paulo Muwanga, Yoweri Musaveni"
+      },
+      {
+        "country": "Uganda",
+        "month": "7",
+        "day": "27",
+        "outcome": "1",
+        "year": "1985",
+        "deaths": "0",
+        "arc": null,
+        "leader": "BG Bazilio Olara Okello"
+      },
+      {
+        "country": "Uganda",
+        "month": "3",
+        "day": null,
+        "outcome": "4",
+        "year": "1986",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Uganda",
+        "month": "9",
+        "day": "2",
+        "outcome": "4",
+        "year": "1986",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Uganda",
+        "month": "10",
+        "day": null,
+        "outcome": "4",
+        "year": "1986",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Panlo Muwanga, Dr. Kayiira, M. Lwanga, Mr. Nyanzi"
+      },
+      {
+        "country": "Uganda",
+        "month": "1",
+        "day": "6",
+        "outcome": "4",
+        "year": "1987",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Uganda",
+        "month": "5",
+        "day": "5",
+        "outcome": "4",
+        "year": "2013",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. David Sejusa Tinyefuza"
+      },
+      {
+        "country": "Uganda",
+        "month": "6",
+        "day": "7",
+        "outcome": "4",
+        "year": "2016",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Michael Kabaziguruka and \"dozens of military officers\""
+      }
+    ],
+    "count": 11
+  },
+  {
+    "alpha_country": "United Arab Emirates",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "United Arab Emirates",
+        "month": "6",
+        "day": "16",
+        "outcome": "2",
+        "year": "1987",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Sheikh Abdel Aziz bin Muhammed al Qassimi"
+      },
+      {
+        "country": "United Arab Emirates",
+        "month": "1",
+        "day": "28",
+        "outcome": "4",
+        "year": "2013",
+        "deaths": "0",
+        "arc": null,
+        "leader": "94 people accused of being members of al-Islah; arrested in July/August 2012"
+      }
+    ],
+    "count": 2
+  },
+  {
+    "alpha_country": "Uruguay",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Uruguay",
+        "month": "6",
+        "day": "12",
+        "outcome": "1",
+        "year": "1976",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Uruguayan armed forces"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Venezuela",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Venezuela",
+        "month": "2",
+        "day": "4",
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "14",
+        "arc": null,
+        "leader": "Lt.Col. Hugo Chavez Frias"
+      },
+      {
+        "country": "Venezuela",
+        "month": "11",
+        "day": "27",
+        "outcome": "2",
+        "year": "1992",
+        "deaths": "169",
+        "arc": null,
+        "leader": "incl. Luis Cabrera Auirre, R.Adm. Hernan Gruber Odreman, Brig.Gen. Visconti"
+      },
+      {
+        "country": "Venezuela",
+        "month": "4",
+        "day": "12",
+        "outcome": "2",
+        "year": "2002",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Gen. Luis Rincon, Gen. Efrain Vasquez Verasco"
+      },
+      {
+        "country": "Venezuela",
+        "month": "9",
+        "day": "11",
+        "outcome": "4",
+        "year": "2008",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Gen. Eduardo Baez; Vice Adm. Carlos Millan"
+      },
+      {
+        "country": "Venezuela",
+        "month": "3",
+        "day": "25",
+        "outcome": "4",
+        "year": "2014",
+        "deaths": "0",
+        "arc": null,
+        "leader": "three air force generals"
+      },
+      {
+        "country": "Venezuela",
+        "month": "2",
+        "day": "12",
+        "outcome": "4",
+        "year": "2015",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Unnamed \"retired air force general\" and 13 others, including the mayor of Caracas, Antonio Ledezma"
+      }
+    ],
+    "count": 6
+  },
+  {
+    "alpha_country": "Vietnam",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Vietnam",
+        "month": "5",
+        "day": "30",
+        "outcome": "4",
+        "year": "2011",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Vietnam Reform Party"
+      }
+    ],
+    "count": 1
+  },
+  {
+    "alpha_country": "Zambia",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Zambia",
+        "month": "10",
+        "day": "16",
+        "outcome": "2",
+        "year": "1980",
+        "deaths": "2",
+        "arc": null,
+        "leader": "incl. MG Kabwe, Mr. Musakanya, Mr. Shamwara, BG Miyanda"
+      },
+      {
+        "country": "Zambia",
+        "month": "6",
+        "day": "14",
+        "outcome": "3",
+        "year": "1981",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Zambia",
+        "month": "10",
+        "day": "7",
+        "outcome": "4",
+        "year": "1988",
+        "deaths": "999",
+        "arc": null,
+        "leader": "LTG Christon Tembo"
+      },
+      {
+        "country": "Zambia",
+        "month": "6",
+        "day": "30",
+        "outcome": "2",
+        "year": "1990",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Lt. Mwamba Luchembe"
+      },
+      {
+        "country": "Zambia",
+        "month": "3",
+        "day": null,
+        "outcome": "4",
+        "year": "1993",
+        "deaths": "0",
+        "arc": null,
+        "leader": "incl. Maj. Wezi Kuanda, Tilyenji Kuanda, Panji Kuanda"
+      },
+      {
+        "country": "Zambia",
+        "month": "10",
+        "day": "28",
+        "outcome": "2",
+        "year": "1997",
+        "deaths": "1",
+        "arc": null,
+        "leader": "Capt. Stephen Lungu"
+      }
+    ],
+    "count": 6
+  },
+  {
+    "alpha_country": "Zimbabwe",
+	"code":"",
+	"flag_url":"",
+	"worldbank_data":"",
+    "coups": [
+      {
+        "country": "Zimbabwe",
+        "month": "10",
+        "day": null,
+        "outcome": "4",
+        "year": "1995",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Rev. Ndaboningi Sithole"
+      },
+      {
+        "country": "Zimbabwe",
+        "month": "12",
+        "day": null,
+        "outcome": "4",
+        "year": "1998",
+        "deaths": "0",
+        "arc": null,
+        "leader": "unspecified"
+      },
+      {
+        "country": "Zimbabwe",
+        "month": "5",
+        "day": null,
+        "outcome": "4",
+        "year": "2001",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Air Marshal Perence Shiri"
+      },
+      {
+        "country": "Zimbabwe",
+        "month": "3",
+        "day": "9",
+        "outcome": "4",
+        "year": "2006",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Peter Hitschman; MDC"
+      },
+      {
+        "country": "Zimbabwe",
+        "month": "6",
+        "day": "16",
+        "outcome": "4",
+        "year": "2007",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Albert Matapo; Emmerson Mnangagwa; Brig-Gen. Ambrose Paul Gunda"
+      },
+      {
+        "country": "Zimbabwe",
+        "month": "12",
+        "day": "9",
+        "outcome": "4",
+        "year": "2014",
+        "deaths": "0",
+        "arc": null,
+        "leader": "Vice President Joice Mujuru"
+      }
+    ],
+    "count": 6
+  }
+]
