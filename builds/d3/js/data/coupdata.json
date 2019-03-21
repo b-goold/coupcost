@@ -1858,8 +1858,8 @@
   },
   {
     "alpha_country": "Chile",
-	"code":"https://www.countryflags.io/CL/flat/64.png",
-	"flag_url":"CHL",
+	"code":"CHL",
+	"flag_url":"https://www.countryflags.io/CL/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -4896,8 +4896,8 @@
   },
   {
     "alpha_country": "Madagascar",
-	"code":"",
-	"flag_url":"",
+	"code":"MDG",
+	"flag_url":"https://www.countryflags.io/MG/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -4975,8 +4975,8 @@
   },
   {
     "alpha_country": "Malawi",
-	"code":"",
-	"flag_url":"",
+	"code":"MWI",
+	"flag_url":"https://www.countryflags.io/MW/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5014,8 +5014,8 @@
   },
   {
     "alpha_country": "Malaysia",
-	"code":"",
-	"flag_url":"",
+	"code":"MYS",
+	"flag_url":"https://www.countryflags.io/MY/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5033,8 +5033,8 @@
   },
   {
     "alpha_country": "Mali",
-	"code":"",
-	"flag_url":"",
+	"code":"MLI",
+	"flag_url":"https://www.countryflags.io/ML/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5142,8 +5142,8 @@
   },
   {
     "alpha_country": "Mauritania",
-	"code":"",
-	"flag_url":"",
+	"code":"MRT",
+	"flag_url":"https://www.countryflags.io/MR/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5291,8 +5291,8 @@
   },
   {
     "alpha_country": "Moldova",
-	"code":"",
-	"flag_url":"",
+	"code":"MDA",
+	"flag_url":"https://www.countryflags.io/MD/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5310,8 +5310,8 @@
   },
   {
     "alpha_country": "Montenegro",
-	"code":"",
-	"flag_url":"",
+	"code":"MNE",
+	"flag_url":"https://www.countryflags.io/ME/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5329,8 +5329,8 @@
   },
   {
     "alpha_country": "Morocco",
-	"code":"",
-	"flag_url":"",
+	"code":"MAR",
+	"flag_url":"https://www.countryflags.io/MA/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5368,8 +5368,8 @@
   },
   {
     "alpha_country": "Mozambique",
-	"code":"",
-	"flag_url":"",
+	"code":"MOZ",
+	"flag_url":"https://www.countryflags.io/MZ/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5397,8 +5397,8 @@
   },
   {
     "alpha_country": "Nepal",
-	"code":"",
-	"flag_url":"",
+	"code":"NPL",
+	"flag_url":"https://www.countryflags.io/NP/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5446,8 +5446,8 @@
   },
   {
     "alpha_country": "Nicaragua",
-	"code":"",
-	"flag_url":"",
+	"code":"NIC",
+	"flag_url":"https://www.countryflags.io/NI/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5485,8 +5485,8 @@
   },
   {
     "alpha_country": "Niger",
-	"code":"",
-	"flag_url":"",
+	"code":"NER",
+	"flag_url":"https://www.countryflags.io/NE/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5594,8 +5594,8 @@
   },
   {
     "alpha_country": "Nigeria",
-	"code":"",
-	"flag_url":"",
+	"code":"NGA",
+	"flag_url":"https://www.countryflags.io/NG/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5743,8 +5743,8 @@
   },
   {
     "alpha_country": "North Korea",
-	"code":"",
-	"flag_url":"",
+	"code":"PRK",
+	"flag_url":"https://www.countryflags.io/KP/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5772,8 +5772,8 @@
   },
   {
     "alpha_country": "North Yemen",
-	"code":"",
-	"flag_url":"",
+	"code":"YEM",
+	"flag_url":"https://www.countryflags.io/XK/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5841,8 +5841,8 @@
   },
   {
     "alpha_country": "Oman",
-	"code":"",
-	"flag_url":"",
+	"code":"OMN",
+	"flag_url":"https://www.countryflags.io/OM/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5870,8 +5870,8 @@
   },
   {
     "alpha_country": "Pakistan",
-	"code":"",
-	"flag_url":"",
+	"code":"PAK",
+	"flag_url":"https://www.countryflags.io/PK/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -5919,8 +5919,8 @@
   },
   {
     "alpha_country": "Panama",
-	"code":"",
-	"flag_url":"",
+	"code":"PAN",
+	"flag_url":"https://www.countryflags.io/PA/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6018,8 +6018,8 @@
   },
   {
     "alpha_country": "Papua New Guinea",
-	"code":"",
-	"flag_url":"",
+	"code":"PNG",
+	"flag_url":"https://www.countryflags.io/PG/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6047,8 +6047,8 @@
   },
   {
     "alpha_country": "Paraguay",
-	"code":"",
-	"flag_url":"",
+	"code":"PRY",
+	"flag_url":"https://www.countryflags.io/PY/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6086,8 +6086,8 @@
   },
   {
     "alpha_country": "Peru",
-	"code":"",
-	"flag_url":"",
+	"code":"PER",
+	"flag_url":"https://www.countryflags.io/PE/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6155,8 +6155,8 @@
   },
   {
     "alpha_country": "Philippines",
-	"code":"",
-	"flag_url":"",
+	"code":"PHL",
+	"flag_url":"https://www.countryflags.io/PH/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6274,8 +6274,8 @@
   },
   {
     "alpha_country": "Poland",
-	"code":"",
-	"flag_url":"",
+	"code":"POL",
+	"flag_url":"https://www.countryflags.io/PL/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6293,8 +6293,8 @@
   },
   {
     "alpha_country": "Portugal",
-	"code":"",
-	"flag_url":"",
+	"code":"PRT",
+	"flag_url":"https://www.countryflags.io/PT/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6352,8 +6352,8 @@
   },
   {
     "alpha_country": "Qatar",
-	"code":"",
-	"flag_url":"",
+	"code":"QAT",
+	"flag_url":"https://www.countryflags.io/QA/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6391,8 +6391,8 @@
   },
   {
     "alpha_country": "Romania",
-	"code":"",
-	"flag_url":"",
+	"code":"ROU",
+	"flag_url":"https://www.countryflags.io/RO/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6410,8 +6410,8 @@
   },
   {
     "alpha_country": "Rwanda",
-	"code":"",
-	"flag_url":"",
+	"code":"RWA",
+	"flag_url":"https://www.countryflags.io/RW/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6449,8 +6449,8 @@
   },
   {
     "alpha_country": "Saudi Arabia",
-	"code":"",
-	"flag_url":"",
+	"code":"SAU",
+	"flag_url":"https://www.countryflags.io/SA/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6468,8 +6468,8 @@
   },
   {
     "alpha_country": "Senegal",
-	"code":"",
-	"flag_url":"",
+	"code":"SEN",
+	"flag_url":"https://www.countryflags.io/SN/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6487,8 +6487,8 @@
   },
   {
     "alpha_country": "Sierra Leone",
-	"code":"",
-	"flag_url":"",
+	"code":"SLE",
+	"flag_url":"https://www.countryflags.io/SL/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6636,8 +6636,8 @@
   },
   {
     "alpha_country": "Somalia",
-	"code":"",
-	"flag_url":"",
+	"code":"SOM",
+	"flag_url":"https://www.countryflags.io/SO/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6695,8 +6695,8 @@
   },
   {
     "alpha_country": "South Africa",
-	"code":"",
-	"flag_url":"",
+	"code":"ZAF",
+	"flag_url":"https://www.countryflags.io/ZA/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6724,8 +6724,8 @@
   },
   {
     "alpha_country": "South Korea",
-	"code":"",
-	"flag_url":"",
+	"code":"KOR",
+	"flag_url":"https://www.countryflags.io/KR/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6773,8 +6773,8 @@
   },
   {
     "alpha_country": "South Sudan",
-	"code":"",
-	"flag_url":"",
+	"code":"SSD",
+	"flag_url":"https://www.countryflags.io/SS/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6792,8 +6792,8 @@
   },
   {
     "alpha_country": "South Vietnam",
-	"code":"",
-	"flag_url":"",
+	"code":"VNM",
+	"flag_url":"https://www.countryflags.io/VN/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6871,8 +6871,8 @@
   },
   {
     "alpha_country": "South Yemen",
-	"code":"",
-	"flag_url":"",
+	"code":"YEM",
+	"flag_url":"https://www.countryflags.io/XK/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6910,8 +6910,8 @@
   },
   {
     "alpha_country": "Soviet Union",
-	"code":"",
-	"flag_url":"",
+	"code":"RUS",
+	"flag_url":"https://www.countryflags.io/RU/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6939,8 +6939,8 @@
   },
   {
     "alpha_country": "Spain",
-	"code":"",
-	"flag_url":"",
+	"code":"ESP",
+	"flag_url":"https://www.countryflags.io/ES/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -6988,8 +6988,8 @@
   },
   {
     "alpha_country": "Sri Lanka",
-	"code":"",
-	"flag_url":"",
+	"code":"LKA",
+	"flag_url":"https://www.countryflags.io/LK/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7017,8 +7017,8 @@
   },
   {
     "alpha_country": "Sudan",
-	"code":"",
-	"flag_url":"",
+	"code":"SDN",
+	"flag_url":"https://www.countryflags.io/SD/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7306,8 +7306,8 @@
   },
   {
     "alpha_country": "Sudan-North",
-	"code":"",
-	"flag_url":"",
+	"code":"SDN",
+	"flag_url":"https://www.countryflags.io/SD/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7325,8 +7325,8 @@
   },
   {
     "alpha_country": "Suriname",
-	"code":"",
-	"flag_url":"",
+	"code":"SUR",
+	"flag_url":"https://www.countryflags.io/SR/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7444,8 +7444,8 @@
   },
   {
     "alpha_country": "Swaziland",
-	"code":"",
-	"flag_url":"",
+	"code":"SWZ",
+	"flag_url":"https://www.countryflags.io/SZ/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7493,8 +7493,8 @@
   },
   {
     "alpha_country": "Syria",
-	"code":"",
-	"flag_url":"",
+	"code":"SYR",
+	"flag_url":"https://www.countryflags.io/SY/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7612,8 +7612,8 @@
   },
   {
     "alpha_country": "Tajikistan",
-	"code":"",
-	"flag_url":"",
+	"code":"TJK",
+	"flag_url":"https://www.countryflags.io/TJ/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7631,8 +7631,8 @@
   },
   {
     "alpha_country": "Tanzania",
-	"code":"",
-	"flag_url":"",
+	"code":"TZA",
+	"flag_url":"https://www.countryflags.io/TZ/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7700,8 +7700,8 @@
   },
   {
     "alpha_country": "Thailand",
-	"code":"",
-	"flag_url":"",
+	"code":"THA",
+	"flag_url":"https://www.countryflags.io/TH/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7799,8 +7799,8 @@
   },
   {
     "alpha_country": "Togo",
-	"code":"",
-	"flag_url":"",
+	"code":"TGO",
+	"flag_url":"https://www.countryflags.io/TG/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -7978,8 +7978,8 @@
   },
   {
     "alpha_country": "Trinidad & Tobago",
-	"code":"",
-	"flag_url":"",
+	"code":"TTO",
+	"flag_url":"https://www.countryflags.io/TT/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -8007,8 +8007,8 @@
   },
   {
     "alpha_country": "Tunisia",
-	"code":"",
-	"flag_url":"",
+	"code":"TUN",
+	"flag_url":"https://www.countryflags.io/TN/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -8056,8 +8056,8 @@
   },
   {
     "alpha_country": "Turkey",
-	"code":"",
-	"flag_url":"",
+	"code":"TUR",
+	"flag_url":"https://www.countryflags.io/TR/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -8145,8 +8145,8 @@
   },
   {
     "alpha_country": "Turkmenistan",
-	"code":"",
-	"flag_url":"",
+	"code":"TKM",
+	"flag_url":"https://www.countryflags.io/TM/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -8164,8 +8164,8 @@
   },
   {
     "alpha_country": "Uganda",
-	"code":"",
-	"flag_url":"",
+	"code":"UGA",
+	"flag_url":"https://www.countryflags.io/UG/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -8283,8 +8283,8 @@
   },
   {
     "alpha_country": "United Arab Emirates",
-	"code":"",
-	"flag_url":"",
+	"code":"ARE",
+	"flag_url":"https://www.countryflags.io/AE/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -8312,7 +8312,7 @@
   },
   {
     "alpha_country": "Uruguay",
-	"code":"",
+	"code":"https://www.countryflags.io/UY/flat/64.png",
 	"flag_url":"",
 	"worldbank_data":"",
     "coups": [
@@ -8331,8 +8331,8 @@
   },
   {
     "alpha_country": "Venezuela",
-	"code":"",
-	"flag_url":"",
+	"code":"VEN",
+	"flag_url":"https://www.countryflags.io/VE/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -8400,8 +8400,8 @@
   },
   {
     "alpha_country": "Vietnam",
-	"code":"",
-	"flag_url":"",
+	"code":"VNM",
+	"flag_url":"https://www.countryflags.io/VN/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -8419,8 +8419,8 @@
   },
   {
     "alpha_country": "Zambia",
-	"code":"",
-	"flag_url":"",
+	"code":"ZMB",
+	"flag_url":"https://www.countryflags.io/ZM/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
@@ -8488,8 +8488,8 @@
   },
   {
     "alpha_country": "Zimbabwe",
-	"code":"",
-	"flag_url":"",
+	"code":"ZWE",
+	"flag_url":"https://www.countryflags.io/ZW/flat/64.png",
 	"worldbank_data":"",
     "coups": [
       {
