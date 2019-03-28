@@ -7,8 +7,9 @@ var flag_tooltip = d3.select('.container')
 	.style("color","white")
 	.style("visibility","hidden");
 	
-var flag_infobox = d3.select('div')
+var flag_infobox = d3.select('.container')
 .append('div')
+.attr("class","infoBox")
 .style("position", "absolute")
 .style("z-index","20")
 .style("padding","10px 10px")
@@ -17,7 +18,8 @@ var flag_infobox = d3.select('div')
 .text("info here")
 .style("visibility","hidden")
 .append('button')
-.text("show data");
+.attr("class","dataButton")
+.text("Explore Data");
 	
 d3.json("js/data/coupdata.json", function(data) {
 	
@@ -224,9 +226,26 @@ d3.json("js/data/coupdata.json", function(data) {
 		flag_tooltip.style("visibility","hidden")
 	})
 	.on('click', function() {
-		flag_infobox.style("top",(d3.event.pageY-20)+"px")
+		d3.select('.infoBox')
+		.style("top",(d3.event.pageY-20)+"px")
 		.style("left",(d3.event.pageX+20)+"px")
 		.style("visibility","visible");
+	})
+	
+	//call graph on data button click
+	d3.select('.dataButton')
+	.on('click', function(d) {
+		d3.select('body')
+		.append('div')
+		.attr("class","overlay")
+		.attr("z-index",100)
+		.attr("position","fixed")
+		//needs to fill parent
+		.attr("width","100%")
+		.attr("height","100%")
+		.attr("left",0)
+		.attr("top",0)
+		.style("background","rgba(0,0,0,0.5)")
 	})
 	
 });
