@@ -6,7 +6,19 @@ var flag_tooltip = d3.select('.container')
 	.style("background","rgba(0,0,0,0.7)")
 	.style("color","white")
 	.style("visibility","hidden");
-
+	
+var flag_infobox = d3.select('div')
+.append('div')
+.style("position", "absolute")
+.style("z-index","20")
+.style("padding","10px 10px")
+.style("background","rgba(0,0,0,1)")
+.style("color","white")
+.text("info here")
+.style("visibility","hidden")
+.append('button')
+.text("show data");
+	
 d3.json("js/data/coupdata.json", function(data) {
 	
 	// Iterate through each decade and write info to table
@@ -15,6 +27,7 @@ d3.json("js/data/coupdata.json", function(data) {
 	
 	var firstFlag = true;
 	
+	//Populating table
 	data.forEach(function (d) {
 		for(var i = 0; i < d.coups.length; i++)
 		{
@@ -24,12 +37,22 @@ d3.json("js/data/coupdata.json", function(data) {
 			var timestamp = new Date(date).getTime();
 			
 			if(1959 < d.coups[i].year && d.coups[i].year < 1970) {
-						d3.select('.tr-1960')
-						.insert('img',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
-						.attr("src", d.flag_url)
-						.attr("class", "flag")
-						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
-						.attr("data-timestamp", timestamp)					
+					d3.select('.tr-1960')
+					.insert('img',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+					.attr("src", d.flag_url)
+					.attr("class", "flag")
+					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+					.attr("data-timestamp", timestamp)
+					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-day", d.coups[i].day)
+					.attr("data-year", d.coups[i].year)
+					.attr("data-outcome", d.coups[i].outcome)
+					.attr("data-leader", d.coups[i].leader)
+					.attr("data-deaths", d.coups[i].deaths)
+					.attr("data-arc", d.coups[i].arc)
+					//This gives a nice glow border but is very laggy on hover becuase whenever the border moves it must be recalculated (this includes all neighbouring borders that are pushed
+					//Will think of a way to optimise this
+					//.style("filter", "drop-shadow(0 0 3px "  + getBorder(d.coups[i].outcome) + ")")
 			}
 			else if(1969 < d.coups[i].year && d.coups[i].year < 1980) {
 					d3.select('.tr-1970')
@@ -37,7 +60,14 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("src", d.flag_url)
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
-					.attr("data-timestamp", timestamp)					
+					.attr("data-timestamp", timestamp)
+					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-day", d.coups[i].day)
+					.attr("data-year", d.coups[i].year)
+					.attr("data-outcome", d.coups[i].outcome)
+					.attr("data-leader", d.coups[i].leader)
+					.attr("data-deaths", d.coups[i].deaths)
+					.attr("data-arc", d.coups[i].arc)
 			}
 			else if(1979 < d.coups[i].year && d.coups[i].year < 1990) {
 					d3.select('.tr-1980')
@@ -46,6 +76,13 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-timestamp", timestamp)
+					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-day", d.coups[i].day)
+					.attr("data-year", d.coups[i].year)
+					.attr("data-outcome", d.coups[i].outcome)
+					.attr("data-leader", d.coups[i].leader)
+					.attr("data-deaths", d.coups[i].deaths)
+					.attr("data-arc", d.coups[i].arc)
 			}
 			else if(1989 < d.coups[i].year && d.coups[i].year < 2000) {
 					d3.select('.tr-1990')
@@ -54,6 +91,13 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-timestamp", timestamp)
+					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-day", d.coups[i].day)
+					.attr("data-year", d.coups[i].year)
+					.attr("data-outcome", d.coups[i].outcome)
+					.attr("data-leader", d.coups[i].leader)
+					.attr("data-deaths", d.coups[i].deaths)
+					.attr("data-arc", d.coups[i].arc)
 			}
 			else if(1999 < d.coups[i].year && d.coups[i].year < 2010) {
 					d3.select('.tr-2000')
@@ -62,6 +106,13 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-timestamp", timestamp)
+					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-day", d.coups[i].day)
+					.attr("data-year", d.coups[i].year)
+					.attr("data-outcome", d.coups[i].outcome)
+					.attr("data-leader", d.coups[i].leader)
+					.attr("data-deaths", d.coups[i].deaths)
+					.attr("data-arc", d.coups[i].arc)
 			}
 			else if(2009 < d.coups[i].year && d.coups[i].year < 2020) {
 					d3.select('.tr-2010')
@@ -70,6 +121,13 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-timestamp", timestamp)
+					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-day", d.coups[i].day)
+					.attr("data-year", d.coups[i].year)
+					.attr("data-outcome", d.coups[i].outcome)
+					.attr("data-leader", d.coups[i].leader)
+					.attr("data-deaths", d.coups[i].deaths)
+					.attr("data-arc", d.coups[i].arc)
 			}
 		}
 	});
@@ -110,8 +168,36 @@ d3.json("js/data/coupdata.json", function(data) {
 			return 1
 	};
 	
-	// Apply hover functionality
+	//Determine what colour flag border based on outcome
+	function getBorder (outcome) {
+		var colour;
+		
+		switch(outcome) {
+		
+		//Succesful
+		case "1":
+			colour = "green"
+			break;
+		
+		//Failed
+		case "2":
+			colour = "red"
+			break;
+		
+		//Plotted
+		case "3":
+			colour = "blue"
+			break;
+			
+		//Alleged
+		case "4":
+			colour = "yellow"
+			break;
+		}
+		return colour
+	}
 	
+	// Apply hover functionality
 	d3.selectAll('.flag')
 	.on('mouseover', function(d) {
 		d3.select(this)
@@ -136,6 +222,11 @@ d3.json("js/data/coupdata.json", function(data) {
 		.style('width','64px')
 		
 		flag_tooltip.style("visibility","hidden")
+	})
+	.on('click', function() {
+		flag_infobox.style("top",(d3.event.pageY-20)+"px")
+		.style("left",(d3.event.pageX+20)+"px")
+		.style("visibility","visible");
 	})
 	
 });
