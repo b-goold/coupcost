@@ -1,11 +1,5 @@
 var flag_tooltip = d3.select('.container')
-	.append('div')
-	.style("position", "absolute")
-	.style("z-index","10")
-	.style("padding","10px 10px")
-	.style("background","rgba(0,0,0,0.7)")
-	.style("color","white")
-	.style("visibility","hidden");
+	.append('div');
 	
 var flag_infobox = d3.select('.container')
 .append('div')
@@ -235,17 +229,14 @@ d3.json("js/data/coupdata.json", function(data) {
 	//call graph on data button click
 	d3.select('.dataButton')
 	.on('click', function(d) {
-		d3.select('body')
-		.append('div')
-		.attr("class","overlay")
-		.attr("z-index",100)
-		.attr("position","fixed")
-		//needs to fill parent
-		.attr("width","100%")
-		.attr("height","100%")
-		.attr("left",0)
-		.attr("top",0)
-		.style("background","rgba(0,0,0,0.5)")
+		d3.select('#overlay')
+		.style("display","block");
+	})
+	
+	d3.select('#overlay')
+	.on('click', function(d) {
+		d3.select(this)
+		.style("display","none");
 	})
 	
 });
