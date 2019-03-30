@@ -1,5 +1,11 @@
 var flag_tooltip = d3.select('.container')
-	.append('div');
+	.append('div')
+	.style("position", "absolute")	
+	.style("z-index","10")	
+	.style("padding","10px 10px")	
+	.style("background","rgba(0,0,0,0.7)")	
+	.style("color","white")	
+	.style("visibility","hidden");
 	
 var flag_infobox = d3.select('.container')
 .append('div')
@@ -14,6 +20,10 @@ var flag_infobox = d3.select('.container')
 .append('button')
 .attr("class","dataButton")
 .text("Explore Data");
+
+//Var used to store selected country code and coup date
+var selectedCode;
+var coupDate;
 	
 d3.json("js/data/coupdata.json", function(data) {
 	
@@ -38,8 +48,10 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("src", d.flag_url)
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+					.attr("data-code", d.code)
 					.attr("data-timestamp", timestamp)
-					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-month", d.coups[i].month)
+					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
 					.attr("data-day", d.coups[i].day)
 					.attr("data-year", d.coups[i].year)
 					.attr("data-outcome", d.coups[i].outcome)
@@ -56,8 +68,10 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("src", d.flag_url)
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+					.attr("data-code", d.code)
 					.attr("data-timestamp", timestamp)
-					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-month", d.coups[i].month)
+					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
 					.attr("data-day", d.coups[i].day)
 					.attr("data-year", d.coups[i].year)
 					.attr("data-outcome", d.coups[i].outcome)
@@ -71,8 +85,10 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("src", d.flag_url)
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+					.attr("data-code", d.code)
 					.attr("data-timestamp", timestamp)
-					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-month", d.coups[i].month)
+					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
 					.attr("data-day", d.coups[i].day)
 					.attr("data-year", d.coups[i].year)
 					.attr("data-outcome", d.coups[i].outcome)
@@ -86,8 +102,10 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("src", d.flag_url)
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+					.attr("data-code", d.code)
 					.attr("data-timestamp", timestamp)
-					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-month", d.coups[i].month)
+					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
 					.attr("data-day", d.coups[i].day)
 					.attr("data-year", d.coups[i].year)
 					.attr("data-outcome", d.coups[i].outcome)
@@ -101,8 +119,10 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("src", d.flag_url)
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+					.attr("data-code", d.code)
 					.attr("data-timestamp", timestamp)
-					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-month", d.coups[i].month)
+					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
 					.attr("data-day", d.coups[i].day)
 					.attr("data-year", d.coups[i].year)
 					.attr("data-outcome", d.coups[i].outcome)
@@ -116,8 +136,10 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("src", d.flag_url)
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+					.attr("data-code", d.code)
 					.attr("data-timestamp", timestamp)
-					.attr("data-month", new Date(date).toLocaleString('en-US', {month : 'short'}))
+					.attr("data-month", d.coups[i].month)
+					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
 					.attr("data-day", d.coups[i].day)
 					.attr("data-year", d.coups[i].year)
 					.attr("data-outcome", d.coups[i].outcome)
@@ -193,6 +215,105 @@ d3.json("js/data/coupdata.json", function(data) {
 		return colour
 	}
 	
+	function drawGraph(countryCode, coupDate) {
+		// set the dimensions and margins of the graph
+		var margin = {top: 20, right: 20, bottom: 30, left: 50},
+			width = 960 - margin.left - margin.right,
+			height = 500 - margin.top - margin.bottom;
+
+		// parse the date / time
+		var parseTime = d3.timeParse("%d-%b-%y");
+
+		// set the ranges
+		var x = d3.scaleTime().range([0, width]);
+		var y = d3.scaleLinear().range([height, 0]);
+
+		// define the line
+		var valueline = d3.line()
+			.x(function(d) { return x(d.date); })
+			.y(function(d) { return y(d.close); });
+
+		// append the svg obgect to the body of the page
+		// appends a 'group' element to 'svg'
+		// moves the 'group' element to the top left margin
+			
+		//var graphContainer = d3.select("#overlay").append("div")
+		//	.attr("id","graphContainer")
+		//	.attr("class","child")
+		//	.style("background","white");
+				
+		var svg = d3.select("#overlay").append("svg")
+			.attr("width", width + margin.left + margin.right)
+			.attr("height", height + margin.top + margin.bottom)
+			.attr("class","child")
+			.style("background-color","white")
+				
+		//d3.select('rect')
+		  .append("g")
+		//.attr("z-index",99)
+			.attr("transform",
+			"translate(" + margin.left + "," + margin.top + ")");
+			
+		// Get the data
+			d3.csv("js/data/GDP (current US$).csv", function(error, data) {
+			  if (error) throw error;
+
+		//Fliter criteria
+			var newData = data.filter(filterCriteria);
+			function filterCriteria(d) {
+			if(d['Country Code'] == countryCode)
+				return d;
+			}
+			//Do something with the filtered data
+			//...
+			console.log(newData);
+			
+			//Determine domain / range of dataset
+			var minDomain;
+			var maxDomain;
+			var coupYear = coupDate.getFullYear();
+			
+			if(coupYear > 1964)
+				minDomain = coupYear - 5;
+			else
+				minDomain = 1960
+			
+			if(coupYear < 2008)
+				maxDomain = coupYear + 10;
+			else
+				maxDomain = 2018;
+			
+			// format the data
+			//data.forEach(function(d) {
+			//	d.date = parseTime(d.date);
+			//	d.close = +d.close;
+			//	});
+
+			// Scale the range of the data
+			x.domain(d3.extent(minDomain, maxDomain));
+			
+			//TODO: Implement function to set appropriate range min and units
+			y.domain([0, d3.max(newData)]);
+
+			//TODO: Read up on SVG pathing and figure out how to handle input data
+			// Add the valueline path.
+			svg.append("path")
+			  .data([data])
+			  .attr("class", "line")
+			  .attr("d", valueline);
+
+			// Add the X Axis
+			svg.append("g")
+				.attr("transform", "translate(0," + height + ")")
+				.call(d3.axisBottom(x));
+
+			// Add the Y Axis
+			svg.append("g")
+				.call(d3.axisLeft(y));
+
+			});
+	}
+	
 	// Apply hover functionality
 	d3.selectAll('.flag')
 	.on('mouseover', function(d) {
@@ -219,7 +340,10 @@ d3.json("js/data/coupdata.json", function(data) {
 		
 		flag_tooltip.style("visibility","hidden")
 	})
-	.on('click', function() {
+	.on('click', function(d) {
+		selectedCode = this.dataset.code;
+		selectedDate = new Date(this.dataset.year + "/" + this.dataset.month + "/" + this.dataset.day);
+
 		d3.select('.infoBox')
 		.style("top",(d3.event.pageY-20)+"px")
 		.style("left",(d3.event.pageX+20)+"px")
@@ -231,12 +355,23 @@ d3.json("js/data/coupdata.json", function(data) {
 	.on('click', function(d) {
 		d3.select('#overlay')
 		.style("display","block");
+		drawGraph(selectedCode, selectedDate);
 	})
 	
 	d3.select('#overlay')
 	.on('click', function(d) {
 		d3.select(this)
 		.style("display","none");
+		
+	//Remove overaly child elements to prevent doubling up
+	var children = document.getElementsByClassName("child");
+	for(i=0;i<children.length;i++)
+		{
+			children[i].remove();
+		}
+	
+		selectedCode = null;
+		selectedDate = null;
 	})
 	
 });

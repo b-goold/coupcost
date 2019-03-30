@@ -12,7 +12,7 @@
 	
 	<body>
     <div class="container">
-	<div id="overlay" onClick="show()"></div>
+	<div id="overlay"></div>
 	
 	<!-- Table of years and flags -->
       <table class="table table table-hover">
@@ -74,6 +74,13 @@
 	  background-color: rgba(0,0,0,0.5);
 	  z-index: 2;
 	  cursor: pointer;
+	}
+	.child {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin-right: -50%;
+		transform: translate(-50%, -50%)
 	}
 	</style>
 </html>
