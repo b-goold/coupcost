@@ -217,22 +217,17 @@ d3.json("js/data/coupdata.json", function(data) {
 	
 	function drawGraph(countryCode, coupDate) {
 		// set the dimensions and margins of the graph
-		var margin = {top: 20, right: 20, bottom: 30, left: 50},
-			width = 960 - margin.left - margin.right,
+		var margin = {top: 20, right: 20, bottom: 30, left: 100},
+			width = 980 - margin.left - margin.right,
 			height = 500 - margin.top - margin.bottom;
 
 		// parse the date / time
-		var parseTime = d3.timeParse("%d-%b-%y");
+		var parseTime = d3.timeParse("%Y");
 
 		// set the ranges
 		var x = d3.scaleTime().range([0, width]);
 		var y = d3.scaleLinear().range([height, 0]);
-
-		// define the line
-		var valueline = d3.line()
-			.x(function(d) { return x(d.date); })
-			.y(function(d) { return y(d.close); });
-
+		
 		// append the svg obgect to the body of the page
 		// appends a 'group' element to 'svg'
 		// moves the 'group' element to the top left margin
@@ -241,18 +236,20 @@ d3.json("js/data/coupdata.json", function(data) {
 		//	.attr("id","graphContainer")
 		//	.attr("class","child")
 		//	.style("background","white");
-				
+		
+		//append SVG canvas
 		var svg = d3.select("#overlay").append("svg")
+			.attr("id","canvas")
 			.attr("width", width + margin.left + margin.right)
 			.attr("height", height + margin.top + margin.bottom)
 			.attr("class","child")
 			.style("background-color","white")
-				
-		//d3.select('rect')
-		  .append("g")
-		//.attr("z-index",99)
+			//append group to contain graph
+			.append("g")
 			.attr("transform",
 			"translate(" + margin.left + "," + margin.top + ")");
+			
+			//append box containing info + data selector
 			
 		// Get the data
 			d3.csv("js/data/GDP (current US$).csv", function(error, data) {
@@ -264,43 +261,63 @@ d3.json("js/data/coupdata.json", function(data) {
 			if(d['Country Code'] == countryCode)
 				return d;
 			}
-			//Do something with the filtered data
-			//...
-			console.log(newData);
+			
+			//Extract the years and values from the filtered data
+			//Getting years from filtered array keys
+			var xVal = Object.keys(newData[0]);
+			xVal.length = (xVal.length) - 4; //Removes the non-numerical keys, which just happen to be at the end of the array. Leaves us with just the years.
+			
+			//Getting values from filtered array
+			var yVal = Object.values(newData[0]);
+			yVal.length = (yVal.length) - 4;
+			
+			//Merge both x and y arrays into one object
+			var dataset = xVal.map(function(v,i) {
+				return { year: v, value: yVal[i] };
+			});
+						
+			//Define line			
+			var valueline = d3.line()
+				.x(function(d) { return x(d.year); })
+				.y(function(d) { return y(d.value); });
+			
+			// format the data from String to date and number, as D3 takes all values from CSV as string
+			dataset.forEach(function(d) {
+				d.year = parseTime(d.year);
+				d.value = +d.value;
+				});
+
+			// Scale the range of the data
+			x.domain(d3.extent(dataset, function(d) {return d.year; }));
+			y.domain([0, d3.max(dataset, function(d) {return d.value; })]);
+			
+			//#TODO (maybe): Implement function to set appropriate range min and units within a certain window of time around the coup
 			
 			//Determine domain / range of dataset
-			var minDomain;
+/* 			var minDomain;
 			var maxDomain;
 			var coupYear = coupDate.getFullYear();
 			
 			if(coupYear > 1964)
-				minDomain = coupYear - 5;
+				minDomain = new Date( (coupYear - 5) + "-01-01") ;
 			else
-				minDomain = 1960
+				minDomain = new Date("1960-01-01")
 			
 			if(coupYear < 2008)
-				maxDomain = coupYear + 10;
+				maxDomain = new Date((coupYear + 10)  + "-12-31");
 			else
-				maxDomain = 2018;
+				maxDomain = new Date("2018-12-31"); */
 			
-			// format the data
-			//data.forEach(function(d) {
-			//	d.date = parseTime(d.date);
-			//	d.close = +d.close;
-			//	});
+			//Set domain accordingly
+			//x.domain([minDomain, maxDomain]);
+			//Find appropriate min/max range for given domain (use d3.bisect?)
+			//y.domain([d3.min(dataset, function(d) {return d.value;}), d3.max(dataset, function(d) {return d.value; })]);
 
-			// Scale the range of the data
-			x.domain(d3.extent(minDomain, maxDomain));
-			
-			//TODO: Implement function to set appropriate range min and units
-			y.domain([0, d3.max(newData)]);
-
-			//TODO: Read up on SVG pathing and figure out how to handle input data
 			// Add the valueline path.
 			svg.append("path")
-			  .data([data])
+			  .data([dataset])
+			  .attr("d", valueline)
 			  .attr("class", "line")
-			  .attr("d", valueline);
 
 			// Add the X Axis
 			svg.append("g")
@@ -356,6 +373,9 @@ d3.json("js/data/coupdata.json", function(data) {
 		d3.select('#overlay')
 		.style("display","block");
 		drawGraph(selectedCode, selectedDate);
+		
+		d3.select('.infoBox')
+		.style("visibility","hidden");
 	})
 	
 	d3.select('#overlay')
