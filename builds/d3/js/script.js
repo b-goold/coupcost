@@ -250,6 +250,8 @@ d3.json("js/data/coupdata.json", function(data) {
 			"translate(" + margin.left + "," + margin.top + ")");
 			
 			//append box containing info + data selector
+			d3.select("#infoBar")
+				.style("display","block");
 			
 		// Get the data
 			d3.csv("js/data/GDP (current US$).csv", function(error, data) {

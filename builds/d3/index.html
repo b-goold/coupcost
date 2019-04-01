@@ -10,9 +10,52 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	</head>
 	
+	<style>
+	#overlay {
+	  position: fixed;
+	  display: none;
+	  width: 100%;
+	  height: 100%;
+	  top: 0;
+	  left: 0;
+	  right: 0;
+	  bottom: 0;
+	  background-color: rgba(0,0,0,0.5);
+	  z-index: 2;
+	  cursor: pointer;
+	}
+
+	#infoBar {
+    position: absolute;
+    height: 100px;
+    width: 980px;
+    background-color: #adb5bd;
+    margin: -300px auto 0;
+	display: none;
+	}
+	
+	.child {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin-right: -50%;
+		transform: translate(-50%, -50%)
+	}
+	
+	.line {
+		fill: none;
+		stroke: #0040ff;
+		stroke-width: 3;
+	}
+	</style>
+	
 	<body>
     <div class="container">
-	<div id="overlay"></div>
+		<div id="overlay">
+			<div id="infoBar" class="child">
+				<a>Some info and selections go here</a>
+			</div>
+		</div>
 	
 	<!-- Table of years and flags -->
       <table class="table table table-hover">
@@ -61,32 +104,5 @@
 	
   </body>
   
-  	<style>
-	#overlay {
-	  position: fixed;
-	  display: none;
-	  width: 100%;
-	  height: 100%;
-	  top: 0;
-	  left: 0;
-	  right: 0;
-	  bottom: 0;
-	  background-color: rgba(0,0,0,0.5);
-	  z-index: 2;
-	  cursor: pointer;
-	}
-	.child {
-		position: absolute;
-		top: 50%;
-		left: 50%;
-		margin-right: -50%;
-		transform: translate(-50%, -50%)
-	}
-	
-	.line {
-		fill: none;
-		stroke: #0040ff;
-		stroke-width: 3;
-	}
-	</style>
+
 </html>
