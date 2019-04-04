@@ -22,24 +22,32 @@
 	  bottom: 0;
 	  background-color: rgba(0,0,0,0.5);
 	  z-index: 2;
-	  cursor: pointer;
 	}
 
 	#infoBar {
     position: absolute;
-    height: 100px;
-    width: 980px;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+	
     background-color: #adb5bd;
-    margin: -300px auto 0;
 	display: none;
 	}
+	.infoBar-child {
+	display: inline-block;
+	}
+	.infoBar-text {
+	margin: 0 40px 0 5px;
+	}
+
 	
 	.child {
 		position: absolute;
 		top: 50%;
 		left: 50%;
 		margin-right: -50%;
-		transform: translate(-50%, -50%)
+		transform: translate(-50%, -50%);
 	}
 	
 	.line {
@@ -52,8 +60,19 @@
 	<body>
     <div class="container">
 		<div id="overlay">
-			<div id="infoBar" class="child">
-				<a>Some info and selections go here</a>
+			<div id="infoBar">
+				<h2 id="country"></h2>
+				<div class="infoBar-line">
+					<a class="infoBar-child"><b>Date:</b></a><a class="infoBar-text" id="date"></a>
+					<a class="infoBar-child"><b>Lead by:</b></a><a class="infoBar-text" id="leader"></a>
+					<a class="infoBar-child"><b>Deaths:</b></a><a class="infoBar-text" id="deaths"></a>
+					<a class="infoBar-child"><b>Successful coup?</b></a><a class="infoBar-text" id="outcome"></a>
+					<a class="infoBar-child"><b>Adverse Regime Change?</b></a><a class="infoBar-text" id="arc"></a>
+				</div>
+				<select>
+					<option>GDP (USD)</option>
+					<option>Population (people)</option>
+				</select>
 			</div>
 		</div>
 	

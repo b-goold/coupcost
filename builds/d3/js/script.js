@@ -49,6 +49,7 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-code", d.code)
+					.attr("data-country", d.alpha_country)
 					.attr("data-timestamp", timestamp)
 					.attr("data-month", d.coups[i].month)
 					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
@@ -69,6 +70,7 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-code", d.code)
+					.attr("data-country", d.alpha_country)
 					.attr("data-timestamp", timestamp)
 					.attr("data-month", d.coups[i].month)
 					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
@@ -86,6 +88,7 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-code", d.code)
+					.attr("data-country", d.alpha_country)
 					.attr("data-timestamp", timestamp)
 					.attr("data-month", d.coups[i].month)
 					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
@@ -103,6 +106,7 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-code", d.code)
+					.attr("data-country", d.alpha_country)
 					.attr("data-timestamp", timestamp)
 					.attr("data-month", d.coups[i].month)
 					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
@@ -120,6 +124,7 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-code", d.code)
+					.attr("data-country", d.alpha_country)
 					.attr("data-timestamp", timestamp)
 					.attr("data-month", d.coups[i].month)
 					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
@@ -137,6 +142,7 @@ d3.json("js/data/coupdata.json", function(data) {
 					.attr("class", "flag")
 					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 					.attr("data-code", d.code)
+					.attr("data-country", d.alpha_country)
 					.attr("data-timestamp", timestamp)
 					.attr("data-month", d.coups[i].month)
 					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
@@ -250,8 +256,13 @@ d3.json("js/data/coupdata.json", function(data) {
 			"translate(" + margin.left + "," + margin.top + ")");
 			
 			//append box containing info + data selector
+			var infoBarHeight = 100;
 			d3.select("#infoBar")
-				.style("display","block");
+				.style("height", infoBarHeight + "px" )
+				.style("width", ( width + margin.left + margin.right ) + "px" )
+				.style("margin","-" + (height + margin.top + margin.bottom + infoBarHeight) / 2 + "px auto 0")
+				.style("display","block")
+				.style("visibility","visible");
 			
 		// Get the data
 			d3.csv("js/data/GDP (current US$).csv", function(error, data) {
@@ -280,6 +291,7 @@ d3.json("js/data/coupdata.json", function(data) {
 						
 			//Define line			
 			var valueline = d3.line()
+				.defined(function(d) {return d.value != 0; })	//ensures only non-zero results are displayed
 				.x(function(d) { return x(d.year); })
 				.y(function(d) { return y(d.value); });
 			
@@ -362,7 +374,14 @@ d3.json("js/data/coupdata.json", function(data) {
 	.on('click', function(d) {
 		selectedCode = this.dataset.code;
 		selectedDate = new Date(this.dataset.year + "/" + this.dataset.month + "/" + this.dataset.day);
-
+		
+		//Populate infoBar fields
+		d3.select("#country")
+			.text(this.dataset.country);
+			
+		d3.select("#date")
+			.text(this.dataset.day + "-" + this.dataset.monthstring + "-" + this.dataset.year);
+		
 		d3.select('.infoBox')
 		.style("top",(d3.event.pageY-20)+"px")
 		.style("left",(d3.event.pageX+20)+"px")
@@ -395,5 +414,11 @@ d3.json("js/data/coupdata.json", function(data) {
 		selectedCode = null;
 		selectedDate = null;
 	})
+	
+	//TODO - get this shit working
+	d3.select('.child')
+		.on('click', function(e) {
+			e.stopPropagation();
+		});
 	
 });
