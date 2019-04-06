@@ -229,10 +229,14 @@ d3.json("js/data/coupdata.json", function(data) {
 
 		// parse the date / time
 		var parseTime = d3.timeParse("%Y");
+		var parseFullDate = d3.timeParse("%Y/%m/%d");
 
 		// set the ranges
 		var x = d3.scaleTime().range([0, width]);
 		var y = d3.scaleLinear().range([height, 0]);
+		
+		var selector = document.getElementById("selector");
+		var selectedData = selector.options[selector.selectedIndex].dataset.file;
 		
 		// append the svg obgect to the body of the page
 		// appends a 'group' element to 'svg'
@@ -248,7 +252,7 @@ d3.json("js/data/coupdata.json", function(data) {
 			.attr("id","canvas")
 			.attr("width", width + margin.left + margin.right)
 			.attr("height", height + margin.top + margin.bottom)
-			.attr("class","child")
+			.attr("class","child noProp")
 			.style("background-color","white")
 			//append group to contain graph
 			.append("g")
@@ -264,8 +268,18 @@ d3.json("js/data/coupdata.json", function(data) {
 				.style("display","block")
 				.style("visibility","visible");
 			
-		// Get the data
-			d3.csv("js/data/GDP (current US$).csv", function(error, data) {
+			//Draw the content of the graph
+			drawContent(selectedData);
+			
+		// Get the data and update the graph
+			d3.select("#selector")
+				.on("change", function() {
+				selectedData = this.options[this.selectedIndex].dataset.file;
+				drawContent(selectedData);
+		});
+		
+		function drawContent(selectedData) {
+			d3.csv("js/data/" + selectedData, function(error, data) {
 			  if (error) throw error;
 
 		//Fliter criteria
@@ -326,23 +340,40 @@ d3.json("js/data/coupdata.json", function(data) {
 			//x.domain([minDomain, maxDomain]);
 			//Find appropriate min/max range for given domain (use d3.bisect?)
 			//y.domain([d3.min(dataset, function(d) {return d.value;}), d3.max(dataset, function(d) {return d.value; })]);
-
+			
+			//Remove any exiting graph content before appending new
+			d3.selectAll(".graphcontent").remove();
+			
 			// Add the valueline path.
 			svg.append("path")
 			  .data([dataset])
 			  .attr("d", valueline)
-			  .attr("class", "line")
+			  .attr("class", "line graphcontent")
+			  
+			//Add a vertical line on the graph to signifiy the relevant coup date
+			svg.append("line")
+				.attr("class","graphcontent")
+				.attr("x1", x(coupDate))
+				.attr("y1", 0)
+				.attr("x2", x(coupDate))
+				.attr("y2", height)
+				.style("stroke-width", 3)
+				.style("stroke", "red")
+				.style("fill", "none");
 
 			// Add the X Axis
 			svg.append("g")
+				.attr("class","graphcontent")
 				.attr("transform", "translate(0," + height + ")")
 				.call(d3.axisBottom(x));
 
 			// Add the Y Axis
 			svg.append("g")
+				.attr("class","graphcontent")
 				.call(d3.axisLeft(y));
 
 			});
+		}
 	}
 	
 	// Apply hover functionality
@@ -395,14 +426,20 @@ d3.json("js/data/coupdata.json", function(data) {
 		.style("display","block");
 		drawGraph(selectedCode, selectedDate);
 		
+		//Assign click behaviour to elements within overlay to prevent click bubbling up to parent
+		var noProp = document.getElementsByClassName("noProp");
+		for (var i = 0; i < noProp.length; i++) {
+			noProp[i].addEventListener("click", noPropClick, false);
+		}
+		
 		d3.select('.infoBox')
 		.style("visibility","hidden");
 	})
 	
 	d3.select('#overlay')
 	.on('click', function(d) {
-		d3.select(this)
-		.style("display","none");
+	d3.select(this)
+	.style("display","none");
 		
 	//Remove overaly child elements to prevent doubling up
 	var children = document.getElementsByClassName("child");
@@ -415,10 +452,9 @@ d3.json("js/data/coupdata.json", function(data) {
 		selectedDate = null;
 	})
 	
-	//TODO - get this shit working
-	d3.select('.child')
-		.on('click', function(e) {
-			e.stopPropagation();
-		});
+	//Child click behaviour. Stops click bubbling to parent.
+	function noPropClick(e) {
+		e.stopPropagation();
+	}
 	
 });

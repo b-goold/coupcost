@@ -60,7 +60,7 @@
 	<body>
     <div class="container">
 		<div id="overlay">
-			<div id="infoBar">
+			<div id="infoBar" class="noProp">
 				<h2 id="country"></h2>
 				<div class="infoBar-line">
 					<a class="infoBar-child"><b>Date:</b></a><a class="infoBar-text" id="date"></a>
@@ -69,9 +69,26 @@
 					<a class="infoBar-child"><b>Successful coup?</b></a><a class="infoBar-text" id="outcome"></a>
 					<a class="infoBar-child"><b>Adverse Regime Change?</b></a><a class="infoBar-text" id="arc"></a>
 				</div>
-				<select>
-					<option>GDP (USD)</option>
-					<option>Population (people)</option>
+				<select id="selector">
+					<option data-file="adolfertility.csv">Adolescent Fertility Rate (births per 1000 women aged 15-19)</option>
+					<option data-file="agland.csv">Agricultural Land (% of land area)</option>
+					<option data-file="birthrate.csv">Birth Rate, crude (per 1000 people)</option>
+					<option data-file="deathrate.csv">Death rate, crude (per 1000 people)</option>
+					<option data-file="exports.csv">Exports of Goods and Services (% of GDP)</option>
+					<option data-file="fertility.csv">Fertility rate, total (births per woman)</option>
+					<option data-file="gdp.csv">GDP (current US$)</option>
+					<option data-file="gdpgrowth.csv">GDP Growth (annual %)</option>
+					<option data-file="gnp.csv">GNP per capita Atlas Method (Current US$)</option>
+					<option data-file="imports.csv">Imports of Goods and Services (% of GDP)</option>
+					<option data-file="inflation.csv">Inflation, consumer prices (annual %)</option>
+					<option data-file="lifeexpec.csv">Life expectancy at birth (total)</option>
+					<option data-file="exchange.csv">Official Exchange Rate (Local Currency per US$, period avg)</option>
+					<option data-file="populationtotal.csv">Population (total)</option>
+					<option data-file="populationyoung.csv">Population ages 0-14 (% of total)</option>
+					<option data-file="populationadult.csv">Population ages 15-64 (% of total)</option>
+					<option data-file="populationcity.csv">Population in the largest city (% of urban population)</option>
+					<option data-file="school.csv">School enrollment, primary (% gross)</option>
+					<option data-file="taxrate.csv">Total tax rate (% of commercial profit)</option>
 				</select>
 			</div>
 		</div>
