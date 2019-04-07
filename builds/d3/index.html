@@ -29,9 +29,12 @@
 	top: 50%;
 	left: 50%;
 	margin-right: -50%;
+	padding-top: 5px;
 	transform: translate(-50%, -50%);
+	z-index: 100;
 	
     background-color: #adb5bd;
+	padding-left: 20px;
 	display: none;
 	}
 	.infoBar-child {
@@ -61,35 +64,39 @@
     <div class="container">
 		<div id="overlay">
 			<div id="infoBar" class="noProp">
-				<h2 id="country"></h2>
+				<h2 id="country" style="float: left; padding-right: 40px;"></h2>
 				<div class="infoBar-line">
 					<a class="infoBar-child"><b>Date:</b></a><a class="infoBar-text" id="date"></a>
 					<a class="infoBar-child"><b>Lead by:</b></a><a class="infoBar-text" id="leader"></a>
+				</div>
+				<div class="infoBar-line" style="padding-bottom: 5px;">
 					<a class="infoBar-child"><b>Deaths:</b></a><a class="infoBar-text" id="deaths"></a>
 					<a class="infoBar-child"><b>Successful coup?</b></a><a class="infoBar-text" id="outcome"></a>
 					<a class="infoBar-child"><b>Adverse Regime Change?</b></a><a class="infoBar-text" id="arc"></a>
 				</div>
-				<select id="selector">
-					<option data-file="adolfertility.csv">Adolescent Fertility Rate (births per 1000 women aged 15-19)</option>
-					<option data-file="agland.csv">Agricultural Land (% of land area)</option>
-					<option data-file="birthrate.csv">Birth Rate, crude (per 1000 people)</option>
-					<option data-file="deathrate.csv">Death rate, crude (per 1000 people)</option>
-					<option data-file="exports.csv">Exports of Goods and Services (% of GDP)</option>
-					<option data-file="fertility.csv">Fertility rate, total (births per woman)</option>
-					<option data-file="gdp.csv">GDP (current US$)</option>
-					<option data-file="gdpgrowth.csv">GDP Growth (annual %)</option>
-					<option data-file="gnp.csv">GNP per capita Atlas Method (Current US$)</option>
-					<option data-file="imports.csv">Imports of Goods and Services (% of GDP)</option>
-					<option data-file="inflation.csv">Inflation, consumer prices (annual %)</option>
-					<option data-file="lifeexpec.csv">Life expectancy at birth (total)</option>
-					<option data-file="exchange.csv">Official Exchange Rate (Local Currency per US$, period avg)</option>
-					<option data-file="populationtotal.csv">Population (total)</option>
-					<option data-file="populationyoung.csv">Population ages 0-14 (% of total)</option>
-					<option data-file="populationadult.csv">Population ages 15-64 (% of total)</option>
-					<option data-file="populationcity.csv">Population in the largest city (% of urban population)</option>
-					<option data-file="school.csv">School enrollment, primary (% gross)</option>
-					<option data-file="taxrate.csv">Total tax rate (% of commercial profit)</option>
+				<div>
+				<h4 style="float: left; padding-right: 20px;">View Data:</h4><select id="selector" style="transform: translateY(25%);">
+					<option data-file="adolfertility.csv" data-label="Adolescent Fertility Rate(births per 1000 women aged 15-19)">Adolescent Fertility Rate (births per 1000 women aged 15-19)</option>
+					<option data-file="agland.csv" data-label="Agricultural Land (% of land area)">Agricultural Land (% of land area)</option>
+					<option data-file="birthrate.csv" data-label="Birth Rate, crude (per 1000 people)">Birth Rate, crude (per 1000 people)</option>
+					<option data-file="deathrate.csv" data-label="Death rate, crude (per 1000 people)">Death rate, crude (per 1000 people)</option>
+					<option data-file="exports.csv" data-label="Exports of Goods and Services (% of GDP)">Exports of Goods and Services (% of GDP)</option>
+					<option data-file="fertility.csv" data-label="Fertility rate, total (births per woman)">Fertility rate, total (births per woman)</option>
+					<option data-file="gdp.csv" data-label="GDP (current US$)">GDP (current US$)</option>
+					<option data-file="gdpgrowth.csv" data-label="GDP Growth (annual %)">GDP Growth (annual %)</option>
+					<option data-file="gnp.csv" data-label="GNP per capita Atlas Method (Current US$)">GNP per capita Atlas Method (Current US$)</option>
+					<option data-file="imports.csv" data-label="Imports of Goods and Services (% of GDP)">Imports of Goods and Services (% of GDP)</option>
+					<option data-file="inflation.csv" data-label="Inflation, consumer prices (annual %)">Inflation, consumer prices (annual %)</option>
+					<option data-file="lifeexpec.csv" data-label="Life expectancy at birth (total)">Life expectancy at birth (total)</option>
+					<option data-file="exchange.csv" data-label="Official Exchange Rate (Local Currency per US$, period avg)">Official Exchange Rate (Local Currency per US$, period avg)</option>
+					<option data-file="populationtotal.csv" data-label="Population (total)">Population (total)</option>
+					<option data-file="populationyoung.csv" data-label="Population ages 0-14 (% of total)">Population ages 0-14 (% of total)</option>
+					<option data-file="populationadult.csv" data-label="Population ages 15-64 (% of total)">Population ages 15-64 (% of total)</option>
+					<option data-file="populationcity.csv" data-label="Population in the largest city (% of urban population)">Population in the largest city (% of urban population)</option>
+					<option data-file="school.csv" data-label="School enrollment, primary (% gross)">School enrollment, primary (% gross)</option>
+					<option data-file="taxrate.csv" data-label="Total tax rate (% of commercial profit)">Total tax rate (% of commercial profit)</option>
 				</select>
+				</div>
 			</div>
 		</div>
 	

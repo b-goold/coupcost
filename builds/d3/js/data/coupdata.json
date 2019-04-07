@@ -29,7 +29,7 @@
     "year": 1973,
     "outcome": 2,
     "leader": "Gen. Mir Ahmed Shah",
-    "deaths": 999,
+    "deaths": "Unknown",
     "arc": ""
   },
   {
@@ -101,7 +101,7 @@
     "year": 1992,
     "outcome": 1,
     "leader": "Muhaheddin guerrillas; Ahmed Shah Masud",
-    "deaths": 999,
+    "deaths": "Unknown",
     "arc": ""
   },
   {
@@ -110,7 +110,7 @@
     "year": 2002,
     "outcome": 2,
     "leader": "supporters of Gulbuddin Hekmatyar",
-    "deaths": 999,
+    "deaths": "Unknown",
     "arc": ""
   }
     ],
@@ -266,7 +266,7 @@
         "day": "24",
         "outcome": "1",
         "year": "1976",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "Gen. Jorge Rafael Videla"
       },
@@ -532,7 +532,7 @@
         "day": "20",
         "outcome": "2",
         "year": "1996",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "LTG Abu Saleh Mohammed Nasim"
       },
@@ -571,7 +571,7 @@
         "day": "1",
         "outcome": "4",
         "year": "1998",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "opposition parties"
       },
@@ -600,7 +600,7 @@
         "day": "28",
         "outcome": "1",
         "year": "1963",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "Gen. Christophe Soglo"
       },
@@ -630,7 +630,7 @@
         "day": "17",
         "outcome": "1",
         "year": "1967",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Alley"
       },
@@ -640,7 +640,7 @@
         "day": "10",
         "outcome": "1",
         "year": "1969",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Lt.Col. Maurice Kouandete, Lt.Col. Benoit Sinzogan"
       },
@@ -680,7 +680,7 @@
         "day": "22",
         "outcome": "2",
         "year": "1975",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Capt. Janvier Assogba, Dr. Emile Derlin Zinsou, and others"
       },
@@ -690,7 +690,7 @@
         "day": "18",
         "outcome": "4",
         "year": "1975",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Dr. Emile Derlin Zinsou"
       },
@@ -1145,7 +1145,7 @@
         "day": "18",
         "outcome": "1",
         "year": "1988",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gen. Saw Maung"
       },
@@ -1194,7 +1194,7 @@
         "day": "28",
         "outcome": "1",
         "year": "1966",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Capt. Michel Micombero"
       },
@@ -1264,7 +1264,7 @@
         "day": "25",
         "outcome": "2",
         "year": "1994",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Tutsi paratroopers"
       },
@@ -1353,7 +1353,7 @@
         "day": "18",
         "outcome": "1",
         "year": "1970",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Lon Nol"
       },
@@ -1363,7 +1363,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1975",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "not known"
       },
@@ -1373,7 +1373,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1976",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -1383,7 +1383,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1976",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -1393,7 +1393,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1977",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -1403,7 +1403,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1977",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -1423,7 +1423,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1978",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -1532,7 +1532,7 @@
         "day": "17",
         "outcome": "3",
         "year": "2010",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       }
@@ -1600,7 +1600,7 @@
         "day": "20",
         "outcome": "1",
         "year": "1979",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "David Dacko"
       },
@@ -1630,7 +1630,7 @@
         "day": "15",
         "outcome": "2",
         "year": "1996",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified (army mutiny)"
       },
@@ -1670,7 +1670,7 @@
         "day": "26",
         "outcome": "2",
         "year": "2013",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Christian \"anti-Balaka\" militias"
       }
@@ -1709,7 +1709,7 @@
         "day": "26",
         "outcome": "2",
         "year": "1971",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Ahmed Abdallah"
       },
@@ -1719,7 +1719,7 @@
         "day": "13",
         "outcome": "1",
         "year": "1975",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gen. Noel Odingar, Lt. Dimtoloum"
       },
@@ -1749,7 +1749,7 @@
         "day": "7",
         "outcome": "1",
         "year": "1982",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Hissene Habre"
       },
@@ -1759,7 +1759,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1989",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Brahim Itno, Hassan Djamoussi, Idriss Deby"
       },
@@ -1878,7 +1878,7 @@
         "day": "11",
         "outcome": "1",
         "year": "1973",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "leaders of Army, Navy, AF, & National Police; Gen. Pinochet"
       }
@@ -1916,7 +1916,7 @@
         "day": "3",
         "outcome": "1",
         "year": "1975",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "Bob Denard, Said Mohammed Jaffar, Ali Soilih"
       },
@@ -1936,7 +1936,7 @@
         "day": "4",
         "outcome": "2",
         "year": "1977",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -1956,7 +1956,7 @@
         "day": "12",
         "outcome": "1",
         "year": "1978",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Bob Denard, Ahmed Abdallah Abderemane, Said Atthoumani"
       },
@@ -1986,7 +1986,7 @@
         "day": "30",
         "outcome": "2",
         "year": "1987",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "members of Presidential Guard"
       },
@@ -2085,7 +2085,7 @@
         "day": "17",
         "outcome": "2",
         "year": "1968",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unknown"
       },
@@ -2105,7 +2105,7 @@
         "day": "2",
         "outcome": "2",
         "year": "1968",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Capt. Marien Ngouabi, Lt. Poignet"
       },
@@ -2175,7 +2175,7 @@
         "day": "15",
         "outcome": "1",
         "year": "1997",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "former Pres. Sassou-Nguesso"
       },
@@ -2204,7 +2204,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1980",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -2254,7 +2254,7 @@
         "day": "24",
         "outcome": "1",
         "year": "1999",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gen. Robert Guei"
       },
@@ -2313,7 +2313,7 @@
         "day": "15",
         "outcome": "1",
         "year": "1974",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "military coup; Sampson, Clerides"
       }
@@ -2332,7 +2332,7 @@
         "day": "14",
         "outcome": "1",
         "year": "1960",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Pres. Kasavubu"
       },
@@ -2342,7 +2342,7 @@
         "day": "25",
         "outcome": "1",
         "year": "1965",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "Gen. Mobutu"
       },
@@ -2352,7 +2352,7 @@
         "day": "28",
         "outcome": "2",
         "year": "2004",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -2362,7 +2362,7 @@
         "day": "11",
         "outcome": "2",
         "year": "2004",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Maj. Eric Lenge; members of presidential guard"
       },
@@ -2617,7 +2617,7 @@
         "day": "3",
         "outcome": "1",
         "year": "2013",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gen. Abdul-Fattah el-Sisi"
       }
@@ -2725,7 +2725,7 @@
         "day": "19",
         "outcome": "2",
         "year": "1986",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Eugenio Abeso Mondu"
       },
@@ -2755,7 +2755,7 @@
         "day": "11",
         "outcome": "2",
         "year": "2009",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Jose Abeso Nsue; Manuel Ndong Anseme; Alipio Ndong Asumu; Jacinto Micha Obiang"
       }
@@ -2774,7 +2774,7 @@
         "day": "21",
         "outcome": "2",
         "year": "2013",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "c200 mutinous soldiers"
       }
@@ -2803,7 +2803,7 @@
         "day": "12",
         "outcome": "1",
         "year": "1974",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Derg; Andom Banti"
       },
@@ -2823,7 +2823,7 @@
         "day": "3",
         "outcome": "1",
         "year": "1977",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Lt. Col. Mengistu Haile Mariam"
       },
@@ -2892,7 +2892,7 @@
         "day": "1",
         "outcome": "2",
         "year": "2000",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Ratulnoke Takiveikata"
       },
@@ -2931,7 +2931,7 @@
         "day": "18",
         "outcome": "2",
         "year": "1964",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Jean-Hilaire Aubame"
       }
@@ -2980,7 +2980,7 @@
         "day": "27",
         "outcome": "2",
         "year": "1995",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Lts. Sana Sabally & Sadibu Hydara"
       },
@@ -3247,7 +3247,7 @@
         "day": "13",
         "outcome": "2",
         "year": "1967",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "King Constantine"
       },
@@ -3276,7 +3276,7 @@
         "day": "13",
         "outcome": "2",
         "year": "1960",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Marco Antonio Yon Sosa, Luis Augusto Turcios Lima"
       },
@@ -3326,7 +3326,7 @@
         "day": "8",
         "outcome": "1",
         "year": "1983",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "BG Oscar Mejia Victores"
       },
@@ -3395,7 +3395,7 @@
         "day": "16",
         "outcome": "3",
         "year": "1968",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "National Liberation Front"
       },
@@ -3405,7 +3405,7 @@
         "day": "10",
         "outcome": "3",
         "year": "1969",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "M. Foderba Keita and Col. Kaman Diaby"
       },
@@ -3415,7 +3415,7 @@
         "day": "22",
         "outcome": "2",
         "year": "1970",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Guinean exiles in GNB"
       },
@@ -3515,7 +3515,7 @@
         "day": "19",
         "outcome": "2",
         "year": "2011",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Former senior army officers"
       }
@@ -3554,7 +3554,7 @@
         "day": "14",
         "outcome": "1",
         "year": "1980",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Maj. Joao Bernardo Vieira"
       },
@@ -3743,7 +3743,7 @@
         "day": "20",
         "outcome": "2",
         "year": "1968",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "invasion by exile group"
       },
@@ -3773,7 +3773,7 @@
         "day": "17",
         "outcome": "1",
         "year": "1988",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Brig-Gen. Prosper Avril"
       },
@@ -3842,7 +3842,7 @@
         "day": "3",
         "outcome": "1",
         "year": "1963",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Col. Osvaldo Lopez Arellano"
       },
@@ -3862,7 +3862,7 @@
         "day": "22",
         "outcome": "1",
         "year": "1975",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -3940,7 +3940,7 @@
         "day": "12",
         "outcome": "1",
         "year": "1966",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gen. Suharto"
       },
@@ -3969,7 +3969,7 @@
         "day": "16",
         "outcome": "2",
         "year": "1980",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified army officers"
       },
@@ -4088,7 +4088,7 @@
         "day": "16",
         "outcome": "2",
         "year": "1965",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Brig. Aref Abdul Razzak"
       },
@@ -4118,7 +4118,7 @@
         "day": "6",
         "outcome": "2",
         "year": "1968",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gen. Abdul Hadi al Rawi, Gen. Razzak"
       },
@@ -4128,7 +4128,7 @@
         "day": "20",
         "outcome": "3",
         "year": "1970",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Maj.Gen. Abdul Ghani al Rawi"
       },
@@ -4198,7 +4198,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1992",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -4208,7 +4208,7 @@
         "day": "1",
         "outcome": "4",
         "year": "1992",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -4218,7 +4218,7 @@
         "day": "1",
         "outcome": "3",
         "year": "1995",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -4228,7 +4228,7 @@
         "day": "5",
         "outcome": "4",
         "year": "1995",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Maj.Gen.(retd) Wafiq Samaraii"
       },
@@ -4268,7 +4268,7 @@
         "day": "1",
         "outcome": "4",
         "year": "2011",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified Sunni opposition leaders"
       }
@@ -4355,7 +4355,7 @@
         "day": "1",
         "outcome": "4",
         "year": "1972",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Col. Rafei Hindawi"
       }
@@ -4422,7 +4422,7 @@
         "day": "15",
         "outcome": "2",
         "year": "2003",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Adyl Karimov"
       },
@@ -4560,7 +4560,7 @@
         "day": "31",
         "outcome": "2",
         "year": "1961",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Syrian Social Nationalist Party and a few army officers"
       },
@@ -4570,7 +4570,7 @@
         "day": "16",
         "outcome": "2",
         "year": "1976",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Brig. Abdul-Aziz Ahdab, Maj.Gen. Saeed, Lt. Khatib"
       }
@@ -4589,7 +4589,7 @@
         "day": "30",
         "outcome": "1",
         "year": "1970",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "Chief Jonathan"
       },
@@ -4609,7 +4609,7 @@
         "day": "19",
         "outcome": "4",
         "year": "1983",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Charles Molap"
       },
@@ -4818,7 +4818,7 @@
         "day": "7",
         "outcome": "1",
         "year": "1994",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Tom Woewieyu"
       },
@@ -4828,7 +4828,7 @@
         "day": "15",
         "outcome": "2",
         "year": "1994",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Charles Julue"
       },
@@ -4887,7 +4887,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1993",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Maj. Addel Salem Jalloud"
       }
@@ -5043,7 +5043,7 @@
         "day": "19",
         "outcome": "1",
         "year": "1968",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Lt. Moussa Traore"
       },
@@ -5123,7 +5123,7 @@
         "day": "21",
         "outcome": "1",
         "year": "2012",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "Capt. Amadou Haya Sanogo"
       },
@@ -5162,7 +5162,7 @@
         "day": "4",
         "outcome": "1",
         "year": "1980",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "LTC Mohamed Khouna Ould Heydalla"
       },
@@ -5476,7 +5476,7 @@
         "day": "17",
         "outcome": "2",
         "year": "1980",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Jorge Salzar Arguello"
       }
@@ -6284,7 +6284,7 @@
         "day": "12",
         "outcome": "1",
         "year": "1981",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gen. Jaruzelski"
       }
@@ -6507,7 +6507,7 @@
         "day": "21",
         "outcome": "1",
         "year": "1967",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "Brig. David Lansana; National Reformation Council (army officers): Maj. Charles Blake, Lt.Col. Ambrose Patrick Genda, William Leigh, Lt.Col. Andrew Juxon-Smith"
       },
@@ -6517,7 +6517,7 @@
         "day": "18",
         "outcome": "1",
         "year": "1968",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Stevens"
       },
@@ -6567,7 +6567,7 @@
         "day": "30",
         "outcome": "1",
         "year": "1992",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Capt. Valentine Strasser"
       },
@@ -6577,7 +6577,7 @@
         "day": "28",
         "outcome": "2",
         "year": "1992",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -6597,7 +6597,7 @@
         "day": "2",
         "outcome": "2",
         "year": "1995",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -6627,7 +6627,7 @@
         "day": "25",
         "outcome": "1",
         "year": "1997",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Maj. Johnny Paul Koroma"
       }
@@ -6646,7 +6646,7 @@
         "day": "10",
         "outcome": "2",
         "year": "1961",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Hassan Kayd"
       },
@@ -6734,7 +6734,7 @@
         "day": "16",
         "outcome": "1",
         "year": "1961",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "LTG Chang Do Yung (formed cabinet)"
       },
@@ -6832,7 +6832,7 @@
         "day": "13",
         "outcome": "2",
         "year": "1964",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "MG Duong Van Duc"
       },
@@ -6842,7 +6842,7 @@
         "day": "27",
         "outcome": "1",
         "year": "1965",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gen. Nguyen Khanh"
       },
@@ -6852,7 +6852,7 @@
         "day": "19",
         "outcome": "2",
         "year": "1965",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Col. Pham Ngoc Thao"
       },
@@ -6930,7 +6930,7 @@
         "day": "21",
         "outcome": "2",
         "year": "1991",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gennady Yanavev, Valentin Pavlov, Vladimir Kryuchkov, \"Gang of Eight\""
       }
@@ -7027,7 +7027,7 @@
         "day": "28",
         "outcome": "2",
         "year": "1966",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Lt. Khalid Hussein Osman, Col. Gaafar Nimeira, Communist Party"
       },
@@ -7117,7 +7117,7 @@
         "day": "5",
         "outcome": "2",
         "year": "1975",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "military; joined by communist and religious groups"
       },
@@ -7167,7 +7167,7 @@
         "day": "6",
         "outcome": "1",
         "year": "1985",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Gen. Abdel Rahman Swar el Dahab"
       },
@@ -7335,7 +7335,7 @@
         "day": "25",
         "outcome": "1",
         "year": "1980",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "Sgts. Neede, Sital, Abrahams, Horb, Mijnals, Joeman, Bouterse; Lt. Van Rey"
       },
@@ -7503,7 +7503,7 @@
         "day": "28",
         "outcome": "1",
         "year": "1961",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "army; Al-kuzbari"
       },
@@ -7513,7 +7513,7 @@
         "day": "28",
         "outcome": "2",
         "year": "1962",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Brig-Gen Nahalawi, Brig-Gen. Assassa, Brig-Gen. Dahman"
       },
@@ -7553,7 +7553,7 @@
         "day": "1",
         "outcome": "2",
         "year": "1963",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Nasserites"
       },
@@ -7641,7 +7641,7 @@
         "day": "19",
         "outcome": "2",
         "year": "1964",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "unspecified"
       },
@@ -7720,7 +7720,7 @@
         "day": "6",
         "outcome": "1",
         "year": "1976",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "incl. Adm. Sa-ngad, Gen. Kriangsak, Air Chief Marshal Kamol"
       },
@@ -8076,7 +8076,7 @@
         "day": "22",
         "outcome": "2",
         "year": "1962",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "cadets of Ankara War College"
       },
@@ -8106,7 +8106,7 @@
         "day": "10",
         "outcome": "1",
         "year": "1980",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": "1",
         "leader": "Gen. Kenan Evren"
       },
@@ -8194,7 +8194,7 @@
         "day": "9",
         "outcome": "2",
         "year": "1975",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "Lt. Col. Gori"
       },
@@ -8449,7 +8449,7 @@
         "day": "7",
         "outcome": "4",
         "year": "1988",
-        "deaths": "999",
+        "deaths": "Unknown",
         "arc": null,
         "leader": "LTG Christon Tembo"
       },

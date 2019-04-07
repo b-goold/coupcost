@@ -37,121 +37,124 @@ d3.json("js/data/coupdata.json", function(data) {
 	data.forEach(function (d) {
 		for(var i = 0; i < d.coups.length; i++)
 		{
-			//Make full date and convert to timestamp for sorting
-			var date = d.coups[i].year + "/" + d.coups[i].month + "/" + d.coups[i].day;
-			console.log("Date: " + date);
-			var timestamp = new Date(date).getTime();
-			
-			if(1959 < d.coups[i].year && d.coups[i].year < 1970) {
-					d3.select('.tr-1960')
-					.insert('img',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
-					.attr("src", d.flag_url)
-					.attr("class", "flag")
-					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
-					.attr("data-code", d.code)
-					.attr("data-country", d.alpha_country)
-					.attr("data-timestamp", timestamp)
-					.attr("data-month", d.coups[i].month)
-					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
-					.attr("data-day", d.coups[i].day)
-					.attr("data-year", d.coups[i].year)
-					.attr("data-outcome", d.coups[i].outcome)
-					.attr("data-leader", d.coups[i].leader)
-					.attr("data-deaths", d.coups[i].deaths)
-					.attr("data-arc", d.coups[i].arc)
-					//This gives a nice glow border but is very laggy on hover becuase whenever the border moves it must be recalculated (this includes all neighbouring borders that are pushed
-					//Will think of a way to optimise this
-					//.style("filter", "drop-shadow(0 0 3px "  + getBorder(d.coups[i].outcome) + ")")
-			}
-			else if(1969 < d.coups[i].year && d.coups[i].year < 1980) {
-					d3.select('.tr-1970')
-					.insert('img',':nth-child(' + (1 + getNearestDate('tr-1970',timestamp)) + ')')
-					.attr("src", d.flag_url)
-					.attr("class", "flag")
-					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
-					.attr("data-code", d.code)
-					.attr("data-country", d.alpha_country)
-					.attr("data-timestamp", timestamp)
-					.attr("data-month", d.coups[i].month)
-					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
-					.attr("data-day", d.coups[i].day)
-					.attr("data-year", d.coups[i].year)
-					.attr("data-outcome", d.coups[i].outcome)
-					.attr("data-leader", d.coups[i].leader)
-					.attr("data-deaths", d.coups[i].deaths)
-					.attr("data-arc", d.coups[i].arc)
-			}
-			else if(1979 < d.coups[i].year && d.coups[i].year < 1990) {
-					d3.select('.tr-1980')
-					.insert('img',':nth-child(' + (1 + getNearestDate('tr-1980',timestamp)) + ')')
-					.attr("src", d.flag_url)
-					.attr("class", "flag")
-					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
-					.attr("data-code", d.code)
-					.attr("data-country", d.alpha_country)
-					.attr("data-timestamp", timestamp)
-					.attr("data-month", d.coups[i].month)
-					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
-					.attr("data-day", d.coups[i].day)
-					.attr("data-year", d.coups[i].year)
-					.attr("data-outcome", d.coups[i].outcome)
-					.attr("data-leader", d.coups[i].leader)
-					.attr("data-deaths", d.coups[i].deaths)
-					.attr("data-arc", d.coups[i].arc)
-			}
-			else if(1989 < d.coups[i].year && d.coups[i].year < 2000) {
-					d3.select('.tr-1990')
-					.insert('img',':nth-child(' + (1 + getNearestDate('tr-1990',timestamp)) + ')')
-					.attr("src", d.flag_url)
-					.attr("class", "flag")
-					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
-					.attr("data-code", d.code)
-					.attr("data-country", d.alpha_country)
-					.attr("data-timestamp", timestamp)
-					.attr("data-month", d.coups[i].month)
-					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
-					.attr("data-day", d.coups[i].day)
-					.attr("data-year", d.coups[i].year)
-					.attr("data-outcome", d.coups[i].outcome)
-					.attr("data-leader", d.coups[i].leader)
-					.attr("data-deaths", d.coups[i].deaths)
-					.attr("data-arc", d.coups[i].arc)
-			}
-			else if(1999 < d.coups[i].year && d.coups[i].year < 2010) {
-					d3.select('.tr-2000')
-					.insert('img',':nth-child(' + (1 + getNearestDate('tr-2000',timestamp)) + ')')
-					.attr("src", d.flag_url)
-					.attr("class", "flag")
-					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
-					.attr("data-code", d.code)
-					.attr("data-country", d.alpha_country)
-					.attr("data-timestamp", timestamp)
-					.attr("data-month", d.coups[i].month)
-					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
-					.attr("data-day", d.coups[i].day)
-					.attr("data-year", d.coups[i].year)
-					.attr("data-outcome", d.coups[i].outcome)
-					.attr("data-leader", d.coups[i].leader)
-					.attr("data-deaths", d.coups[i].deaths)
-					.attr("data-arc", d.coups[i].arc)
-			}
-			else if(2009 < d.coups[i].year && d.coups[i].year < 2020) {
-					d3.select('.tr-2010')
-					.insert('img',':nth-child(' + (1 + getNearestDate('tr-2010',timestamp)) + ')')
-					.attr("src", d.flag_url)
-					.attr("class", "flag")
-					.attr("alt", d.alpha_country + ", " + d.coups[i].year)
-					.attr("data-code", d.code)
-					.attr("data-country", d.alpha_country)
-					.attr("data-timestamp", timestamp)
-					.attr("data-month", d.coups[i].month)
-					.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
-					.attr("data-day", d.coups[i].day)
-					.attr("data-year", d.coups[i].year)
-					.attr("data-outcome", d.coups[i].outcome)
-					.attr("data-leader", d.coups[i].leader)
-					.attr("data-deaths", d.coups[i].deaths)
-					.attr("data-arc", d.coups[i].arc)
+			//If coup is success or failure (ie; *not* just planned*)
+			if (d.coups[i].outcome == "1" || d.coups[i].outcome == "2") {
+				//Make full date and convert to timestamp for sorting
+				var date = d.coups[i].year + "/" + d.coups[i].month + "/" + d.coups[i].day;
+				console.log("Date: " + date);
+				var timestamp = new Date(date).getTime();
+				
+				if(1959 < d.coups[i].year && d.coups[i].year < 1970) {
+						d3.select('.tr-1960')
+						.insert('img',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.attr("src", d.flag_url)
+						.attr("class", "flag")
+						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+						.attr("data-code", d.code)
+						.attr("data-country", d.alpha_country)
+						.attr("data-timestamp", timestamp)
+						.attr("data-month", d.coups[i].month)
+						.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
+						.attr("data-day", d.coups[i].day)
+						.attr("data-year", d.coups[i].year)
+						.attr("data-outcome", d.coups[i].outcome)
+						.attr("data-leader", d.coups[i].leader)
+						.attr("data-deaths", d.coups[i].deaths)
+						.attr("data-arc", d.coups[i].arc)
+						//This gives a nice glow border but is very laggy on hover becuase whenever the border moves it must be recalculated (this includes all neighbouring borders that are pushed
+						//Will think of a way to optimise this
+						//.style("filter", "drop-shadow(0 0 8px "  + getBorder(d.coups[i].outcome) + ") ")
+				}
+				else if(1969 < d.coups[i].year && d.coups[i].year < 1980) {
+						d3.select('.tr-1970')
+						.insert('img',':nth-child(' + (1 + getNearestDate('tr-1970',timestamp)) + ')')
+						.attr("src", d.flag_url)
+						.attr("class", "flag")
+						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+						.attr("data-code", d.code)
+						.attr("data-country", d.alpha_country)
+						.attr("data-timestamp", timestamp)
+						.attr("data-month", d.coups[i].month)
+						.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
+						.attr("data-day", d.coups[i].day)
+						.attr("data-year", d.coups[i].year)
+						.attr("data-outcome", d.coups[i].outcome)
+						.attr("data-leader", d.coups[i].leader)
+						.attr("data-deaths", d.coups[i].deaths)
+						.attr("data-arc", d.coups[i].arc)
+				}
+				else if(1979 < d.coups[i].year && d.coups[i].year < 1990) {
+						d3.select('.tr-1980')
+						.insert('img',':nth-child(' + (1 + getNearestDate('tr-1980',timestamp)) + ')')
+						.attr("src", d.flag_url)
+						.attr("class", "flag")
+						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+						.attr("data-code", d.code)
+						.attr("data-country", d.alpha_country)
+						.attr("data-timestamp", timestamp)
+						.attr("data-month", d.coups[i].month)
+						.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
+						.attr("data-day", d.coups[i].day)
+						.attr("data-year", d.coups[i].year)
+						.attr("data-outcome", d.coups[i].outcome)
+						.attr("data-leader", d.coups[i].leader)
+						.attr("data-deaths", d.coups[i].deaths)
+						.attr("data-arc", d.coups[i].arc)
+				}
+				else if(1989 < d.coups[i].year && d.coups[i].year < 2000) {
+						d3.select('.tr-1990')
+						.insert('img',':nth-child(' + (1 + getNearestDate('tr-1990',timestamp)) + ')')
+						.attr("src", d.flag_url)
+						.attr("class", "flag")
+						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+						.attr("data-code", d.code)
+						.attr("data-country", d.alpha_country)
+						.attr("data-timestamp", timestamp)
+						.attr("data-month", d.coups[i].month)
+						.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
+						.attr("data-day", d.coups[i].day)
+						.attr("data-year", d.coups[i].year)
+						.attr("data-outcome", d.coups[i].outcome)
+						.attr("data-leader", d.coups[i].leader)
+						.attr("data-deaths", d.coups[i].deaths)
+						.attr("data-arc", d.coups[i].arc)
+				}
+				else if(1999 < d.coups[i].year && d.coups[i].year < 2010) {
+						d3.select('.tr-2000')
+						.insert('img',':nth-child(' + (1 + getNearestDate('tr-2000',timestamp)) + ')')
+						.attr("src", d.flag_url)
+						.attr("class", "flag")
+						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+						.attr("data-code", d.code)
+						.attr("data-country", d.alpha_country)
+						.attr("data-timestamp", timestamp)
+						.attr("data-month", d.coups[i].month)
+						.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
+						.attr("data-day", d.coups[i].day)
+						.attr("data-year", d.coups[i].year)
+						.attr("data-outcome", d.coups[i].outcome)
+						.attr("data-leader", d.coups[i].leader)
+						.attr("data-deaths", d.coups[i].deaths)
+						.attr("data-arc", d.coups[i].arc)
+				}
+				else if(2009 < d.coups[i].year && d.coups[i].year < 2020) {
+						d3.select('.tr-2010')
+						.insert('img',':nth-child(' + (1 + getNearestDate('tr-2010',timestamp)) + ')')
+						.attr("src", d.flag_url)
+						.attr("class", "flag")
+						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
+						.attr("data-code", d.code)
+						.attr("data-country", d.alpha_country)
+						.attr("data-timestamp", timestamp)
+						.attr("data-month", d.coups[i].month)
+						.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
+						.attr("data-day", d.coups[i].day)
+						.attr("data-year", d.coups[i].year)
+						.attr("data-outcome", d.coups[i].outcome)
+						.attr("data-leader", d.coups[i].leader)
+						.attr("data-deaths", d.coups[i].deaths)
+						.attr("data-arc", d.coups[i].arc)
+				}
 			}
 		}
 	});
@@ -208,7 +211,7 @@ d3.json("js/data/coupdata.json", function(data) {
 			colour = "red"
 			break;
 		
-		//Plotted
+/* 		//Plotted
 		case "3":
 			colour = "blue"
 			break;
@@ -216,16 +219,16 @@ d3.json("js/data/coupdata.json", function(data) {
 		//Alleged
 		case "4":
 			colour = "yellow"
-			break;
+			break; */
 		}
 		return colour
 	}
 	
 	function drawGraph(countryCode, coupDate) {
 		// set the dimensions and margins of the graph
-		var margin = {top: 20, right: 20, bottom: 30, left: 100},
-			width = 980 - margin.left - margin.right,
-			height = 500 - margin.top - margin.bottom;
+		var margin = {top: 20, right: 20, bottom: 50, left: 100},
+			width = 1200 - margin.left - margin.right,
+			height = 480 - margin.top - margin.bottom;
 
 		// parse the date / time
 		var parseTime = d3.timeParse("%Y");
@@ -265,6 +268,7 @@ d3.json("js/data/coupdata.json", function(data) {
 				.style("height", infoBarHeight + "px" )
 				.style("width", ( width + margin.left + margin.right ) + "px" )
 				.style("margin","-" + (height + margin.top + margin.bottom + infoBarHeight) / 2 + "px auto 0")
+				.style("paddingBottom", "20px")
 				.style("display","block")
 				.style("visibility","visible");
 			
@@ -316,8 +320,10 @@ d3.json("js/data/coupdata.json", function(data) {
 				});
 
 			// Scale the range of the data
+			var ymin = d3.min(dataset, function(d) {return d.value; }),
+				ymax = d3.max(dataset, function(d) {return d.value; });
 			x.domain(d3.extent(dataset, function(d) {return d.year; }));
-			y.domain([0, d3.max(dataset, function(d) {return d.value; })]);
+			y.domain([ymin - (Math.abs(ymin * 0.1)), ymax + (Math.abs(ymax * 0.1))]);
 			
 			//#TODO (maybe): Implement function to set appropriate range min and units within a certain window of time around the coup
 			
@@ -366,18 +372,37 @@ d3.json("js/data/coupdata.json", function(data) {
 				.attr("class","graphcontent")
 				.attr("transform", "translate(0," + height + ")")
 				.call(d3.axisBottom(x));
+			
+			//Add the X Axis label
+			svg.append("text")
+				.attr("transform", "translate(" + (width/2) + ","
+						+ (height + margin.top + 20) + ")")
+				.style("text-anchor", "middle")
+				.style("color","black")
+				.text("Year");
 
 			// Add the Y Axis
 			svg.append("g")
 				.attr("class","graphcontent")
 				.call(d3.axisLeft(y));
-
+				
+			// Add the Y Axis label
+			svg.append("text")
+				.attr("class","graphcontent")
+		      .attr("transform", "rotate(-90)")
+			  .attr("y", 0 - margin.left)
+			  .attr("x",0 - (height / 2))
+			  .attr("dy", "1em")
+			  .style("fontSize","10px")
+			  .style("text-anchor", "middle")
+			  .text(selector.options[selector.selectedIndex].dataset.label);      
 			});
 		}
 	}
 	
 	// Apply hover functionality
 	d3.selectAll('.flag')
+	.style("margin","10px")
 	.on('mouseover', function(d) {
 		d3.select(this)
 		.transition()
@@ -412,6 +437,23 @@ d3.json("js/data/coupdata.json", function(data) {
 			
 		d3.select("#date")
 			.text(this.dataset.day + "-" + this.dataset.monthstring + "-" + this.dataset.year);
+			
+		d3.select("#leader")
+			.text(this.dataset.leader);
+			
+		d3.select("#deaths")
+			.text(this.dataset.deaths);
+		
+		if(this.dataset.outcome == "1")
+			d3.select("#outcome").text("Yes");
+		else
+			d3.select("#outcome").text("No");
+			
+
+		if(this.dataset.arc == "1")
+			d3.select("#arc").text("Yes");
+		else
+			d3.select("#arc").text("No");
 		
 		d3.select('.infoBox')
 		.style("top",(d3.event.pageY-20)+"px")
