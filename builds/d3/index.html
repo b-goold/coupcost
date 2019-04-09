@@ -23,6 +23,18 @@
 	  background-color: rgba(0,0,0,0.5);
 	  z-index: 2;
 	}
+	
+	.infoBox {
+		position: absolute;
+		z-index: 20;
+		padding: 10px 10px;
+		background: rgba(0,0,0,1);
+		color: white;
+		visibility: hidden;
+	}
+	.infoBox-child {
+		display: inline-block;
+	}
 
 	#infoBar {
     position: absolute;
@@ -41,6 +53,7 @@
 	display: inline-block;
 	}
 	.infoBar-text {
+	display: inline-block;
 	margin: 0 40px 0 5px;
 	}
 
@@ -64,15 +77,15 @@
     <div class="container">
 		<div id="overlay">
 			<div id="infoBar" class="noProp">
-				<h2 id="country" style="float: left; padding-right: 40px;"></h2>
+				<h2 class="country" style="float: left; padding-right: 40px;"></h2>
 				<div class="infoBar-line">
-					<a class="infoBar-child"><b>Date:</b></a><a class="infoBar-text" id="date"></a>
-					<a class="infoBar-child"><b>Lead by:</b></a><a class="infoBar-text" id="leader"></a>
+					<b>Date:</b><p class="infoBar-text date"></p>
+					<b>Lead by:</b><p class="infoBar-text leader"></p>
 				</div>
 				<div class="infoBar-line" style="padding-bottom: 5px;">
-					<a class="infoBar-child"><b>Deaths:</b></a><a class="infoBar-text" id="deaths"></a>
-					<a class="infoBar-child"><b>Successful coup?</b></a><a class="infoBar-text" id="outcome"></a>
-					<a class="infoBar-child"><b>Adverse Regime Change?</b></a><a class="infoBar-text" id="arc"></a>
+					<b>Deaths:</b><p class="infoBar-text deaths"></p>
+					<b>Successful coup?</b><p class="infoBar-text outcome"></p>
+					<b>Adverse Regime Change?</b><p class="infoBar-text arc"></p>
 				</div>
 				<div>
 				<h4 style="float: left; padding-right: 20px;">View Data:</h4><select id="selector" style="transform: translateY(25%);">
@@ -130,6 +143,25 @@
       </table>
 
       <div id="viz"></div>
+	  <div class="infoBox">
+		<h5 class="country"></h5>
+		<div>
+			<b>Date: </b><p class="infoBar-child date"></p>
+		</div>
+		<div>
+			<b>Lead by: </b><p class="infoBar-child leader"></p>
+		</div>
+		<div>
+			<b>Deaths: </b><p class="infoBar-child deaths"></p>
+		</div>
+		<div>
+			<b>Successful coup? </b><p class="infoBar-child outcome"></p>
+		</div>
+		<div>
+			<b>Adverse Regime Change? </b<p class="arc"></p>
+		</div>
+		<button class="dataButton">Explore data</button>
+		</div>
 
     </div>
 

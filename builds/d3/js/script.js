@@ -7,7 +7,7 @@ var flag_tooltip = d3.select('.container')
 	.style("color","white")	
 	.style("visibility","hidden");
 	
-var flag_infobox = d3.select('.container')
+/*  var flag_infobox = d3.select('.container')
 .append('div')
 .attr("class","infoBox")
 .style("position", "absolute")
@@ -20,7 +20,7 @@ var flag_infobox = d3.select('.container')
 .append('button')
 .attr("class","dataButton")
 .text("Explore Data");
-
+  */
 //Var used to store selected country code and coup date
 var selectedCode;
 var coupDate;
@@ -432,28 +432,28 @@ d3.json("js/data/coupdata.json", function(data) {
 		selectedDate = new Date(this.dataset.year + "/" + this.dataset.month + "/" + this.dataset.day);
 		
 		//Populate infoBar fields
-		d3.select("#country")
+		d3.selectAll(".country")
 			.text(this.dataset.country);
 			
-		d3.select("#date")
+		d3.selectAll(".date")
 			.text(this.dataset.day + "-" + this.dataset.monthstring + "-" + this.dataset.year);
 			
-		d3.select("#leader")
+		d3.selectAll(".leader")
 			.text(this.dataset.leader);
 			
-		d3.select("#deaths")
+		d3.selectAll(".deaths")
 			.text(this.dataset.deaths);
 		
 		if(this.dataset.outcome == "1")
-			d3.select("#outcome").text("Yes");
+			d3.selectAll(".outcome").text("Yes");
 		else
-			d3.select("#outcome").text("No");
+			d3.selectAll(".outcome").text("No");
 			
 
 		if(this.dataset.arc == "1")
-			d3.select("#arc").text("Yes");
+			d3.selectAll(".arc").text("Yes");
 		else
-			d3.select("#arc").text("No");
+			d3.selectAll(".arc").text("No");
 		
 		d3.select('.infoBox')
 		.style("top",(d3.event.pageY-20)+"px")
