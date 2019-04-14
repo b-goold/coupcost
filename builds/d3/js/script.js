@@ -49,7 +49,7 @@ d3.json("js/data/coupdata.json", function(data) {
 						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
 						.attr("class", "flagBorder")
 						.attr("data-timestamp", timestamp)
-						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome, d.coups[i].arc))
 						.style("display", "inline-block")
 						.style("width", "63px")
 						.style("height", "45px")
@@ -70,16 +70,13 @@ d3.json("js/data/coupdata.json", function(data) {
 						.attr("data-leader", d.coups[i].leader)
 						.attr("data-deaths", d.coups[i].deaths)
 						.attr("data-arc", d.coups[i].arc)
-						//This gives a nice glow border but is very laggy on hover becuase whenever the border moves it must be recalculated (this includes all neighbouring borders that are pushed
-						//Will think of a way to optimise this
-						//.style("filter", "drop-shadow(0 0 8px "  + getBorder(d.coups[i].outcome) + ") ")
 				}
 				else if(1969 < d.coups[i].year && d.coups[i].year < 1980) {
 						d3.select('.tr-1970')
-						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1970',timestamp)) + ')')
 						.attr("class", "flagBorder")
 						.attr("data-timestamp", timestamp)
-						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome, d.coups[i].arc))
 						.style("display", "inline-block")
 						.style("width", "63px")
 						.style("height", "45px")
@@ -104,10 +101,10 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 				else if(1979 < d.coups[i].year && d.coups[i].year < 1990) {
 						d3.select('.tr-1980')
-						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1980',timestamp)) + ')')
 						.attr("class", "flagBorder")
 						.attr("data-timestamp", timestamp)
-						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome, d.coups[i].arc))
 						.style("display", "inline-block")
 						.style("width", "63px")
 						.style("height", "45px")
@@ -132,10 +129,10 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 				else if(1989 < d.coups[i].year && d.coups[i].year < 2000) {
 						d3.select('.tr-1990')
-						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1990',timestamp)) + ')')
 						.attr("class", "flagBorder")
 						.attr("data-timestamp", timestamp)
-						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome, d.coups[i].arc))
 						.style("display", "inline-block")
 						.style("width", "63px")
 						.style("height", "45px")
@@ -160,10 +157,10 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 				else if(1999 < d.coups[i].year && d.coups[i].year < 2010) {
 						d3.select('.tr-2000')
-						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-2000',timestamp)) + ')')
 						.attr("class", "flagBorder")
 						.attr("data-timestamp", timestamp)
-						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome, d.coups[i].arc))
 						.style("display", "inline-block")
 						.style("width", "63px")
 						.style("height", "45px")
@@ -188,10 +185,10 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 				else if(2009 < d.coups[i].year && d.coups[i].year < 2020) {
 						d3.select('.tr-2010')
-						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-2010',timestamp)) + ')')
 						.attr("class", "flagBorder")
 						.attr("data-timestamp", timestamp)
-						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome, d.coups[i].arc))
 						.style("display", "inline-block")
 						.style("width", "63px")
 						.style("height", "45px")
@@ -217,8 +214,8 @@ d3.json("js/data/coupdata.json", function(data) {
 			}
 		}
 	})
-	d3.selectAll('.flag')
-	.style("opacity", "0.6");
+	//d3.selectAll('.flag')
+	//.style("opacity", "0.6");
 
 	;
 	
@@ -259,18 +256,23 @@ d3.json("js/data/coupdata.json", function(data) {
 	};
 	
 	//Determine what colour flag border based on outcome
-	function getBorder (outcome) {
+	function getBorder (outcome, arc) {
 		var colour;
+		
+		if(arc == 1) {
+			colour = "orange"
+			return colour
+		}
 		
 		switch(outcome) {
 		
 		//Succesful
-		case "1":
+		case 1:
 			colour = "green"
 			break;
 		
 		//Failed
-		case "2":
+		case 2:
 			colour = "red"
 			break;
 		
@@ -323,7 +325,12 @@ d3.json("js/data/coupdata.json", function(data) {
 			//append group to contain graph
 			.append("g")
 			.attr("transform",
-			"translate(" + margin.left + "," + margin.top + ")");
+			"translate(" + margin.left + "," + margin.top + ")")
+			
+			//append tooltip div
+		var datatip = d3.select("body").append("div")
+			.attr("class", "datatip")
+			.style("opacity","0");
 			
 			//append box containing info + data selector
 			var infoBarHeight = 100;
@@ -429,6 +436,37 @@ d3.json("js/data/coupdata.json", function(data) {
 				.style("stroke-width", 3)
 				.style("stroke", "red")
 				.style("fill", "none");
+				
+			svg.append("text")
+				.attr("class","couplabel")
+				//figure out how to get rotation working
+				.text("COUP")
+				.attr("x", x(coupDate) + 10)
+				.attr("y", height - 10);
+
+			//Add the dots for the datapoints
+			svg.selectAll("dot")
+			.data(dataset.filter(function(d) { return d != 0; }))
+			.enter().append("circle")
+				.attr("class","graphcontent")
+				.attr("r", 5)
+				.attr("cx", valueline.x())
+				.attr("cy", valueline.y())
+				.on("mouseover", function(d) {
+					d3.select(".datatip")
+						.style("left", (d3.event.pageX) + "px")		
+						.style("top", (d3.event.pageY - 28) + "px")
+						.transition()
+						.duration(200)
+						.text(d.value)
+						.style("opacity", 0.8);
+				})
+				.on("mouseout", function(d) {		
+					d3.select(".datatip")
+						.transition()		
+						.duration(200)		
+						.style("opacity", 0);	
+				});
 
 			// Add the X Axis
 			svg.append("g")
@@ -488,9 +526,9 @@ d3.json("js/data/coupdata.json", function(data) {
 	.on('mouseover', function(d) {
 		d3.select(this)
 		.attr("class", "flagSelected")
-		.transition()
-		.duration(300)
-		.style("opacity", "1")
+		//.transition()
+		//.duration(300)
+		//.style("opacity", "1")
 	
 		d3.selectAll('.flag')
 		.transition()
@@ -510,9 +548,11 @@ d3.json("js/data/coupdata.json", function(data) {
 	.on('mouseout', function(d) {
 		d3.select(this)
 		.attr("class", "flag")
+		
+		d3.selectAll(".flag")
 		.transition()
 		.duration(300)
-		.style("opacity", "0.6")
+		.style("opacity", "1")
 		
 		//d3.selectAll(".flag")
 		//.transition()
@@ -540,13 +580,13 @@ d3.json("js/data/coupdata.json", function(data) {
 		d3.selectAll(".deaths")
 			.text(this.dataset.deaths);
 		
-		if(this.dataset.outcome == "1")
+		if(this.dataset.outcome == 1)
 			d3.selectAll(".outcome").text("Yes");
 		else
 			d3.selectAll(".outcome").text("No");
 			
 
-		if(this.dataset.arc == "1")
+		if(this.dataset.arc == 1)
 			d3.selectAll(".arc").text("Yes");
 		else
 			d3.selectAll(".arc").text("No");
