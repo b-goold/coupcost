@@ -34,7 +34,7 @@
   },
   {
     "month": 12,
-    "day": "",
+    "day": 0,
     "year": 1973,
     "outcome": 2,
     "leader": "not specified",
@@ -79,7 +79,7 @@
   },
   {
     "month": 1,
-    "day": "",
+    "day": 0,
     "year": 1987,
     "outcome": 4,
     "leader": "supporters of Karmal",
@@ -88,7 +88,7 @@
   },
   {
     "month": 3,
-    "day": "",
+    "day": 0,
     "year": 1990,
     "outcome": 2,
     "leader": "LTG Shahnawaz Tanay",

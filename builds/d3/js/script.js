@@ -46,13 +46,22 @@ d3.json("js/data/coupdata.json", function(data) {
 				
 				if(1959 < d.coups[i].year && d.coups[i].year < 1970) {
 						d3.select('.tr-1960')
-						.insert('img',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.attr("class", "flagBorder")
+						.attr("data-timestamp", timestamp)
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("display", "inline-block")
+						.style("width", "63px")
+						.style("height", "45px")
+						.style("overflow", "hidden")
+						
+						.append('img')
+						.style("transform", "translate(-2px, -12px)")
 						.attr("src", d.flag_url)
 						.attr("class", "flag")
 						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
 						.attr("data-code", d.code)
 						.attr("data-country", d.alpha_country)
-						.attr("data-timestamp", timestamp)
 						.attr("data-month", d.coups[i].month)
 						.attr("data-monthString", new Date(date).toLocaleString('en-US', {month : 'short'}))
 						.attr("data-day", d.coups[i].day)
@@ -67,7 +76,17 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 				else if(1969 < d.coups[i].year && d.coups[i].year < 1980) {
 						d3.select('.tr-1970')
-						.insert('img',':nth-child(' + (1 + getNearestDate('tr-1970',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.attr("class", "flagBorder")
+						.attr("data-timestamp", timestamp)
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("display", "inline-block")
+						.style("width", "63px")
+						.style("height", "45px")
+						.style("overflow", "hidden")
+
+						.append('img')
+						.style("transform", "translate(-2px, -12px)")
 						.attr("src", d.flag_url)
 						.attr("class", "flag")
 						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
@@ -85,7 +104,17 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 				else if(1979 < d.coups[i].year && d.coups[i].year < 1990) {
 						d3.select('.tr-1980')
-						.insert('img',':nth-child(' + (1 + getNearestDate('tr-1980',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.attr("class", "flagBorder")
+						.attr("data-timestamp", timestamp)
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("display", "inline-block")
+						.style("width", "63px")
+						.style("height", "45px")
+						.style("overflow", "hidden")
+
+						.append('img')
+						.style("transform", "translate(-2px, -12px)")
 						.attr("src", d.flag_url)
 						.attr("class", "flag")
 						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
@@ -103,7 +132,17 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 				else if(1989 < d.coups[i].year && d.coups[i].year < 2000) {
 						d3.select('.tr-1990')
-						.insert('img',':nth-child(' + (1 + getNearestDate('tr-1990',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.attr("class", "flagBorder")
+						.attr("data-timestamp", timestamp)
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("display", "inline-block")
+						.style("width", "63px")
+						.style("height", "45px")
+						.style("overflow", "hidden")
+						
+						.append('img')
+						.style("transform", "translate(-2px, -12px)")
 						.attr("src", d.flag_url)
 						.attr("class", "flag")
 						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
@@ -121,7 +160,17 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 				else if(1999 < d.coups[i].year && d.coups[i].year < 2010) {
 						d3.select('.tr-2000')
-						.insert('img',':nth-child(' + (1 + getNearestDate('tr-2000',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.attr("class", "flagBorder")
+						.attr("data-timestamp", timestamp)
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("display", "inline-block")
+						.style("width", "63px")
+						.style("height", "45px")
+						.style("overflow", "hidden")
+
+						.append('img')
+						.style("transform", "translate(-2px, -12px)")
 						.attr("src", d.flag_url)
 						.attr("class", "flag")
 						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
@@ -139,7 +188,17 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 				else if(2009 < d.coups[i].year && d.coups[i].year < 2020) {
 						d3.select('.tr-2010')
-						.insert('img',':nth-child(' + (1 + getNearestDate('tr-2010',timestamp)) + ')')
+						.insert('div',':nth-child(' + (1 + getNearestDate('tr-1960',timestamp)) + ')')
+						.attr("class", "flagBorder")
+						.attr("data-timestamp", timestamp)
+						.style("border", "3px solid " + getBorder(d.coups[i].outcome))
+						.style("display", "inline-block")
+						.style("width", "63px")
+						.style("height", "45px")
+						.style("overflow", "hidden")
+
+						.append('img')
+						.style("transform", "translate(-2px, -12px)")
 						.attr("src", d.flag_url)
 						.attr("class", "flag")
 						.attr("alt", d.alpha_country + ", " + d.coups[i].year)
@@ -157,7 +216,11 @@ d3.json("js/data/coupdata.json", function(data) {
 				}
 			}
 		}
-	});
+	})
+	d3.selectAll('.flag')
+	.style("opacity", "0.6");
+
+	;
 	
 	//Find nearest date in decade
 	function getNearestDate (tableRow,inputDate) {
@@ -401,15 +464,41 @@ d3.json("js/data/coupdata.json", function(data) {
 	}
 	
 	// Apply hover functionality
-	d3.selectAll('.flag')
+	d3.selectAll('.flagBorder')
 	.style("margin","10px")
-	.on('mouseover', function(d) {
+/* 	.on('mouseover', function(d) {
 		d3.select(this)
 		.transition()
 		.duration(300)
 
-		.style('height','80px')
 		.style('width','80px')
+		.style('height','53px')
+	})
+	.on('mouseout', function(d) {
+		d3.select(this)
+		.transition()
+		.duration(300)
+		.style('width','60px')
+		.style('height','40px')
+	})
+ */
+	
+	d3.selectAll('.flag')
+	//.style("margin","10px")
+	.on('mouseover', function(d) {
+		d3.select(this)
+		.attr("class", "flagSelected")
+		.transition()
+		.duration(300)
+		.style("opacity", "1")
+	
+		d3.selectAll('.flag')
+		.transition()
+		.duration(300)
+		.style("opacity", "0.6")
+
+//		.style('width','80px')
+//		.style('height','80px')
 		
 		flag_tooltip.style("visibility","visible")
 		.text(this.alt)
@@ -420,10 +509,17 @@ d3.json("js/data/coupdata.json", function(data) {
 	})
 	.on('mouseout', function(d) {
 		d3.select(this)
+		.attr("class", "flag")
 		.transition()
 		.duration(300)
-		.style('height','64px')
-		.style('width','64px')
+		.style("opacity", "0.6")
+		
+		//d3.selectAll(".flag")
+		//.transition()
+		//.duration(300)
+		
+		//.style('width','60px')
+		//.style('height','60px')
 		
 		flag_tooltip.style("visibility","hidden")
 	})
