@@ -379,7 +379,7 @@ d3.json("js/data/coupdata.json", function(data) {
 						
 			//Define line			
 			var valueline = d3.line()
-				.defined(function(d) {return d.value != 0; })	//ensures only non-zero results are displayed
+				.defined(function(d) {return d.value; })	//ensures only non-null results are displayed
 				.x(function(d) { return x(d.year); })
 				.y(function(d) { return y(d.value); });
 			
@@ -438,15 +438,15 @@ d3.json("js/data/coupdata.json", function(data) {
 				.style("fill", "none");
 				
 			svg.append("text")
-				.attr("class","couplabel")
-				//figure out how to get rotation working
-				.text("COUP")
-				.attr("x", x(coupDate) + 10)
-				.attr("y", height - 10);
+				.attr("class","couplabel graphcontent")
+				.text("DATE OF COUP")
+				.attr("transform", "translate(" + (x(coupDate) + 20) + "," + (height - 10) + ") rotate(-90)")
+				.style("fill","red")
+				.style("font-weight","bold");
 
 			//Add the dots for the datapoints
 			svg.selectAll("dot")
-			.data(dataset.filter(function(d) { return d != 0; }))
+			.data(dataset.filter(function(d) { return d.value; }))	//ignores null values
 			.enter().append("circle")
 				.attr("class","graphcontent")
 				.attr("r", 5)
